@@ -6,168 +6,249 @@
 ## 1. Media Planning & Buying
 
 ### Media
-A medium/channel through which advertisers reach and communicate with customers.
+A medium or channel through which advertisers talk and communicate with customers.
 
 ### Media Planning
-The strategic process of determining **where, when and how** an advertisement should be shown to reach a target audience effectively.
+A strategic process of determining **where, when and how** an advertisement should be shown to reach a target audience effectively.
 
-### Media Platforms + Creative
-Media platforms and creative should complement each other.
+### Media Platform + Creative
+Media platforms and the creative should complement each other.
 
-**Creativity + Numbers**
+> **Creativity + Numbers**
 
-## 2. Objective
+### Objective
+- Maximize **Return on Investment (ROI)** before the actual ad space is purchased.
+- ROI is not necessarily the final purchase.
+- It can be based on objectives such as **views, visits, engagement, etc.**
+- The end goal may be to push towards sales.
 
-Maximize **return on investment (ROI)** before the actual ad space is purchased.
+---
 
-ROI is not necessarily the final purchase. It can be based on objectives such as views, visits, engagement, etc. The end goal may be to push toward sales.
+# 2. Media Strategy
 
-## 3. Parts of a Media Strategy
+The lecture identifies **three parts of a Media Strategy**:
 
-### Objectives
-Quantitative examples:
+1. **Objectives**
+2. **Audience**
+3. **Media Mix**
+
+## 2.1 Objectives
+
+### Quantitative
 - Reach
 - Sales
 - Impressions
 - Frequency
 
-Qualitative considerations:
+### Qualitative
 - Awareness
 - Consideration
 - Sales
 - Sentiment
 
-### Campaign-specific objectives
-- Launch — new
-- Market penetration — increase sales
-- Market expansion — saturated market
+### Campaign-Specific Objectives
+- **Launch** — new
+- **Market Penetration** — increase sales
+- **Market Expansion** — saturated market
 
-## 4. Reach, Impressions & Frequency
+---
 
-**Reach:** Number of unique people reached.
-
-**Impressions:** Number of times content/ad is shown.
-
-**Frequency:** Average number of times a person saw the content.
-
-**Frequency = Impressions ÷ Reach**
-
-## 5. Audience
+## 2.2 Audience
 
 ### Target Audience
-People the brand needs to reach — prospective customers and people who will benefit from the brand.
+The people the brand needs to talk to. This can include prospects, customers and well-wishers of the brand.
 
 ### Segments
-Target groups based on characteristics such as age, demographics and gender.
+Target groups based on specific characteristics such as:
+- Age
+- Demographics
+- Gender
 
 ### Personas
-Realistic, representative fictional profiles of a segment.
+Realistic but fictional representative profiles of a segment.
 
-## 6. Persona Example — Hairstylist
+---
 
-### Demographics
-- Age: 27
-- Gender: Female
-- Location: South Bombay
-- Qualification: Aesthetic cosmetologist
-- Relationship status: Relationship
+# 3. Class Activity — Creating a Buyer Persona
+
+The class created a buyer persona around a **hairstylist**.
+
+### Persona Profile
+
+- **Age:** 27
+- **Gender:** Female
+- **Location:** South Bombay
+- **Qualification:** Aesthetic Cosmetologist
+- **Relationship/Marital Status:** Relationship
 
 ### Psychographics
-- Interests
-- Attitude
-- Books
-- Hobbies
-- Adventure
-- Travel
-- Beliefs
-- Behaviour
-- Passion
-- Personality
+
+**Interests:** Celebrity, makeup, books
+
+**Hobbies:** Books/reading, adventure, travel
+
+**Beliefs:** Discussed as part of the persona exercise
+
+**Behaviour/Personality:** Enthusiastic, passionate, friendly
 
 ### Goals
-- Personal goals
-- Professional: Top 10 in India
-- Short-term: Famous
-- Long-term: Own a brand
+
+- **Personal:** Personal goals
+- **Professional:** Top 10 in India
+- **Short-term:** Become famous
+- **Long-term:** Own a brand
 
 ### Challenge
-- Personal: Money
+- **Personal:** Money
 
 ### Product Problem
-A product that works for all.
+A product that works for everyone.
 
 ### How Can the Brand Help?
 - Product
 - Collaboration
 
 ### Media Habits
-- 3 hours/day
-- Platforms noted: IG, YT, FB, X, Medium
-- Visits: 3–4 times/day
+- **Time:** 3 hours/day
+- **Platforms:** Instagram, YouTube, Facebook, X, Medium
+- **Visits:** Multiple times/day, as recorded in the activity
 
 ### Physical Description
 - Dusky skin
 - Curly hair
 - Soft curly appearance
 
-## 7. Media Mix
+### Persona Activity Insight
+The activity also used a motivational statement about fighting for the right place and respect and not letting others decide your worth, as part of understanding the persona's mindset.
 
-A combination of communication platforms and ad channels used to target customers and achieve goals.
+---
 
-- **Channel:** Broad route to reach people, e.g. social media.
-- **Platform:** Company ecosystem used, e.g. Meta.
-- **Media Vehicle:** Specific platform/place where the ad reaches people.
-- **Content Format:** Creative format, e.g. video ad.
+# 4. Reach, Impressions & Frequency
 
-## 8. Earned, Owned & Paid Media
+### Reach
+Number of **unique people** reached.
+
+### Impressions
+Number of **times** the content/ad is shown.
+
+### Frequency
+Average number of times a person saw the content.
+
+**Frequency = Impressions ÷ Reach**
+
+### Example
+If an ad gets 80 impressions and reaches 20 unique people:
+
+**Frequency = 80 ÷ 20 = 4**
+
+---
+
+# 5. Media Mix
+
+A combination of **communication platforms and advertising channels** used to target customers and achieve objectives.
+
+### Components
+
+**Channel**  
+A broad route to reach people.  
+Example: Social Media
+
+**Platform**  
+The company ecosystem used.  
+Example: Meta
+
+**Media Vehicle**  
+The specific platform/place where the ad reaches people.
+
+**Content Format**  
+The creative format used.  
+Example: Video Ad
+
+---
+
+# 6. Earned, Owned & Paid Media
 
 ### Earned
 Media coverage.
 
 ### Owned
-Brand-controlled channels such as website, packaging, pages, etc.
+Brand-controlled channels such as:
+- Website
+- Packaging
+- Pages
+- Other brand-controlled channels
 
 ### Paid
-Sponsored content, ads, collaborations, etc.
+Sponsored/paid promotion such as:
+- Ads
+- Sponsorships
+- Collaborations
 
-**Earned is dependent on owned + paid.**
+> **Earned is dependent on Owned + Paid.**
 
-## 9. Platform Example — O2
+---
 
-1. YouTube — video
-2. Website — interactive/AR experience (Chew Toys)
-3. Vine — film festival
-4. Outdoor activity
-5. X — Chew Toys / dog bombs
-6. Blogs
-7. Quora
-8. TV — commercial
-9. Retail
+# 7. Class Activity — O2 Campaign / Platform Selection
+
+The class analysed the **O2 campaign** to determine the different platforms/media vehicles used.
+
+### Platforms / Media Used
+
+1. **YouTube** — Video
+2. **Website** — Interactive / AR experience (Chew Toys)
+3. **Vine** — Film festival
+4. **Frisbee activity / Outdoor**
+5. **X** — Chew Toys / Dog Bombs
+6. **Blogs**
+7. **Quora**
+8. **TV** — Commercial
+9. **Retail**
 
 ### Key Principles
-- Diversify
-- Awareness with capability to go viral
-- Stay true to the campaign even when tailored to platforms
 
-## 10. Campaign Phases
+#### Diversify
+Use different platforms and channels rather than relying on only one.
 
-A good campaign should have 3 phases:
+#### Awareness + Capability to Go Viral
+The campaign should create awareness and have the capability to go viral.
 
-1. **Teaser** — build curiosity
-2. **Launch** — main campaign
-3. **Sustenance** — maintain attention
+#### Stay True to the Campaign
+Keep the core campaign idea consistent even when it is tailored to different platforms.
 
-### Media Intensity
-- Maximum on launch
-- Teaser before launch
-- Minimum during sustenance
+---
 
-**Teaser + launch should be short.**  
-**Sustenance can be dragged/extended.**
+# 8. Campaign Phases
 
-## Quick Revision
+A good campaign should have **three phases**:
 
-**Media Planning:** Decide where, when and how ads should appear.
+### 1. Teaser
+**Build curiosity.**
+
+### 2. Launch
+Deliver the **main campaign**.
+
+### 3. Sustenance
+**Maintain attention** after the main launch.
+
+## Media Intensity
+
+- **Maximum:** Launch
+- **Before launch:** Teaser
+- **After launch:** Sustenance
+
+> **Teaser + Launch should be short.**
+
+> **Sustenance can be extended / dragged longer.**
+
+---
+
+# Quick Revision
+
+**Media Planning:** Decide **where, when and how** advertisements should appear.
+
+**Media Strategy:** **Objectives + Audience + Media Mix**
+
+**Audience:** **Target Audience → Segments → Personas**
 
 **Reach:** Unique people.
 
@@ -175,14 +256,20 @@ A good campaign should have 3 phases:
 
 **Frequency:** Average views per person.
 
-**Audience → Segments → Personas:** Broad target → groups → representative profile.
+**Frequency = Impressions ÷ Reach**
 
-**Media Mix:** Combination of communication platforms/channels.
+**Media Mix:** Combination of communication platforms and advertising channels.
 
-**Earned:** Coverage.
+**Channel → Platform → Media Vehicle → Content Format**
+
+**Earned:** Media coverage.
 
 **Owned:** Brand-controlled.
 
 **Paid:** Sponsored/paid promotion.
 
-**Campaign:** Teaser → Launch → Sustenance.
+**Campaign:** **Teaser → Launch → Sustenance**
+
+**Launch = Maximum intensity**  
+**Teaser + Launch = Short**  
+**Sustenance = Can be extended**
