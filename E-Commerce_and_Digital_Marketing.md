@@ -1,6 +1,6 @@
 # E-Commerce & Digital Marketing — Lecture 1
 
-**Credits:** 3
+**Credits:** 3     
 **Date:** 22 August 2026
 
 ## 1. E-Commerce
