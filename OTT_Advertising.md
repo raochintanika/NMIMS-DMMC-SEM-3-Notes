@@ -18,18 +18,18 @@
 ### Traditional TV
 - Fixed schedule / EPG
 - Local or national
-- Family watching
-- Track metrics
+- Family watching / Group Comsumption
+- Doesn't Track metrics
 - Geographic limitations
+- Linear
 
 ### OTT
 - On demand
-- Global content/start
+- Start of Global content/
 - Individual consumption
 - No geography boundary
 - Non-linear
-
-> The handwritten notes say “no metrics tracking” for OTT; this has been retained as a class note rather than replaced with outside information.
+- Track Metrics
 
 ## 3. TRP
 
@@ -38,7 +38,7 @@
 
 ## 4. Hoarding
 
-**Hoarding:** IP tracking.
+**Hoarding:** IP tracking. (Approximation - No Accurate Data)
 
 ## 5. Netflix Hoarding Campaign
 
@@ -56,7 +56,7 @@ Depends on:
 
 The notes give “Middle Eastern countries — No Hindu content” as an example. This is preserved as the professor's example, not a universal statement.
 
-## 7. Traditional TV vs OTT — Positioning
+## 7. Traditional TV vs OTT — Positioning in Advertisement
 
 | Traditional TV | OTT |
 |---|---|
@@ -69,22 +69,24 @@ The notes give “Middle Eastern countries — No Hindu content” as an example
 ## 8. OTT Monetization Models
 
 ### TVOD — Transactional Video on Demand
-- Transactional video
-- On demand
-- Rent a movie
-- Limited availability noted
-- No ads / premium movie access noted
+- Transactional video On demand
+- Rent a movie (Limited)
+- New Released Movies Early Access
+- No ads / premium movie access
 
 ### AVOD — Advertising Video on Demand
 - Advertising-supported video on demand
-- Free content
 - Ads support the model
-- Notes mention no-ad variants / sampling and increased engagement
+
+### FVOD — Free Video on Demand
+- Free content
+- No Ads variants
+- For sampling and increased engagement
 
 ### SVOD — Subscription Video on Demand
 - Subscription-based video on demand
 - OTT subscription fee
-- Ads may also be included, according to the notes
+- Ads may also be included
 
 ## Quick Revision
 
