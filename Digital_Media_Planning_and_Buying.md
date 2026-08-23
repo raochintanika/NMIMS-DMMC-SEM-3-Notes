@@ -1,6 +1,7 @@
 # Digital Media Planning & Buying
 
-**Credits:** 3
+**Credits:** 3  
+**Date:** 20 August 2026
 
 ## 1. Media Planning & Buying
 
