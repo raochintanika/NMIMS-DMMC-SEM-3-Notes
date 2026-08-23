@@ -1,6 +1,8 @@
 # Digital Laws & Ethics
 
-**Credits:** 2
+**Credits:** 2  
+**Date noted:** 17 August 2026
+
 
 ## 1. Media and Allied Industries
 
@@ -17,28 +19,30 @@
 - Unbiased opinions
 
 ### Allied Industries
-Examples: advertising, content, etc.
+Example:  
+Primary: TV  
+Allies: advertising, content, etc.
 
 ---
 
 ## 2. Shaping People's Experiences in Digital Spaces
 
 ### Echo Chambers
-A bubble where opinions are formed based on the data/content a person receives.
+A bubble where person's opinions are formed based on the data/content a person receives.
 
 ### Algorithmic Biases
 Bias made by programs because of unbalanced or unfair data.
 
 ### Evolution
-Notes describe this as: **picking the original and changing the meaning.**
+Picking the original and changing the meaning.
 
 ### Appropriation
-Notes describe this as: **picking the original and changing the meaning.**
+Picking the original content/message and changing the meaning.
 
-> The distinction between evolution and appropriation was not clear in the handwritten notes, so no extra interpretation has been added.
+> The distinction between evolution and appropriation is not a lot it's just same meaning but different context.
 
 ### Infodemics
-Too much information.
+Too much information in the market.
 
 ---
 
@@ -60,6 +64,3 @@ Too much information.
 | Algorithmic Bias | Bias caused by unbalanced/unfair data |
 | Infodemic | Too much information |
 | Economic Associative Value | Recognition value + commercial value |
-
-## Case / Topic Noted
-**“Popp vs H”** appears at the bottom of the handwritten page. The exact reference is unclear, so it has not been guessed.

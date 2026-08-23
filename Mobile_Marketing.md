@@ -26,9 +26,9 @@ Use of **mobile devices, apps and networks through specific touchpoints to commu
 6. **Retention** — Bring existing customers back.
 7. **Loyalty** — Increase repeat purchases and customer lifetime value.
 
-## 4. Group A — Debate Point
+## 4. Group A — Debate Point (FOR)
 
-The notes state that mobile marketing can be:
+Mobile marketing can be: 
 - More personalized
 - Better at targeting audiences
 - Able to reach audiences instantly
@@ -40,14 +40,7 @@ The notes state that mobile marketing can be:
 
 ## 6. Mobile's Role in the Consumer Journey
 
-### Consumer Journey
-- Awareness
-- Discovery
-
-### Role of Mobile
-- Amplify reach
-- Capture intent
-
-## 7. Activity
-
-The notes mention an **activity/presentation involving an image**. The exact instructions are not captured in the available notes.
+|Consumer Journey|Role of Mobile|
+|---|---|
+|Awareness|Amplify reach|
+|Discovery|Capture intent
