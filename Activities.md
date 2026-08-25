@@ -15,7 +15,7 @@ Activities and academic tasks assigned by professors for Semester 3.
 - Watch **Depp v. Heard** on Netflix.
 - Watch **The Social Dilemma** on Netflix.
 
-**Status:** 🟡 In Progress
+**Status:** 🔴 Completed
 
 ---
 
@@ -31,7 +31,7 @@ Activities and academic tasks assigned by professors for Semester 3.
 - Study the analysis.
 - Take screenshots of **5–6 points** that you find interesting.
 
-**Status:** ☐ Pending
+**Status:** 🔴 Completed
 
 ---
 
@@ -47,7 +47,7 @@ Activities and academic tasks assigned by professors for Semester 3.
 - Check whether all pages of a website have the **Google tag** installed.
 - Any website can be used.
 
-**Status:** ☐ Pending
+**Status:** 🔴 Completed
 
 ---
 
@@ -82,7 +82,7 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 5. Identify the **"Mobile Moment"**.
 6. Define your KPIs.
 
-**Status:** ☐ Pending
+**Status:** 🔴 Completed
 
 ---
 
@@ -116,13 +116,39 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 
 ---
 
+## 7. Digital Laws & Ethics
+
+### Grey Tick & Trial Reels
+
+**Task:**
+- Research about Grey Tick & Trial Reels.
+- What, Why, How, Benefits and if it's actually worth using
+
+**Status:** ☐ Pending
+
+---
+
+## 8. Web Analytics & Strategic Formulation
+
+### Similarweb - Explore
+
+**Task:**
+- Explore Trending Sites, Android Apps and IOS Apps in India on the Similarweb Website
+- Note the interesting one's
+
+**Status:** ☐ Pending
+
+---
+
 # Progress Tracker
 
 | # | Subject | Task | Given | Due | Status |
 |---|---|---|---|---|---|
-| 1 | Digital Laws & Ethics | Depp v. Heard + The Social Dilemma | 17 Aug 2026 | 24 Aug 2026 | 🟡 In Progress |
-| 2 | Web Analytics & Strategic Formulation | Westside — SEOptimer | 18 Aug 2026 | 25 Aug 2026 | ☐ Pending |
-| 3 | Web Analytics & Strategic Formulation | Google Analytics Debugger | 18 Aug 2026 | 25 Aug 2026 | ☐ Pending |
-| 4 | Mobile Marketing | FreshBite Case Study + PPT | 19 Aug 2026 | 26 Aug 2026 | ☐ Pending |
-| 5 | E-Commerce & Digital Marketing | Myntra PPT | Not specified | Not specified | ☐ Pending |
-| 6 | E-Commerce & Digital Marketing | Glossary | Not specified | Not specified | ☐ Pending |
+| 1 | Digital Laws & Ethics | Depp v. Heard + The Social Dilemma | 17 Aug 2026 | 24 Aug 2026 | 🔴 Completed |
+| 2 | Web Analytics & Strategic Formulation | Westside — SEOptimer | 18 Aug 2026 | 25 Aug 2026 | 🔴 Completed |
+| 3 | Web Analytics & Strategic Formulation | Google Analytics Debugger | 18 Aug 2026 | 25 Aug 2026 | 🔴 Completed |
+| 4 | Mobile Marketing | FreshBite Case Study + PPT | 19 Aug 2026 | 26 Aug 2026 | 🔴 Completed |
+| 5 | E-Commerce & Digital Marketing | Myntra PPT | 22 Aug 2026 | 29 Aug 2026 | ☐ Pending |
+| 6 | E-Commerce & Digital Marketing | Glossary | 22 Aug 2026 | 29 Aug 2026 | ☐ Pending |
+| 7 | Digital Laws & Ethics | Grey Tick & Trial Reels | 24 Aug 2026 | 14 Sep 2026 | ☐ Pending |
+| 8 | Web Analytics & Strategic Formulation | Similarweb - Explore | 25 Aug 2026 | 1 Sep 2026 | ☐ Pending |
