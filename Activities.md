@@ -148,7 +148,7 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 | 2 | Web Analytics & Strategic Formulation | Westside — SEOptimer | 18 Aug 2026 | 25 Aug 2026 | 🔴 Completed |
 | 3 | Web Analytics & Strategic Formulation | Google Analytics Debugger | 18 Aug 2026 | 25 Aug 2026 | 🔴 Completed |
 | 4 | Mobile Marketing | FreshBite Case Study + PPT | 19 Aug 2026 | 26 Aug 2026 | 🔴 Completed |
-| 5 | E-Commerce & Digital Marketing | Myntra PPT | 22 Aug 2026 | 29 Aug 2026 | ☐ Pending |
+| 5 | E-Commerce & Digital Marketing | Myntra PPT | 22 Aug 2026 | 29 Aug 2026 | 🔴 Completed |
 | 6 | E-Commerce & Digital Marketing | Glossary | 22 Aug 2026 | 29 Aug 2026 | ☐ Pending |
 | 7 | Digital Laws & Ethics | Grey Tick & Trial Reels | 24 Aug 2026 | 14 Sep 2026 | ☐ Pending |
-| 8 | Web Analytics & Strategic Formulation | Similarweb - Explore | 25 Aug 2026 | 1 Sep 2026 | ☐ Pending |
+| 8 | Web Analytics & Strategic Formulation | Similarweb - Explore | 25 Aug 2026 | 1 Sep 2026 | 🔴 Completed |

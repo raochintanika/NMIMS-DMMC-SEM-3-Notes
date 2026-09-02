@@ -1,7 +1,8 @@
 # Digital Media Planning & Buying
+### *Credits:* 3  
 
-**Credits:** 3  
-**Date:** 20 August 2026
+
+### Lecture — 20 August 2026
 
 ## 1. Media Planning & Buying
 
@@ -273,3 +274,550 @@ Deliver the **main campaign**.
 **Launch = Maximum intensity**  
 **Teaser + Launch = Short**  
 **Sustenance = Can be extended**
+
+
+### Lecture - 27 August 2026  
+
+---
+
+## 1. Messaging — Communication Process
+
+Messaging is a **two-way communication process** between the brand and the audience.
+
+### Communication Process
+
+**Sender → Encoding → Message → Channel → Decoding → Receiver**
+
+The process also includes:
+
+**Receiver → Feedback → Sender**
+
+And **Noise** can interfere with the communication process.
+
+### Key Elements
+
+| Element | Meaning |
+|---|---|
+| **Sender** | Source/company/marketer creating the message |
+| **Encoding** | Transforming the message into a format suitable for the chosen channel |
+| **Message** | The actual content being communicated |
+| **Channel** | Medium used to deliver the message |
+| **Decoding** | Interpreting the message and assigning meaning |
+| **Receiver** | End customer or target audience segment |
+| **Feedback** | Response from the receiver; in digital marketing this can be tracked through KPIs |
+| **Noise** | Anything that interferes with the intended communication |
+
+### Examples of Noise
+
+- Language barriers
+- Cultural differences
+- Technology challenges
+- Website loading issues
+- Competition
+- Other distractions
+- Incorrect interpretation of the message
+
+### Encoding vs Decoding
+
+A marketer may **encode** a message correctly, but the audience may **decode it differently**.
+
+Therefore, when developing a campaign, always ask:
+
+> **Can the target audience decode the message in the way we intended?**
+
+If not, identify the possible sources of **noise**.
+
+### Feedback and KPIs
+
+Feedback tells the marketer how the audience responded.
+
+Examples of measurable feedback:
+
+- Views
+- Clicks
+- Engagement
+- Leads
+- Sales
+- Conversions
+- Other campaign-specific KPIs
+
+Therefore:
+
+**Feedback → What we track → KPIs**
+
+---
+
+## 2. Messaging Example — Coca-Cola
+
+A Coca-Cola holiday campaign can be used to understand the communication process.
+
+- **Sender:** Coca-Cola
+- **Message:** Holiday/Christmas feeling and the brand's association with the festive season
+- **Channel:** Digital/social/video platforms and other campaign channels
+- **Receiver:** Viewers/consumers
+- **Decoding:** How viewers interpret the campaign
+- **Noise:** Technology, cultural interpretation, audience perception, competing messages, etc.
+- **Feedback:** Views, engagement, sentiment, sales and other measurable responses
+
+### Important Learning
+
+A campaign can receive negative reactions even when the brand's intended message was positive.
+
+This demonstrates why **decoding and feedback are important**.
+
+The marketer must consider:
+
+**"What we intended to communicate" ≠ "What the audience actually understood."**
+
+---
+
+# 3. Plan & Schedule
+
+After deciding the:
+
+1. Objective
+2. Audience
+3. Media Mix
+4. Budget
+5. Message
+
+the next step is to create the **Media Plan**.
+
+A media plan is typically maintained in an **Excel sheet**.
+
+### Typical Media Plan Columns
+
+| Column | What it contains |
+|---|---|
+| Platform | Where the campaign will run |
+| Audience | Target audience/segment |
+| Objective | Awareness, sales, leads, etc. |
+| Budget | Amount allocated |
+| Time & Schedule | When the campaign will run |
+| KPIs | What will be measured |
+
+Additional performance metrics may include:
+
+- CPC
+- CPM
+- CPA
+- CTR
+- Conversion Rate
+- Other campaign-specific KPIs
+
+### Media Plan
+
+A media plan is essentially a structured extension of the decisions made during the strategy process.
+
+---
+
+# 4. Optimization
+
+**Optimization is also part of the digital media planning process.**
+
+A marketer should always assume that something may not perform as expected once the campaign goes live.
+
+Digital media is flexible, so marketers can:
+
+- Change budgets
+- Shift budget toward better-performing platforms
+- Change creatives
+- Change creators
+- Modify targeting
+- Improve landing pages
+- Test different messages/offers
+
+### Digital Media Planning is Flexible
+
+Unlike many traditional media placements, digital media allows marketers to make changes based on real-time performance.
+
+For example:
+
+> If Platform A is performing better than Platform B, more budget can be shifted toward Platform A.
+
+Therefore, a media plan should always include an **optimization approach**.
+
+---
+
+# 5. Conversion Rate Optimization (CRO)
+
+**CRO = Conversion Rate Optimization**
+
+CRO focuses on getting a **higher ROI/conversion rate from existing traffic without increasing the marketing budget.**
+
+Example:
+
+If the budget remains constant but the client wants more sales, the marketer can optimize different parts of the customer journey.
+
+### CRO Principle
+
+**Same budget + better conversion performance = higher ROI**
+
+---
+
+## 6. CRO Levers
+
+### A. Creative Optimization
+
+Improve the advertisement/creative itself.
+
+Possible changes:
+
+- Better creative concept
+- Better audience relevance
+- Stronger CTA
+- Less text
+- More visual communication
+- Better colours
+- Better offers
+- Human element
+- Lifestyle imagery
+- Better product presentation
+
+### Human Element
+
+Creatives containing a **human being or human element** can make the product feel more relatable.
+
+Example:
+
+**Product shown alone**  
+vs.  
+**Product being used by a person**
+
+Lifestyle shots can also show how the product looks or works in a real-life situation.
+
+---
+
+### B. Landing Page Optimization
+
+The landing page is where the shopping/conversion experience continues after the ad.
+
+Important factors include:
+
+- Faster page speed
+- Lower loading time
+- Fewer unnecessary files
+- Fewer unnecessary elements
+- Better buttons/CTAs
+- Clearer shopping journey
+
+### Why Speed Matters
+
+Even a small improvement in conversion rate can create meaningful additional sales.
+
+Example:
+
+**Before:** 2 people out of 100 purchase  
+**After optimization:** 2.5 people out of 100 purchase
+
+That additional 0.5 conversion can become significant at larger traffic volumes.
+
+---
+
+### C. Trust Builders
+
+Trust-building elements can make customers more comfortable completing a purchase.
+
+Examples:
+
+- Reviews
+- Ratings
+- Testimonials
+- Unboxing videos
+- Influencer videos
+- Founder presence
+- Customer support
+- Chatbots
+- Phone/contact support
+- Return policy
+- Free shipping
+- Loyalty points/coins
+- Stamp or proof of authority
+
+### Key Idea
+
+The more uncertainty a customer has, the more important **trust builders** become.
+
+---
+
+### D. Personalised Marketing
+
+Personalisation means adapting communication to different audience segments.
+
+Instead of showing the same message to everyone:
+
+**Different segment → Relevant creative/message**
+
+Personalisation can include:
+
+- Segment-specific advertisements
+- Personalised communication
+- Email marketing
+- WhatsApp communication
+- Offers based on customer behaviour
+
+Correct segmentation makes personalisation more effective.
+
+---
+
+### E. Retargeting
+
+Retargeting is useful when a user has already shown interest but has not completed the desired action.
+
+Example:
+
+**User → Visits website → Adds product to cart → Does not purchase**
+
+The marketer can retarget the user with:
+
+- Reminder ads
+- Product reminders
+- Offers
+- Discounts
+- Limited-time incentives
+
+---
+
+### F. Cart Abandonment Optimization
+
+Customers may abandon their cart because of:
+
+- Price
+- Expectation of a discount
+- Payment issues
+- Uncertainty
+- Shipping concerns
+- Other friction points
+
+Possible solutions:
+
+- Retargeting
+- Limited-time discounts
+- Cart reminder
+- Better payment options
+- Clear shipping information
+- Stronger trust signals
+
+### Limited-Time Offers
+
+Creating urgency can encourage customers to complete the purchase.
+
+Examples:
+
+- "Your product is waiting for you"
+- Limited-time discount
+- Time-sensitive offer
+
+---
+
+# 7. Budget Allocation Techniques
+
+Once the objective, audience and media mix are decided, the next question is:
+
+> **How much should the campaign budget be?**
+
+Budget can be estimated using different approaches.
+
+---
+
+## 7.1 Percentage of Revenue
+
+Allocate a percentage of revenue toward marketing.
+
+A broad approach discussed in class was approximately:
+
+**5%–30% of gross revenue**, depending on the type and stage of the business.
+
+Indicative examples from class:
+
+| Business Type | Indicative Marketing Budget |
+|---|---:|
+| FMCG / Large Brand | 5%–8% |
+| Startup | 20%–30% |
+| B2B | 2%–5% |
+
+These are planning guidelines discussed in class, not universal industry rules.
+
+### Questions to Ask the Client
+
+Before recommending a budget, understand:
+
+- What is your current revenue?
+- What is your projected revenue?
+- How much revenue do you want to generate?
+- What is the business objective?
+
+---
+
+## 7.2 Digital-First Businesses
+
+If the client is strongly digital-first or e-commerce-led, the marketing budget may also need to consider supporting digital infrastructure such as:
+
+- CRM
+- Customer support tools
+- Chatbots
+- Marketing automation
+- Other relevant digital tools
+
+Therefore, the marketer should think beyond only **media buying costs**.
+
+---
+
+## 7.3 Competitive Parity
+
+**Competitive Parity** means setting a budget by estimating what direct competitors are spending.
+
+Basic approach:
+
+**Competitor estimated ad spend → Benchmark → Decide your approximate spend**
+
+Competitor-spend estimates can be researched using:
+
+- AI tools for initial estimates
+- Industry reports
+- Trusted media/agency sources
+- Competitor research platforms
+
+### Important
+
+Do **not blindly trust AI-generated competitor-spend estimates**.
+
+AI can help with research, but important budget decisions should be verified through reliable sources.
+
+---
+
+# 8. Budget Allocation Across Channels
+
+Once the total budget is decided, it must be distributed across channels.
+
+### 70/20/10 Allocation
+
+A useful framework discussed in class:
+
+| Allocation | Purpose |
+|---:|---|
+| **70%** | Trusted/proven channels |
+| **20%** | Emerging opportunities |
+| **10%** | Experimental/risky opportunities |
+
+### 70% — Trusted Channels
+
+Channels that have historically performed well.
+
+Example:
+
+> A platform where previous campaigns consistently delivered good results.
+
+This is the **safe bet** portion.
+
+### 20% — Emerging Channels
+
+Newer opportunities that appear promising but have less historical evidence.
+
+Example:
+
+> A new platform that has potential but has not yet been extensively tested by the brand.
+
+### 10% — Experimental
+
+More innovative, unusual or risky ideas.
+
+The purpose is to test something different without putting a large portion of the budget at risk.
+
+### Important Learning
+
+Young marketers often make the mistake of putting too much of the budget into experimentation.
+
+A better approach is:
+
+**Proven → Emerging → Experimental**
+
+---
+
+# 9. Potential Reach / ROI Estimation
+
+Before deciding how much to allocate to a platform, estimate its potential.
+
+Possible inputs:
+
+- Industry benchmarks
+- Historical data
+- Previous campaign performance
+- Platform experience
+- AI-assisted estimates
+- Expected creative performance
+
+At the planning stage, these are **estimates**, because the final creative and campaign performance are not yet known.
+
+---
+
+# 10. Content Production vs Media Distribution
+
+The overall budget can also be divided between:
+
+### Content Production
+
+Approx. **10%–30%**
+
+Used for creating:
+
+- Videos
+- Static creatives
+- Photography
+- Other campaign assets
+
+### Media Distribution
+
+Approx. **70%–90%**
+
+Used for distributing/promoting the content through media channels.
+
+### Basic Principle
+
+**Content Production + Media Distribution = Campaign Investment**
+
+---
+
+# 11. Key Digital Media Planning Principle
+
+A strong digital media plan should not be treated as a fixed document.
+
+It should be:
+
+**Plan → Launch → Measure → Learn → Optimize → Reallocate**
+
+Digital media allows budget and activity to be adjusted according to actual performance.
+
+---
+
+# Quick Revision — 27 August
+
+### Strategy Flow
+
+**Objective → Audience → Media Mix → Budget → Messaging → Plan → Optimization**
+
+### Audience
+
+**Audience → Segments → Personas**
+
+### Communication
+
+**Sender → Encoding → Message → Channel → Decoding → Receiver → Feedback**
+
+**Noise** can interfere at different stages.
+
+### Budget
+
+**Revenue-based + Competitive Parity + Historical Performance**
+
+### Allocation
+
+**70% Proven + 20% Emerging + 10% Experimental**
+
+### CRO
+
+**Same traffic/budget → Better conversion → Higher ROI**
+
+Main CRO levers:
+
+**Creative → Landing Page → Trust → Personalisation → Retargeting → Cart Recovery → Payment/Checkout**

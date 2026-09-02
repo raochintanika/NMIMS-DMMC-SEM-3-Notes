@@ -1,14 +1,18 @@
 # Mobile Advertising & Marketing
-### *Credits:* 3  
 
+### **Credits:** 3
 
-### Lecture — 19 August 2026
+---
+
+## Lecture — 19 August 2026
 
 ## 1. What Is Mobile Marketing?
 
-Use of **mobile devices, apps and networks through specific touchpoints to communicate with and influence consumers**.
+Mobile marketing is the use of **mobile devices, apps and networks through specific touchpoints to communicate with and influence consumers**.
 
-## 2. Types
+---
+
+## 2. Types of Mobile Marketing
 
 1. Mobile Ads
 2. Mobile Messaging
@@ -17,7 +21,9 @@ Use of **mobile devices, apps and networks through specific touchpoints to commu
 5. Location-Based Marketing
 6. Mobile Commerce
 
-## 3. Objectives
+---
+
+## 3. Objectives of Mobile Marketing
 
 1. **Awareness** — Build reach and brand recall.
 2. **Lead Generation** — Collect consumer information.
@@ -27,31 +33,39 @@ Use of **mobile devices, apps and networks through specific touchpoints to commu
 6. **Retention** — Bring existing customers back.
 7. **Loyalty** — Increase repeat purchases and customer lifetime value.
 
+---
+
 ## 4. Group A — Debate Point (FOR)
 
-Mobile marketing can be: 
+Mobile marketing can be:
+
 - More personalized
 - Better at targeting audiences
 - Able to reach audiences instantly
 - Able to measure the complete cycle
 
+---
+
 ## 5. What Makes Mobile Marketing Effective?
 
 **Relevance + Timing + Value + Consent**
 
+---
+
 ## 6. Mobile's Role in the Consumer Journey
 
-|Consumer Journey|Role of Mobile|
+| Consumer Journey | Role of Mobile |
 |---|---|
-|Awareness|Amplify reach|
-|Discovery|Capture intent|
-
-
-### Lecture - 26 August 2026  
+| Awareness | Amplify reach |
+| Discovery | Capture intent |
 
 ---
 
-## 1. FreshBite Mobile Marketing Case Study
+# Lecture — 26 August 2026
+
+---
+
+# 1. FreshBite Mobile Marketing Case Study
 
 FreshBite offers:
 
@@ -61,7 +75,9 @@ FreshBite offers:
 - Office lunch subscriptions
 - 30-minute delivery
 
-### 1.1 Target Audience
+---
+
+## 1.1 Target Audience
 
 - Urban consumers
 - Age: 22–35
@@ -72,9 +88,10 @@ FreshBite offers:
 
 ---
 
-### 1.2 Mobile Consumer Journey
+## 1.2 Mobile Consumer Journey
 
 ### Awareness
+
 Discover FreshBite through:
 
 - Mobile ads
@@ -83,28 +100,32 @@ Discover FreshBite through:
 - Events
 
 ### Consideration
+
 - Explore the app and website
 - Check online reviews
 
 ### Order
+
 - 30-minute delivery
 - Subscription options
 
 ### Experience
+
 - Convenience
 - Fresh meals
 - Easy ordering experience
 
 ### Retention
+
 - Push notifications
 - Subscription offers
 - Promotional offers
 
 ---
 
-### 1.3 Channel Selection
+## 1.3 Channel Selection
 
-Example budget allocation discussed:
+Example budget allocation discussed in class:
 
 | Channel | Budget |
 |---|---:|
@@ -116,11 +137,11 @@ Example budget allocation discussed:
 | Gym | ₹1.5 lakh |
 | Creators | ₹8 lakh |
 
-> The budget figures above are from the class case-study notes.
+> **Note:** The budget figures above are from the class case-study notes.
 
 ---
 
-### 1.4 Mobile Creative Strategy
+## 1.4 Mobile Creative Strategy
 
 Possible tactics:
 
@@ -141,7 +162,7 @@ Possible tactics:
 
 ---
 
-### 1.5 The "Mobile Moment"
+## 1.5 The "Mobile Moment"
 
 Identify the specific moments when the consumer is most likely to need FreshBite.
 
@@ -156,7 +177,7 @@ The idea is to reach the consumer when the product is most relevant to their imm
 
 ---
 
-### 1.6 KPIs
+## 1.6 KPIs
 
 Possible KPIs:
 
@@ -169,17 +190,18 @@ Possible KPIs:
 
 ---
 
-## 2. Mobile Advertising
+# 2. Mobile Advertising
 
-The lecture covered **9 types of mobile advertising**. :contentReference[oaicite:1]{index=1}
+The lecture covered **9 types of mobile advertising**.
 
 ---
 
-### 2.1 Banner Ads
+## 2.1 Banner Ads
 
 Small rectangular advertisements displayed within mobile content, apps or websites.
 
 ### Characteristics
+
 - Simple copy
 - Image / visual
 - Call-to-action
@@ -190,7 +212,8 @@ Examples of CTAs:
 - Download Now
 - Shop Now
 
-### Primary objectives
+### Primary Objectives
+
 - Awareness
 - Offers
 - Traffic
@@ -200,37 +223,41 @@ Banner ads are generally strong for visibility and traffic, but average for inte
 
 ---
 
-### 2.2 Interstitial Ads
+## 2.2 Interstitial Ads
 
 Full-screen advertisements that appear within a web or app experience.
 
 ### Characteristics
+
 - Take up the entire mobile screen
 - High visibility
 - Strong attention grab
 
-### Best used for
+### Best Used For
+
 - Product launches
 - Major campaigns
 - Awareness
 
-Example:
+### Example
+
 A Netflix launch campaign appearing as a full-screen takeover.
 
-Interstitials have high visibility but relatively low interaction because users may skip or close them. :contentReference[oaicite:2]{index=2}
+Interstitials have high visibility but relatively low interaction because users may skip or close them.
 
 ---
 
-### 2.3 Video Ads
+## 2.3 Video Ads
 
 Video-based advertisements.
 
-### Main purpose
+### Main Purpose
+
 - Awareness
 - Storytelling
 - Capturing attention
 
-Video can communicate more information than a static banner and is useful when storytelling is important. :contentReference[oaicite:3]{index=3}
+Video can communicate more information than a static banner and is useful when storytelling is important.
 
 ### Types of Video Ads
 
@@ -244,65 +271,89 @@ Video can communicate more information than a static banner and is useful when s
 
 ---
 
-### In-Stream Video
+## 2.4 In-Stream Video
 
 Video ads that play inside existing video content.
 
-Example:
+### Examples
 
 - YouTube pre-roll
 - OTT advertisements
 
-The user is already watching video content when the ad appears. :contentReference[oaicite:4]{index=4}
+The user is already watching video content when the ad appears.
 
-### Out-Stream Video
+---
+
+## 2.5 Out-Stream Video
 
 Video ads that play outside an existing video player.
 
-Example:
+### Examples
 
 - Video appearing while reading an online article
 - Video appearing on a content website
 
-The user is browsing or reading content rather than intentionally watching a video. :contentReference[oaicite:5]{index=5}
+The user is browsing or reading content rather than intentionally watching a video.
 
 ---
 
-### Video Ad Placement
+## 2.6 In-Stream vs Out-Stream Ads
 
-#### Pre-Roll
+| In-Stream | Out-Stream |
+|---|---|
+| Video ad plays inside existing video content | Video ad appears outside a video player |
+| User is already watching a video | User may be reading an article or browsing content |
+| Common on YouTube, OTT and video platforms | Common across websites, articles and feeds |
+| Video is part of the existing video experience | Video creates a new video experience |
+| Stronger video-viewing intent | Useful for extending video reach |
+
+### Simple Difference
+
+**In-Stream = Video ad inside existing video content**
+
+**Out-Stream = Video ad outside an existing video player**
+
+---
+
+## 2.7 Video Ad Placement
+
+### Pre-Roll
+
 Ad appears before the main video.
 
-#### Mid-Roll
+### Mid-Roll
+
 Ad appears during the video.
 
-#### Post-Roll
+### Post-Roll
+
 Ad appears after the video.
 
-Post-roll generally has limited use because many users do not reach the end of the video. :contentReference[oaicite:6]{index=6}
+Post-roll generally has limited use because many users do not reach the end of the video.
 
 ---
 
-## 3. Playable Ads
+# 3. Playable Ads
 
 Interactive advertisements, commonly used in mobile gaming.
 
 The user can actually interact with or play a demonstration of the advertised game/app.
 
 ### Objective
+
 - High engagement
 - Customer acquisition
 - App downloads
 
-Playable ads can encourage users to download another application after experiencing it directly. :contentReference[oaicite:7]{index=7}
+Playable ads can encourage users to download another application after experiencing it directly.
 
 ---
 
-## 4. Rewarded Ads
+# 4. Rewarded Ads
 
 Advertisements where the user receives a reward for completing an action.
 
-Examples:
+### Examples
 
 - Google Pay rewards
 - Scratch cards
@@ -310,15 +361,16 @@ Examples:
 - Gaming rewards
 
 ### Objective
+
 - High engagement
 - Encourage participation
 - Increase repeated interaction
 
-Rewarded formats are particularly useful when the marketer wants users to actively participate. :contentReference[oaicite:8]{index=8}
+Rewarded formats are particularly useful when the marketer wants users to actively participate.
 
 ---
 
-## 5. Push Notification Ads
+# 5. Push Notification Ads
 
 Promotional messages delivered directly through an app's push notification system.
 
@@ -330,13 +382,13 @@ Promotional messages delivered directly through an app's push notification syste
 - Time-sensitive offers
 - Reminders
 
-Example:
+### Example
 
 A food delivery app sending a lunch-time offer through a push notification.
 
 ---
 
-## 6. Rich Media Ads
+# 6. Rich Media Ads
 
 Interactive and engaging advertising formats that can combine multiple elements.
 
@@ -348,29 +400,31 @@ They may include:
 - 360° experiences
 - Other interactive formats
 
-### Main objectives
+### Main Objectives
+
 - High engagement
 - Brand storytelling
 - Better user experience
 
 A rich media format can make the user actively interact with the advertisement rather than simply viewing it.
 
-### Example discussed
-IKEA's augmented-reality experience allowed users to visualise furniture in their own space. :contentReference[oaicite:9]{index=9}
+### Example Discussed
+
+IKEA's augmented-reality experience allowed users to visualise furniture in their own space.
 
 ---
 
-## 7. In-App Ads
+# 7. In-App Ads
 
 Advertisements displayed within a mobile application.
 
-Examples:
+### Examples
 
 - Swiggy
 - Zomato
 - Google Pay
 
-### Important distinction
+### Important Distinction
 
 **In-app** describes **where the advertisement appears**.
 
@@ -383,13 +437,13 @@ The actual advertisement format could be:
 - Rich media
 - Other formats
 
-Therefore, "in-app" and "banner/video" are not necessarily competing categories.
+Therefore, **"in-app" and "banner/video" are not necessarily competing categories.**
 
-An in-app ad can use different creative formats. :contentReference[oaicite:10]{index=10}
+An in-app ad can use different creative formats.
 
 ---
 
-## 8. Cross-Promotional Ads
+# 8. Cross-Promotional Ads
 
 One app or product promotes another app/product within the same broader ecosystem.
 
@@ -410,29 +464,29 @@ One app or product promotes another app/product within the same broader ecosyste
 
 A beauty app can encourage its existing users to also try the brand's fashion app.
 
-This works particularly well when two products have overlapping audiences. :contentReference[oaicite:11]{index=11}
+This works particularly well when two products have overlapping audiences.
 
 ---
 
-## 9. Mobile Advertising Format Summary
+# 9. Mobile Advertising Format Summary
 
 | Format | Visibility | Interaction | Best Objective |
 |---|---|---|---|
-| Banner | Medium | Average | Awareness + Traffic |
-| Interstitial | High | Low | Awareness |
-| Video | High | High | Awareness + Storytelling |
-| Playable | Very High | Very High | Customer Acquisition |
-| Rewarded | High | High | Engagement |
-| Push Notification | High | Medium | Promotion + Re-engagement |
-| Rich Media | High | High | Engagement + Storytelling |
-| In-App | Depends on format | Depends on format | Visibility |
-| Cross-Promotional | Medium | Average | App Discovery + Cross-selling |
+| Banner | ⭐⭐ | ⭐ | Awareness / Traffic |
+| Interstitial | ⭐⭐⭐⭐⭐ | ⭐⭐ | Awareness |
+| Video | ⭐⭐⭐⭐ | ⭐⭐⭐ | Awareness / Storytelling |
+| Playable | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | App Acquisition |
+| Rewarded | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Engagement |
+| Native | ⭐⭐⭐ | ⭐⭐⭐ | Content / Consideration |
+| Rich Media | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Engagement / Demonstration |
+| In-App | Depends on format | Depends on format | Depends on objective |
+| Cross-Promotion | ⭐⭐⭐ | ⭐⭐ | App Acquisition |
 
-The lecturer described this comparison as subjective, but useful as a broad way to understand the role of each format. :contentReference[oaicite:12]{index=12}
+> **Note:** The visibility and interaction ratings are subjective classroom comparisons and are useful as a broad way to understand the role of each format.
 
 ---
 
-## 10. Consumer Attention & Mobile Advertising
+# 10. Consumer Attention & Mobile Advertising
 
 A major discussion in the lecture was **attention**.
 
@@ -446,7 +500,7 @@ Consumers are exposed to:
 - Video content
 - Multiple advertising formats
 
-Because consumers have many distractions and choices, marketers need to capture attention quickly. :contentReference[oaicite:13]{index=13}
+Because consumers have many distractions and choices, marketers need to capture attention quickly.
 
 ---
 
@@ -465,11 +519,11 @@ For example:
 - Create curiosity
 - Encourage the user to learn more
 
-The content should be simple and focused on one objective. :contentReference[oaicite:14]{index=14}
+The content should be simple and focused on one objective.
 
 ---
 
-## 11. Consumer Intent
+# 11. Consumer Intent
 
 Consumers are driven by **intent**.
 
@@ -481,19 +535,19 @@ The same advertisement can perform differently depending on:
 - Situation
 - Level of intent
 
-For example:
+### Example
 
-Someone watching a YouTube video to learn something may find an irrelevant advertisement irritating because it interrupts their existing intent. :contentReference[oaicite:15]{index=15}
+Someone watching a YouTube video to learn something may find an irrelevant advertisement irritating because it interrupts their existing intent.
 
 ### Key Marketing Lesson
 
-> Know your audience before creating the advertisement.
+> **Know your audience before creating the advertisement.**
 
 If you do not understand the audience, the communication becomes generic.
 
 ---
 
-## 12. Brand Integration
+# 12. Brand Integration
 
 Brands can also integrate themselves into entertainment content.
 
@@ -510,7 +564,7 @@ The key is to make the integration relevant to the audience and content.
 
 ---
 
-## 13. In-App Advertising Strategy
+# 13. In-App Advertising Strategy
 
 In-app advertising can combine multiple advertising formats.
 
@@ -524,27 +578,29 @@ For example:
 
 The format should depend on the objective.
 
-### Main objective
+### Main Objective
 
 **Visibility + Engagement**
 
-Example discussed:
+### Example Discussed
 
-A food-delivery app can use subtle branded elements inside the order-tracking experience. This can create brand visibility without feeling like a traditional advertisement. :contentReference[oaicite:16]{index=16}
+A food-delivery app can use subtle branded elements inside the order-tracking experience.
+
+This can create brand visibility without feeling like a traditional advertisement.
 
 ---
 
-## 14. Cross-Promotion Strategy
+# 14. Cross-Promotion Strategy
 
 Cross-promotion becomes especially useful when a company has multiple products or apps with overlapping audiences.
 
-Example:
+### Example
 
 **Beauty User → Fashion App**
 
 A beauty app could encourage existing beauty users to try the company's fashion app.
 
-Possible tactics:
+### Possible Tactics
 
 - Push notifications
 - SMS
@@ -553,13 +609,13 @@ Possible tactics:
 - Exclusive benefits
 - In-app promotion
 
-### Core idea
+### Core Idea
 
-Use the existing customer base of one product to grow another product within the same ecosystem. :contentReference[oaicite:17]{index=17}
+Use the existing customer base of one product to grow another product within the same ecosystem.
 
 ---
 
-## 15. Class Activity
+# 15. Class Activity
 
 ## Scenario 1 — New Smartphone Launch
 
@@ -613,15 +669,82 @@ Rich media and 360° experiences can allow consumers to explore the product rath
 
 ---
 
-## Key Takeaways
+# 16. Key Takeaways
 
 1. **Mobile advertising has multiple formats**, and each format has a different role.
+
 2. **The advertising format should match the marketing objective.**
+
 3. **Video is strong for awareness and storytelling.**
+
 4. **Playable and rewarded ads can drive high engagement.**
+
 5. **Rich media is useful when interaction and brand experience are important.**
+
 6. **In-app describes the placement, while formats such as banner/video describe the creative.**
+
 7. **Cross-promotion helps brands grow other products within the same ecosystem.**
+
 8. **Consumer intent matters — relevant ads are more effective than generic interruptions.**
+
 9. **Short-form advertising needs to capture attention quickly.**
+
 10. **Know the audience before deciding the creative, format and message.**
+
+---
+
+# Quick Revision
+
+### Mobile Marketing
+
+**Mobile devices + apps + networks → Communicate with and influence consumers**
+
+### What Makes Mobile Marketing Effective?
+
+**Relevance + Timing + Value + Consent**
+
+### 9 Mobile Advertising Formats
+
+**Banner → Interstitial → Video → Playable → Rewarded → Native → Rich Media → In-App → Cross-Promotion**
+
+### Video Ads
+
+**In-Stream = Inside existing video**
+
+**Out-Stream = Outside existing video player**
+
+### Video Placement
+
+**Pre-Roll → Before**
+
+**Mid-Roll → During**
+
+**Post-Roll → After**
+
+### Playable
+
+**Experience/play → Engagement → App acquisition**
+
+### Rewarded
+
+**Complete action → Receive reward → Engagement**
+
+### Rich Media
+
+**Interactive → Demonstration → Engagement**
+
+### In-App
+
+**Placement, not necessarily a specific creative format**
+
+### Cross-Promotion
+
+**Existing product users → Another product in the same ecosystem**
+
+### 6-Second Challenge
+
+**Capture attention + Create curiosity**
+
+### Main Principle
+
+**Audience + Intent → Objective → Format → Creative → Message**
