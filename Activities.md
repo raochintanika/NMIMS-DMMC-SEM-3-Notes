@@ -100,7 +100,7 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 - Identify Myntra's **unique offering**.
 - Keep the presentation to **5–6 slides**.
 
-**Status:** ☐ Pending
+**Status:** 🔴 Completed
 
 ---
 
@@ -136,7 +136,7 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 - Explore Trending Sites, Android Apps and IOS Apps in India on the Similarweb Website
 - Note the interesting one's
 
-**Status:** ☐ Pending
+**Status:** 🔴 Completed
 
 ---
 
