@@ -273,7 +273,7 @@ Deliver the **main campaign**.
 
 **Launch = Maximum intensity**  
 **Teaser + Launch = Short**  
-**Sustenance = Can be extended**
+**Sustenance = Can be extended** 
 
 
 ### Lecture - 27 August 2026  
@@ -821,3 +821,656 @@ Digital media allows budget and activity to be adjusted according to actual perf
 Main CRO levers:
 
 **Creative → Landing Page → Trust → Personalisation → Retargeting → Cart Recovery → Payment/Checkout**
+
+---
+
+### Lecture — 3 September 2026
+
+---
+
+## 1. Division of 100% Budget Among Funnel Stages
+
+The 100% campaign budget can be divided among different stages of the funnel:
+
+- **Awareness**
+- **Findability**
+- **Reputation**
+- **Conversion**
+- **Advocacy**
+
+The exact allocation **depends on the Media Plan** and the campaign objective.
+
+---
+
+## 2. Funnel Stages & Measurement
+
+### Awareness
+
+The objective is to create:
+
+- Awareness
+- Attention
+- Brand love
+- Shareability
+
+### Measurement
+
+Awareness can be judged through:
+
+- Impressions
+- Reach
+- Frequency
+- Shareability
+
+---
+
+### Findability
+
+The objective is to make the brand easier to discover and encourage users to interact with it.
+
+### Measurement
+
+- Clicks
+- Landing Page Views
+- Video Views
+- Engagements
+
+### Landing Page Views
+
+A landing page view indicates that the user clicked and the landing page loaded.
+
+> A discrepancy between clicks and landing page views can occur because of factors such as page speed, network/Wi-Fi issues or accidental clicks.
+
+---
+
+### Reputation
+
+The objective is to build:
+
+- Confidence
+- Trust
+- Positive brand perception
+
+### Measurement
+
+Possible indicators include:
+
+- Video watch time
+- Follower numbers
+- Positive mentions
+- Sentiment
+
+### Reputation Monitoring
+
+Tools discussed in class:
+
+- **Brand24** — Social listening and brand mention monitoring
+- **Modash** — Influencer/follower analysis and fake-follower detection
+
+---
+
+### Conversion
+
+Conversion is an action taken by the user that creates measurable business value.
+
+Examples:
+
+- Sales
+- Leads
+- Calls
+- Chats
+- Purchases
+- Other valuable actions
+
+### Lead Generation
+
+**Leads → Prospects → Sales**
+
+For example, leads can come through:
+
+- Email
+- Calls
+- Messages
+- Enquiries
+
+---
+
+### Advocacy
+
+Advocacy represents brand love and positive customer behaviour.
+
+Examples:
+
+- Mentions
+- Follows
+- Referrals
+- Reviews
+- Loyalty programmes
+- Subscriptions
+- Loyalty points
+
+### Key Idea
+
+A customer can move from being a buyer to becoming a **brand advocate**.
+
+---
+
+## 3. Media Jargon & Formulas
+
+### Impressions
+
+**Impressions = Number of times the content/ad was shown**
+
+### Reach
+
+**Reach = Number of unique people who saw the content/ad**
+
+### Frequency
+
+**Frequency = Average number of times one person saw the ad**
+
+### Formula
+
+**Frequency = Impressions ÷ Reach**
+
+### Example
+
+If:
+
+- Impressions = 150
+- Reach = 50
+
+Then:
+
+**Frequency = 150 ÷ 50 = 3**
+
+Therefore:
+
+**150 Impressions = 50 Reach × 3 Frequency**
+
+---
+
+## 4. Frequency Cap
+
+A **Frequency Cap** is the upper limit on the number of times one person can see an advertisement.
+
+It helps control excessive repetition of an advertisement.
+
+### Frequency Cap Depends On
+
+- Campaign objective
+- Platform
+- Campaign duration
+- Audience
+- Media plan
+
+Frequency caps are available in platforms such as:
+
+- Meta Ads
+- Google Ads
+
+---
+
+## 5. Findability Metrics
+
+### 1. Clicks
+
+Clicks measure when users click on an advertisement or link.
+
+---
+
+### 2. Landing Page Views
+
+Measures when the user clicks and the landing page successfully loads.
+
+A difference between clicks and landing page views can happen because of:
+
+- Page speed
+- Network/Wi-Fi problems
+- Accidental clicks
+- Page loading issues
+
+---
+
+### 3. Video Views
+
+Video views measure whether users actually watched the video according to the platform's view definition.
+
+The class discussed short-duration viewing/watch-time as an indication of video consumption.
+
+> **Impression ≠ View**
+
+An impression means the ad was shown, while a view depends on the platform's defined viewing criteria.
+
+---
+
+### 4. YouTube Video Views
+
+The class discussed:
+
+#### Skippable Ads
+
+The user can skip the advertisement.
+
+The class discussed the **30-second viewing point** as an important view measurement reference.
+
+#### Non-Skippable Ads
+
+The user cannot skip the advertisement.
+
+Therefore, the relationship between impressions and completed exposure is different from skippable advertisements.
+
+### Important
+
+If the advertisement is good and users continue watching, the platform can generate more meaningful video views.
+
+---
+
+## 6. Engagement
+
+Engagement measures how actively users interact with the content.
+
+Examples:
+
+- Likes
+- Comments
+- Shares
+- Saves
+- Contest participation
+- Other meaningful interactions
+
+### Engagement Depends On Objective
+
+For example:
+
+**Awareness → Views / Shares**
+
+**Consideration → Comments / Clicks**
+
+**Conversion → Leads / Sales**
+
+---
+
+## 7. Reputation Measurement
+
+Reputation focuses on how people perceive and talk about the brand.
+
+### Metrics / Indicators
+
+- Brand mentions
+- Positive mentions
+- Negative mentions
+- Sentiment
+- Follower growth
+- Video watch time
+- Social conversations
+
+### Tools
+
+**Brand24 → Brand/social listening**
+
+**Modash → Influencer and follower analysis**
+
+---
+
+## 8. Conversion & Remarketing
+
+Remarketing can be used at different stages of the customer journey.
+
+### Stage 1 — Homepage
+
+**User reaches homepage → Does not continue**
+
+Possible action:
+
+- Remarketing
+- Relevant product/category communication
+
+---
+
+### Stage 2 — Product Page
+
+**User reaches product page → Does not proceed**
+
+Possible action:
+
+- Product reminder
+- Discount
+- Offer
+- Relevant product communication
+
+---
+
+### Stage 3 — Cart
+
+**User reaches cart → Does not purchase**
+
+Possible action:
+
+- Cart reminder
+- Discount
+- Limited-time offer
+- Better payment options
+
+---
+
+### Stage 4 — Successful Transaction
+
+**User completes purchase**
+
+Possible action:
+
+- Cross-sell
+- Up-sell
+- Loyalty communication
+- New product communication
+
+### Key Principle
+
+> **At every stage of the customer journey, users can be remarketed based on their previous behaviour.**
+
+---
+
+## 9. Sales
+
+For sales-focused campaigns, marketers can create urgency using:
+
+- Offers
+- Discounts
+- Limited-time deals
+- New product communication
+
+The objective is to encourage the user to complete the purchase.
+
+---
+
+# 10. Deal Types
+
+Different campaign objectives use different ways of charging/measuring media spend.
+
+---
+
+## 10.1 Impressions → CPM
+
+**CPM = Cost Per Mille**
+
+Mille means **1,000**.
+
+CPM is the cost of generating 1,000 impressions.
+
+### Formula
+
+**CPM = (Spend ÷ Impressions) × 1,000**
+
+### Example
+
+If:
+
+- Spend = ₹1,000
+- Impressions = 50,000
+
+Then:
+
+**CPM = (₹1,000 ÷ 50,000) × 1,000**
+
+**CPM = ₹20**
+
+---
+
+## 10.2 Clicks → CPC
+
+**CPC = Cost Per Click**
+
+### Formula
+
+**CPC = Spend ÷ Clicks**
+
+It measures the average amount spent for each click.
+
+---
+
+## 10.3 Views → CPV
+
+**CPV = Cost Per View**
+
+### Formula
+
+**CPV = Spend ÷ Views**
+
+It measures the average amount spent for each counted video view.
+
+---
+
+## 10.4 Leads → CPL
+
+**CPL = Cost Per Lead**
+
+### Formula
+
+**CPL = Spend ÷ Leads**
+
+It measures the average amount spent for each lead generated.
+
+---
+
+## 10.5 General Formula Principle
+
+> **Spend is the numerator and whatever you want to find is the denominator.**
+
+Examples:
+
+**Spend ÷ Impressions → CPM**
+
+**Spend ÷ Clicks → CPC**
+
+**Spend ÷ Views → CPV**
+
+**Spend ÷ Leads → CPL**
+
+---
+
+# 11. Marketing Funnel Models
+
+Different marketing models can be used to understand the movement of consumers from awareness to action and advocacy.
+
+---
+
+## 11.1 First Model — See → Think → Do → Care
+
+### See
+
+The target audience becomes aware of the brand.
+
+**See → Awareness**
+
+### Think
+
+The audience becomes interested and starts considering the brand.
+
+**Think → Interest**
+
+### Do
+
+The audience develops an intention to buy and takes action.
+
+**Do → Desire / Action**
+
+### Care
+
+The customer has purchased and may provide feedback or become an advocate.
+
+**Care → Advocacy**
+
+### Flow
+
+**See → Think → Do → Care**
+
+---
+
+## 11.2 Second Model — Plan → Reach → Act → Convert → Engage
+
+This model focuses on planning communication for a specific customer.
+
+### Plan
+
+Plan the communication before entering the funnel.
+
+### Reach
+
+Reach the relevant audience and understand how communication should be delivered.
+
+### Act
+
+Create purchase intent and interaction.
+
+Examples:
+
+- Interactions
+- Leads
+- Enquiries
+
+### Convert
+
+The customer purchases.
+
+### Engage
+
+Build:
+
+- Love
+- Loyalty
+- Relationship
+- Repeat behaviour
+
+### Flow
+
+**Plan → Reach → Act → Convert → Engage**
+
+---
+
+## 11.3 Third Model — AFCRA
+
+### AFCRA
+
+**Awareness → Findability → Reputation → Conversion → Advocacy**
+
+| Stage | Consumer Behaviour |
+|---|---|
+| **Awareness** | See |
+| **Findability** | Look |
+| **Reputation** | Research |
+| **Conversion** | Buy |
+| **Advocacy** | Come back |
+
+### Flow
+
+**Awareness → Findability → Reputation → Conversion → Advocacy**
+
+---
+
+## 11.4 Fourth Model — AIDA
+
+### AIDA
+
+| Letter | Stage |
+|---|---|
+| **A** | Awareness |
+| **I** | Interest |
+| **D** | Desire |
+| **A** | Action |
+
+### Flow
+
+**Awareness → Interest → Desire → Action**
+
+---
+
+## 11.5 Fifth Model — 5A
+
+### 5A Model
+
+| Letter | Stage |
+|---|---|
+| **A** | Awareness |
+| **C** | Consideration |
+| **C** | Conversion |
+| **A** | Advocacy |
+
+### Flow
+
+**Awareness → Consideration → Conversion → Advocacy**
+
+> **Whichever model you use, always have Advocacy.**
+
+---
+
+# 12. Key Learning — Funnel Models
+
+Different models can be used depending on:
+
+- Campaign objective
+- Audience
+- Communication strategy
+- Media plan
+
+However, the larger objective is to move customers beyond purchase and toward:
+
+**Loyalty → Advocacy → Repeat Behaviour**
+
+---
+
+# Quick Revision — 3 September 2026
+
+### Funnel
+
+**Awareness → Findability → Reputation → Conversion → Advocacy**
+
+### Awareness
+
+**Impressions + Reach + Frequency + Shareability**
+
+### Findability
+
+**Clicks + Landing Page Views + Video Views + Engagement**
+
+### Reputation
+
+**Trust + Confidence + Mentions + Sentiment**
+
+### Conversion
+
+**Sales + Leads + Calls + Chats**
+
+### Advocacy
+
+**Mentions + Follows + Referrals + Loyalty + Subscriptions**
+
+### Core Formulas
+
+**Impressions = Reach × Frequency**
+
+**Frequency = Impressions ÷ Reach**
+
+**CPM = (Spend ÷ Impressions) × 1,000**
+
+**CPC = Spend ÷ Clicks**
+
+**CPV = Spend ÷ Views**
+
+**CPL = Spend ÷ Leads**
+
+### Funnel Models
+
+**See → Think → Do → Care**
+
+**Plan → Reach → Act → Convert → Engage**
+
+**Awareness → Findability → Reputation → Conversion → Advocacy**
+
+**AIDA = Awareness → Interest → Desire → Action**
+
+**5A = Awareness → Consideration → Conversion → Advocacy**
+
+### Key Principle
+
+> **Whatever funnel model you use, always have Advocacy.**
