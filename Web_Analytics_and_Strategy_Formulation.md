@@ -1910,3 +1910,5 @@ For AI visibility:
 For campaign tracking:
 
 **Source → Medium → Campaign → Content → Analytics**
+
+<script src="assets/top-button.js"></script>

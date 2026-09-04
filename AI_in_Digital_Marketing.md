@@ -7,3 +7,5 @@
 ## Lecture 1
 
 **Date:**
+
+<script src="assets/top-button.js"></script>

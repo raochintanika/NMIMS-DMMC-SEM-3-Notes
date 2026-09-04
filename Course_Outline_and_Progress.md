@@ -180,3 +180,5 @@ A simple overview of the Semester III course outlines and the topics covered so 
 **Covered:** 42 / 78 sections
 
 This page will be updated as lectures progress.
+
+<script src="assets/top-button.js"></script>

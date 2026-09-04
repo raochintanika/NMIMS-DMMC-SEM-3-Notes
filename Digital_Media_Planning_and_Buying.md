@@ -1346,3 +1346,5 @@ However, the larger objective is to move customers beyond purchase and toward:
 ### Key Principle
 
 > **Whatever funnel model you use, always have Advocacy.**
+
+<script src="assets/top-button.js"></script>

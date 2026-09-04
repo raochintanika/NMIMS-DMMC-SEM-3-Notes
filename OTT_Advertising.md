@@ -537,3 +537,5 @@ The platform needs to:
 ### Core Learning
 
 > ****Acquiring a user is only the beginning. The OTT platform must keep the user active and engaged to generate long-term value.****
+
+<script src="assets/top-button.js"></script>

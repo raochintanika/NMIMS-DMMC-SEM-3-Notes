@@ -677,3 +677,5 @@ The five channels connect to roles such as:
 ---
 
 [^2]: **Negative keywords:** search terms excluded from an ad campaign. Source: E-Commerce & Digital Marketing Jargons glossary.
+
+<script src="assets/top-button.js"></script>
