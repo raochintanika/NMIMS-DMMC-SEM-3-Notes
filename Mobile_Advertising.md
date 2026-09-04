@@ -14,34 +14,23 @@ Mobile marketing is the use of ****mobile devices, apps and networks through spe
 
 ## 2. Types of Mobile Marketing
 
-1\. Mobile Ads
-
-2\. Mobile Messaging
-
-3\. Push Notifications
-
-4\. Mobile App Marketing
-
-5\. Location-Based Marketing
-
+1\. Mobile Ads  
+2\. Mobile Messaging  
+3\. Push Notifications  
+4\. Mobile App Marketing  
+5\. Location-Based Marketing  
 6\. Mobile Commerce
 
 ---
 
 ## 3. Objectives of Mobile Marketing
 
-1\. ****Awareness**** — Build reach and brand recall.
-
-2\. ****Lead Generation**** — Collect consumer information.
-
-3\. ****App Acquisition**** — Drive app downloads.
-
-4\. ****Sales & Conversion**** — Drive immediate transactions.
-
-5\. ****Engagement**** — Encourage consumers to interact with the brand.
-
-6\. ****Retention**** — Bring existing customers back.
-
+1\. ****Awareness**** — Build reach and brand recall.  
+2\. ****Lead Generation**** — Collect consumer information.  
+3\. ****App Acquisition**** — Drive app downloads.  
+4\. ****Sales & Conversion**** — Drive immediate transactions.  
+5\. ****Engagement**** — Encourage consumers to interact with the brand.  
+6\. ****Retention**** — Bring existing customers back.  
 7\. ****Loyalty**** — Increase repeat purchases and customer lifetime value.
 
 ---
@@ -51,11 +40,8 @@ Mobile marketing is the use of ****mobile devices, apps and networks through spe
 Mobile marketing can be:
 
 - More personalized
-
 - Better at targeting audiences
-
 - Able to reach audiences instantly
-
 - Able to measure the complete cycle
 
 ---
@@ -69,11 +55,8 @@ Mobile marketing can be:
 ## 6. Mobile's Role in the Consumer Journey
 
 | Consumer Journey | Role of Mobile |
-
 |---|---|
-
 | Awareness | Amplify reach |
-
 | Discovery | Capture intent |
 
 ---
@@ -86,15 +69,10 @@ Mobile marketing can be:
 ### 1. FreshBite Mobile Marketing Case Study
 
 FreshBite offers:
-
 - Healthy meals
-
 - Protein-rich food
-
 - Salads and bowls
-
 - Office lunch subscriptions
-
 - 30-minute delivery
 
 ---
@@ -102,15 +80,10 @@ FreshBite offers:
 ## 1.1 Target Audience
 
 - Urban consumers
-
 - Age: 22–35
-
 - Corporate and tech professionals
-
 - Fitness and health-conscious
-
 - Frequently order food online
-
 - Heavy mobile users
 
 ---
@@ -122,39 +95,30 @@ FreshBite offers:
 Discover FreshBite through:
 
 - Mobile ads
-
 - Social media
-
 - Influencers
-
 - Events
 
 ### Consideration
 
 - Explore the app and website
-
 - Check online reviews
 
 ### Order
 
 - 30-minute delivery
-
 - Subscription options
 
 ### Experience
 
 - Convenience
-
 - Fresh meals
-
 - Easy ordering experience
 
 ### Retention
 
 - Push notifications
-
 - Subscription offers
-
 - Promotional offers
 
 ---
@@ -164,21 +128,13 @@ Discover FreshBite through:
 Example budget allocation discussed in class:
 
 | Channel | Budget |
-
 |---|---:|
-
 | Meta / Instagram | ₹3.5 lakh |
-
 | Google Ads | ₹2 lakh |
-
 | Influencers | ₹1.5 lakh |
-
 | Fitness Apps | ₹3.5 lakh |
-
 | Events | ₹10 lakh |
-
 | Gym | ₹1.5 lakh |
-
 | Creators | ₹8 lakh |
 
 > ****Note:**** The budget figures above are from the class case-study notes.
@@ -190,47 +146,30 @@ Example budget allocation discussed in class:
 Possible tactics:
 
 - Push notifications
-
 - In-app ads
-
 - Location-based advertising
-
 - Meta Ads
-
 - Google Ads
-
 - Reels
-
 - Events / event booths
-
 - PR packages
-
 - Offers
-
 - Word-of-mouth
-
 - Posters
-
 - Sampling
-
 - Referral codes
-
 - PR creators to track/referral activity
 
 ---
 
 ## 1.5 The "Mobile Moment"
 
-Identify the specific moments when the consumer is most likely to need FreshBite.
-
+Identify the specific moments when the consumer is most likely to need FreshBite.  
 Examples:
 
 - 12 PM lunch-time ping
-
 - Lunch hour
-
 - Dinner hour
-
 - Reminder notifications
 
 The idea is to reach the consumer when the product is most relevant to their immediate need.
@@ -242,15 +181,10 @@ The idea is to reach the consumer when the product is most relevant to their imm
 Possible KPIs:
 
 - Reach
-
 - Views
-
 - CTR
-
 - Orders
-
 - App downloads
-
 - Subscriptions
 
 ---
@@ -268,27 +202,20 @@ Small rectangular advertisements displayed within mobile content, apps or websit
 ### Characteristics
 
 - Simple copy
-
 - Image / visual
-
 - Call-to-action
 
 Examples of CTAs:
 
 - Buy Now
-
 - Download Now
-
 - Shop Now
 
 ### Primary Objectives
 
 - Awareness
-
 - Offers
-
 - Traffic
-
 - Retargeting
 
 Banner ads are generally strong for visibility and traffic, but average for interaction.
@@ -302,23 +229,18 @@ Full-screen advertisements that appear within a web or app experience.
 ### Characteristics
 
 - Take up the entire mobile screen
-
 - High visibility
-
 - Strong attention grab
 
 ### Best Used For
 
 - Product launches
-
 - Major campaigns
-
 - Awareness
 
 ### Example
 
-A Netflix launch campaign appearing as a full-screen takeover.
-
+A Netflix launch campaign appearing as a full-screen takeover.  
 Interstitials have high visibility but relatively low interaction because users may skip or close them.
 
 ---
@@ -330,9 +252,7 @@ Video-based advertisements.
 ### Main Purpose
 
 - Awareness
-
 - Storytelling
-
 - Capturing attention
 
 Video can communicate more information than a static banner and is useful when storytelling is important.
@@ -340,17 +260,11 @@ Video can communicate more information than a static banner and is useful when s
 ### Types of Video Ads
 
 - In-stream
-
 - Out-stream
-
 - In-feed
-
 - Video banner
-
 - Social media video
-
 - Interactive video
-
 - 360° video
 
 ---
@@ -362,7 +276,6 @@ Video ads that play inside existing video content.
 ### Examples
 
 - YouTube pre-roll
-
 - OTT advertisements
 
 The user is already watching video content when the ad appears.
@@ -376,7 +289,6 @@ Video ads that play outside an existing video player.
 ### Examples
 
 - Video appearing while reading an online article
-
 - Video appearing on a content website
 
 The user is browsing or reading content rather than intentionally watching a video.
@@ -386,23 +298,16 @@ The user is browsing or reading content rather than intentionally watching a vid
 ## 2.6 In-Stream vs Out-Stream Ads
 
 | In-Stream | Out-Stream |
-
 |---|---|
-
 | Video ad plays inside existing video content | Video ad appears outside a video player |
-
 | User is already watching a video | User may be reading an article or browsing content |
-
 | Common on YouTube, OTT and video platforms | Common across websites, articles and feeds |
-
 | Video is part of the existing video experience | Video creates a new video experience |
-
 | Stronger video-viewing intent | Useful for extending video reach |
 
 ### Simple Difference
 
-****In-Stream = Video ad inside existing video content****
-
+****In-Stream = Video ad inside existing video content****   
 ****Out-Stream = Video ad outside an existing video player****
 
 ---
@@ -419,24 +324,20 @@ Ad appears during the video.
 
 ### Post-Roll
 
-Ad appears after the video.
-
+Ad appears after the video.  
 Post-roll generally has limited use because many users do not reach the end of the video.
 
 ---
 
 ### 3. Playable Ads
 
-Interactive advertisements, commonly used in mobile gaming.
-
+Interactive advertisements, commonly used in mobile gaming.  
 The user can actually interact with or play a demonstration of the advertised game/app.
 
 ### Objective
 
 - High engagement
-
 - Customer acquisition
-
 - App downloads
 
 Playable ads can encourage users to download another application after experiencing it directly.
@@ -450,19 +351,14 @@ Advertisements where the user receives a reward for completing an action.
 ### Examples
 
 - Google Pay rewards
-
 - Scratch cards
-
 - Rewards after transactions
-
 - Gaming rewards
 
 ### Objective
 
 - High engagement
-
 - Encourage participation
-
 - Increase repeated interaction
 
 Rewarded formats are particularly useful when the marketer wants users to actively participate.
@@ -476,13 +372,9 @@ Promotional messages delivered directly through an app's push notification syste
 ### Uses
 
 - Promotions
-
 - Retargeting
-
 - Re-engagement
-
 - Time-sensitive offers
-
 - Reminders
 
 ### Example
@@ -493,26 +385,19 @@ A food delivery app sending a lunch-time offer through a push notification.
 
 ### 6. Rich Media Ads
 
-Interactive and engaging advertising formats that can combine multiple elements.
-
+Interactive and engaging advertising formats that can combine multiple elements.  
 They may include:
 
 - Video
-
 - Interactive elements
-
 - Playable elements
-
 - 360° experiences
-
 - Other interactive formats
 
 ### Main Objectives
 
 - High engagement
-
 - Brand storytelling
-
 - Better user experience
 
 A rich media format can make the user actively interact with the advertisement rather than simply viewing it.
@@ -530,27 +415,19 @@ Advertisements displayed within a mobile application.
 ### Examples
 
 - Swiggy
-
 - Zomato
-
 - Google Pay
 
 ### Important Distinction
 
-****In-app**** describes ****where the advertisement appears****.
-
+****In-app**** describes ****where the advertisement appears****.  
 The actual advertisement format could be:
 
 - Banner
-
 - Video
-
 - Native
-
 - Rewarded
-
 - Rich media
-
 - Other formats
 
 Therefore, ****"in-app" and "banner/video" are not necessarily competing categories.****
@@ -566,25 +443,19 @@ One app or product promotes another app/product within the same broader ecosyste
 ### Examples
 
 - Tata ecosystem promoting another Tata product
-
 - Jio promoting another Jio product
-
 - Nykaa Beauty promoting Nykaa Fashion
 
 ### Objectives
 
 - App discovery
-
 - Cross-selling
-
 - User acquisition
-
 - Cross-ecosystem growth
 
 ### Example
 
-A beauty app can encourage its existing users to also try the brand's fashion app.
-
+A beauty app can encourage its existing users to also try the brand's fashion app.  
 This works particularly well when two products have overlapping audiences.
 
 ---
@@ -592,25 +463,15 @@ This works particularly well when two products have overlapping audiences.
 ### 9. Mobile Advertising Format Summary
 
 | Format | Visibility | Interaction | Best Objective |
-
 |---|---|---|---|
-
 | Banner | ⭐⭐ | ⭐ | Awareness / Traffic |
-
 | Interstitial | ⭐⭐⭐⭐⭐ | ⭐⭐ | Awareness |
-
 | Video | ⭐⭐⭐⭐ | ⭐⭐⭐ | Awareness / Storytelling |
-
 | Playable | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | App Acquisition |
-
 | Rewarded | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Engagement |
-
 | Native | ⭐⭐⭐ | ⭐⭐⭐ | Content / Consideration |
-
 | Rich Media | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Engagement / Demonstration |
-
 | In-App | Depends on format | Depends on format | Depends on objective |
-
 | Cross-Promotion | ⭐⭐⭐ | ⭐⭐ | App Acquisition |
 
 > ****Note:**** The visibility and interaction ratings are subjective classroom comparisons and are useful as a broad way to understand the role of each format.
@@ -619,22 +480,15 @@ This works particularly well when two products have overlapping audiences.
 
 ### 10. Consumer Attention & Mobile Advertising
 
-A major discussion in the lecture was ****attention****.
-
+A major discussion in the lecture was ****attention****.   
 Consumers are exposed to:
 
 - Social media
-
 - News websites
-
 - Mobile apps
-
 - Notifications
-
 - Emails
-
 - Video content
-
 - Multiple advertising formats
 
 Because consumers have many distractions and choices, marketers need to capture attention quickly.
@@ -652,11 +506,8 @@ Therefore, the objective of a short video may simply be:
 For example:
 
 - Show the brand
-
 - Introduce a product
-
 - Create curiosity
-
 - Encourage the user to learn more
 
 The content should be simple and focused on one objective.
@@ -670,13 +521,9 @@ Consumers are driven by ****intent****.
 The same advertisement can perform differently depending on:
 
 - Product category
-
 - Consumer mindset
-
 - Platform
-
 - Situation
-
 - Level of intent
 
 ### Example
@@ -693,38 +540,27 @@ If you do not understand the audience, the communication becomes generic.
 
 ### 12. Brand Integration
 
-Brands can also integrate themselves into entertainment content.
-
+Brands can also integrate themselves into entertainment content.   
 Examples:
-
 - Movies
-
 - Web series
-
 - YouTube content
-
 - Other long-form entertainment
 
-Brand integration can work because consumers remember the brand within the context of content they were already interested in.
-
+Brand integration can work because consumers remember the brand within the context of content they were already interested in.   
 The key is to make the integration relevant to the audience and content.
 
 ---
 
 ### 13. In-App Advertising Strategy
 
-In-app advertising can combine multiple advertising formats.
-
+In-app advertising can combine multiple advertising formats.   
 For example:
 
 - Banner
-
 - Video
-
 - Native
-
 - Rewarded
-
 - Rich media
 
 The format should depend on the objective.
@@ -735,8 +571,7 @@ The format should depend on the objective.
 
 ### Example Discussed
 
-A food-delivery app can use subtle branded elements inside the order-tracking experience.
-
+A food-delivery app can use subtle branded elements inside the order-tracking experience.   
 This can create brand visibility without feeling like a traditional advertisement.
 
 ---
@@ -754,15 +589,10 @@ A beauty app could encourage existing beauty users to try the company's fashion 
 ### Possible Tactics
 
 - Push notifications
-
 - SMS
-
 - Email
-
 - Loyalty programme
-
 - Exclusive benefits
-
 - In-app promotion
 
 ### Core Idea
@@ -778,21 +608,15 @@ Use the existing customer base of one product to grow another product within the
 Recommended formats from the class discussion:
 
 - Video Ads
-
 - Rich Media
-
 - Interstitial Ads
 
 ### Why?
 
-A smartphone launch requires:
-
+A smartphone launch requires:   
 - Awareness
-
 - Product demonstration
-
 - Feature communication
-
 - High visibility
 
 ---
@@ -802,13 +626,11 @@ A smartphone launch requires:
 Recommended formats:
 
 - Playable Ads
-
 - Interstitial Ads
 
 ### Why?
 
 Playable ads allow users to experience the game before downloading it.
-
 Interstitials provide strong visibility and can encourage app acquisition.
 
 ---
@@ -818,19 +640,14 @@ Interstitials provide strong visibility and can encourage app acquisition.
 Recommended formats:
 
 - Rich Media
-
 - Video
-
 - In-App Ads
-
 - Banner Ads
-
 - 360° Video
 
 ### Why?
 
-A car has multiple features that benefit from visualisation and interactive experiences.
-
+A car has multiple features that benefit from visualisation and interactive experiences.   
 Rich media and 360° experiences can allow consumers to explore the product rather than simply see a static advertisement.
 
 ---

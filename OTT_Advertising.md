@@ -13,13 +13,9 @@
 ****OTT = Over The Top**** — services delivered over the internet.
 
 - Netflix was used as an example.
-
 - OTT is a ****non-linear medium****.
-
 - DTH = network / signal / satellite
-
 - Cable = cable
-
 - OTT = internet
 
 ---
@@ -29,29 +25,19 @@
 ### Traditional TV
 
 - Fixed schedule / EPG
-
 - Local or national
-
 - Family watching / group consumption
-
 - Limited ability to track detailed user-level behaviour
-
 - Geographic limitations
-
 - Linear
 
 ### OTT
 
 - On-demand
-
 - Global content
-
 - Individual consumption
-
 - No traditional geographic boundary
-
 - Tracks user behaviour and metrics
-
 - Non-linear
 
 ---
@@ -59,7 +45,6 @@
 ## 3. TRP
 
 - Sampling is used.
-
 - Since TRP is based on sampling, the data may not represent every viewer perfectly.
 
 ---
@@ -77,11 +62,8 @@
 Used as an example of:
 
 - PR stunt
-
 - Innovation
-
 - Creating something people will talk about
-
 - Brand positioning
 
 ---
@@ -91,9 +73,7 @@ Used as an example of:
 Local OTT content depends on:
 
 - Audience preferences
-
 - Content rights
-
 - Censorship differences
 
 The notes give ****“Middle Eastern countries — No Hindu content”**** as an example. This is preserved as the professor's example, not as a universal statement.
@@ -103,17 +83,11 @@ The notes give ****“Middle Eastern countries — No Hindu content”**** as an
 ## 7. Traditional TV vs OTT — Positioning in Advertising
 
 | Traditional TV | OTT |
-
 |---|---|
-
 | Limited personalization | Greater personalization |
-
 | Linear | Non-linear |
-
 | Mass audience | Target audience |
-
 | Fixed inventory | Flexible inventory |
-
 | Fixed infrastructure | Portable infrastructure |
 
 ---
@@ -123,50 +97,37 @@ The notes give ****“Middle Eastern countries — No Hindu content”**** as an
 ### TVOD — Transactional Video on Demand
 
 - Pay/rent for specific content
-
 - Rent a movie for a limited period
-
 - New-release movies may receive early access
-
 - Can provide premium movie/content access
 
 ### AVOD — Advertising Video on Demand
 
 - Advertising-supported video on demand
-
 - Ads support the monetization model
 
 ### FVOD — Free Video on Demand
 
 - Free content
-
 - Can be used for sampling and increased engagement
 
 ### SVOD — Subscription Video on Demand
 
 - Subscription-based video on demand
-
 - User pays an OTT subscription fee
-
 - Ads may also be included depending on the plan
 
 ---
 
 ### Quick Revision
 
-****OTT:**** Internet-delivered, non-linear, on-demand content.
-
-****Traditional TV:**** Scheduled, linear, mass-audience medium.
-
-****TRP:**** TV measurement based on sampling.
-
-****TVOD:**** Pay/rent for specific content.
-
-****AVOD:**** Advertising-supported video on demand.
-
-****FVOD:**** Free video on demand.
-
-****SVOD:**** Subscription-based video on demand.
+****OTT:**** Internet-delivered, non-linear, on-demand content.  
+****Traditional TV:**** Scheduled, linear, mass-audience medium.  
+****TRP:**** TV measurement based on sampling.  
+****TVOD:**** Pay/rent for specific content.  
+****AVOD:**** Advertising-supported video on demand.  
+****FVOD:**** Free video on demand.  
+****SVOD:**** Subscription-based video on demand.  
 
 ---
 
@@ -219,12 +180,9 @@ The class discussed ****Azure and AWS**** as major cloud infrastructure provider
 
 ### Case Study
 
-- ****OTT****
-
+- ****OTT****  
 - ****Genre:**** Animation / Fiction
-
 - ****Name:**** Anfiction **(as noted in class)**
-
 - ****Installs:**** 18M installs
 
 ### Monetisation
@@ -238,11 +196,8 @@ The case discussed a ****hybrid monetisation model****:
 The class discussion connected the model to:
 
 - Young audiences
-
 - Time spent on the platform
-
 - Additional/occasional viewers
-
 - Different audience willingness to pay
 
 ---
@@ -252,7 +207,6 @@ The class discussion connected the model to:
 Two major factors affecting OTT monetisation:
 
 1\. ****Cost of the App****
-
 2\. ****Cost of Content****
 
 ---
@@ -262,17 +216,11 @@ Two major factors affecting OTT monetisation:
 Costs can include:
 
 - App development
-
 - Technology
-
 - Maintenance
-
 - Resources
-
 - Marketing
-
 - Cloud infrastructure
-
 - CDN
 
 ---
@@ -282,23 +230,17 @@ Costs can include:
 Content-related costs can include:
 
 - Content production
-
 - Content acquisition
-
 - Content rights
-
 - Localisation
-
 - Marketing
 
 ### Content Acquisition
 
-An OTT platform may acquire content from another market.
-
+An OTT platform may acquire content from another market.   
 For example:
 
-****Korean Content → Acquisition → Localisation → Hindi / English****
-
+****Korean Content → Acquisition → Localisation → Hindi / English****   
 Localisation can involve adapting content for the target audience and language.
 
 ---
@@ -308,11 +250,8 @@ Localisation can involve adapting content for the target audience and language.
 The class discussed the following as major content categories:
 
 - Bollywood
-
 - Astrology
-
 - Spiritual / Devotional
-
 - Sports
 
 ---
@@ -324,23 +263,16 @@ The class discussed the following as major content categories:
 Examples:
 
 - Print
-
 - Outdoor
-
 - TV
-
 - Radio
 
 ### Challenges / Reasons for Decline
 
 - Attention
-
 - Cost
-
 - Measurability
-
 - Visibility
-
 - Limited audience-level data
 
 ---
@@ -350,13 +282,9 @@ Examples:
 Examples:
 
 - Modern social media
-
 - Email
-
 - Performance marketing
-
 - Influencers / creators
-
 - Tele-marketing
 
 ### Key Advantage
@@ -390,11 +318,8 @@ The first step is acquiring users through app installs.
 ### Important Acquisition Considerations
 
 - Revenue
-
 - Customer base
-
 - Number of installs
-
 - Number of users
 
 ---
@@ -403,24 +328,18 @@ The first step is acquiring users through app installs.
 
 ### User
 
-A person who has installed the app and has their account/login details within the platform.
-
+A person who has installed the app and has their account/login details within the platform.   
 A user may not necessarily be actively using the platform.
 
 ### Active User
 
-A user who actually performs an activity on the platform.
-
+A user who actually performs an activity on the platform.   
 Examples:
 
 - Watching content
-
 - Clicking
-
 - Browsing
-
 - Interacting with the app
-
 - Performing another measurable action
 
 ### Important Distinction
@@ -438,17 +357,13 @@ Engagement focuses on whether acquired users actually use the platform.
 ### Important Metrics
 
 - Installs
-
 - Users
-
 - Active users
 
 ### Key Business Metric
 
-****CLV / LTV****
-
-****CLV = Customer Lifetime Value****
-
+****CLV / LTV****   
+****CLV = Customer Lifetime Value****   
 ****LTV = Lifetime Value****
 
 The objective is not only to acquire users but to understand their long-term value to the platform.
@@ -462,9 +377,7 @@ A subscription model can have different payment periods.
 Examples:
 
 - Monthly
-
 - Quarterly
-
 - Yearly
 
 ### Key Idea
@@ -490,11 +403,8 @@ Use notifications to bring users back to the platform.
 Examples:
 
 - New episode notification
-
 - New content notification
-
 - Reminder to watch
-
 - Personalised content notification
 
 ---
@@ -504,11 +414,8 @@ Examples:
 Use offers to encourage:
 
 - Subscription
-
 - Re-subscription
-
 - Content consumption
-
 - Continued engagement
 
 ---
@@ -544,11 +451,8 @@ Use nostalgic content or calendar-based moments to encourage viewing.
 Examples may include:
 
 - Old popular shows
-
 - Festival-related content
-
 - Anniversary-based content
-
 - Seasonal content
 
 ---
@@ -564,18 +468,12 @@ A simplified OTT user journey:
 Acquisition alone is not enough.
 
 The platform needs to:
-
-1\. Acquire users
-
-2\. Convert them into active users
-
-3\. Keep them engaged
-
-4\. Generate revenue
-
-5\. Retain them
-
-6\. Increase their lifetime value
+1\. Acquire users  
+2\. Convert them into active users  
+3\. Keep them engaged  
+4\. Generate revenue  
+5\. Retain them  
+6\. Increase their lifetime value  
 
 ---
 
@@ -627,20 +525,13 @@ The platform needs to:
 
 ### Engagement Tactics
 
-1\. Personalised recommendations
-
-2\. Notifications
-
-3\. Offers
-
-4\. Watchlist
-
-5\. Watch party
-
-6\. Rewards
-
-7\. Newer content
-
+1\. Personalised recommendations  
+2\. Notifications  
+3\. Offers  
+4\. Watchlist  
+5\. Watch party  
+6\. Rewards  
+7\. Newer content  
 8\. Nostalgia value / calendar
 
 ### Core Learning

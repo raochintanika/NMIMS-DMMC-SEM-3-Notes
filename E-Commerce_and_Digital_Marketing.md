@@ -28,6 +28,8 @@ Create an **online presence** and enable customers to discover, evaluate, purcha
 4. Email Marketing
 5. Social Media Marketing
 
+---
+
 ## 2. Why Does E-Commerce Matter?
 
 Key ideas from class:
@@ -39,6 +41,8 @@ Key ideas from class:
 - **Attention is the new shelf space**
 
 **Attention → Awareness → Consideration → Purchase → Repeat Purchase**
+
+---
 
 ## 3. Five Digital Marketing Channels
 
@@ -97,6 +101,8 @@ Useful for brand discovery, awareness, community, engagement, organic content, c
 
 **Attention → Awareness → Interest → Community → Purchase**
 
+---
+
 ## 4. How the Channels Work Together
 
 | Channel | Main Role | Speed | Strength |
@@ -117,6 +123,8 @@ Useful for brand discovery, awareness, community, engagement, organic content, c
 
 **Overall: Attract → Engage → Convert → Retain**
 
+---
+
 ## 5. Nykaa Case Study
 
 The class used Nykaa as an example of product guides and educational content.
@@ -125,17 +133,23 @@ The class used Nykaa as an example of product guides and educational content.
 
 > The handwritten notes say “Product guides, no ads.” Preserve this as the class example, but do not generalize it into “Nykaa does not use advertising.”
 
+---
+
 ## 6. Next-Class Assignment — Myntra
 
 ### Brand: Myntra
 
 1. **Last 6 months:** Unique activity across social media, email, website/app, YouTube, creators/influencers and paid campaigns where relevant.
+
 2. **One campaign:** Study **Pre → During → Post**.
+
 3. **Unique offering:** Identify Myntra’s unique offering and explain it in approximately **5–6 lines**.
 
 ### Recommended Campaign
 
 **“Fashion As YOU Like It”** — selected as a strong group option because it gives a clear social/cultural insight around women's fashion, self-expression and social expectations, while providing material for digital marketing analysis.
+
+---
 
 ## Quick Revision
 
@@ -165,6 +179,30 @@ The class used Nykaa as an example of product guides and educational content.
 
 ---
 
+## Quick Revision — Lecture 1
+
+### E-Commerce
+
+**Discover → Consider → Buy → Come Back**
+
+### Five Digital Marketing Channels
+
+- **SEO** → Earn visibility
+- **SEM** → Pay for visibility
+- **Content** → Educate + build trust
+- **Email** → Retain + bring customers back
+- **Social** → Capture attention + build community
+
+### Overall
+
+**Attract → Engage → Convert → Retain**
+
+### Key Idea
+
+**Attention is the new shelf space.**
+
+---
+
 ## 1. E-Commerce & Digital Marketing Ecosystem
 
 ### What Is E-Commerce & Digital Marketing?
@@ -174,12 +212,6 @@ The use of digital channels — search, social, content and email — to attract
 **E-Commerce** is the business of selling online.
 
 **Digital Marketing** is everything that gets the right person to that product — and back again.
-
-### Customer Loop
-
-**Discover → Consider → Buy → Come Back**
-
-Every channel plugs into a stage of this customer loop.
 
 ### E-Commerce Ecosystem
 
@@ -223,6 +255,8 @@ Examples:
 
 Affordability-focused platforms supporting tier-2 and tier-3 adoption.
 
+---
+
 ## 2. Why E-Commerce Matters
 
 ### India
@@ -261,18 +295,9 @@ Examples discussed:
 
 Their fast, humorous and scroll-stopping social presence makes quick delivery part of the brand personality.
 
+---
+
 ## 3. SEO — Search Engine Optimization
-
-### What It Is
-
-Improving websites and product pages so they rank higher in organic, unpaid search results.
-
-### Why It Matters
-
-- Organic traffic can continue after the initial work is done
-- Builds visibility and trust
-- Compounds over time
-- Supports product discovery
 
 ### SEO Checklist
 
@@ -306,6 +331,8 @@ The lecture introduced:
 - **AEO — Answer Engine Optimization**
 
 The objective is increasingly not only to rank in search results but also to become a useful source that AI/search experiences can cite.
+
+---
 
 ## 4. SEM — Search Engine Marketing
 
@@ -356,6 +383,8 @@ Examples:
 - Flipkart Ads
 - Blinkit Ads
 
+---
+
 ## 5. Content Marketing
 
 ### What It Is
@@ -395,6 +424,8 @@ The lecture discussed the shift toward:
 - More human and imperfect-looking content
 
 **Key idea:** Content that feels made by a person for people can perform strongly because it feels native to the platform.
+
+---
 
 ## 6. Email Marketing
 
@@ -441,6 +472,8 @@ The lecture discussed:
 - Behaviour-based messaging
 - Data privacy and consent requirements
 
+---
+
 ## 7. Social Media Marketing
 
 ### What It Is
@@ -486,6 +519,8 @@ The lecture discussed the growing role of creators and social platforms in comme
 
 Creators are increasingly moving from being only advertising space toward becoming part of the selling experience.
 
+---
+
 ## 8. Putting the Five Channels Together
 
 | Channel | Funnel Stage | Speed | Cost | Best For |
@@ -506,6 +541,8 @@ Creators are increasingly moving from being only advertising space toward becomi
 
 **Integrated Marketing: Attract → Engage → Convert → Retain**
 
+---
+
 ## 9. Mamaearth — Integrated Five-Channel Example
 
 The class used Mamaearth to show how the five channels can work together:
@@ -517,6 +554,8 @@ The class used Mamaearth to show how the five channels can work together:
 - **Social:** Influencer and UGC-driven community
 
 **Integrated digital marketing = multiple channels working together across the customer journey.**
+
+---
 
 ## 10. AI Across Digital Marketing
 
@@ -551,6 +590,8 @@ AI can support:
 - Ad-variant generation
 - Audience and creative optimization
 
+---
+
 ## 11. Digital Privacy & DPDP
 
 The lecture discussed India's **Digital Personal Data Protection (DPDP) Act** and its impact on digital marketing.
@@ -568,6 +609,8 @@ Areas discussed:
 - Withdrawal of consent
 
 > The specific implementation dates and compliance details presented in the lecture should be treated as class material and checked against the latest official legal guidance when used outside the notes.
+
+---
 
 ## 12. Career Opportunities
 
@@ -609,7 +652,9 @@ The five channels connect to roles such as:
 - Marketing Analytics Lead
 - CMO
 
-## Quick Revision — 29 August
+---
+
+## Quick Revision — Lecture 2
 
 **E-Commerce:** Discover → Consider → Buy → Come Back
 

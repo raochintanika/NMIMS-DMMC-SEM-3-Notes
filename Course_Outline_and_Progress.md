@@ -42,6 +42,8 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ---
 
+
+
 ## 3. Digital Media Planning & Buying
 
 **Credits:** 3
@@ -62,6 +64,8 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ---
 
+
+
 ## 4. E-Commerce & Digital Marketing
 
 **Credits:** 3
@@ -80,6 +84,8 @@ A simple overview of the Semester III course outlines and the topics covered so 
 **Progress:** 0 / 8 sections
 
 ---
+
+
 
 ## 5. Mobile Advertising
 
@@ -102,6 +108,8 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ---
 
+
+
 ## 6. Web Analytics & Strategy Formulation
 
 **Credits:** 3
@@ -120,6 +128,8 @@ A simple overview of the Semester III course outlines and the topics covered so 
 **Progress:** 8 / 8 sections
 
 ---
+
+
 
 ## 7. Affiliate Marketing
 
@@ -142,6 +152,8 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ---
 
+
+
 ## 8. Artificial Intelligence in Digital Marketing
 
 **Credits:** 3
@@ -160,6 +172,8 @@ A simple overview of the Semester III course outlines and the topics covered so 
 **Progress:** 0 / 8 sections
 
 ---
+
+
 
 ## Overall Progress
 
