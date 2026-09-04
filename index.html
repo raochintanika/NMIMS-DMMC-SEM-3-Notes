@@ -4,11 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Semester 3 Notes | NMIMS</title>
-
     <style>
         body {
             font-family: Arial, sans-serif;
-            max-width: 1000px;
+            max-width: 1100px;
             margin: auto;
             padding: 40px 20px;
             line-height: 1.6;
@@ -16,56 +15,90 @@
             color: #222;
         }
 
-        h1 {
-            font-size: 42px;
-            margin-bottom: 5px;
+        header {
+            margin-bottom: 30px;
         }
 
-        .subtitle {
+        .college {
+            font-size: 30px;
+            font-weight: 700;
+            margin: 0;
+        }
+
+        .program {
+            font-size: 20px;
+            margin: 4px 0 0;
+        }
+
+        .semester {
             color: #666;
-            margin-bottom: 40px;
+            margin: 2px 0 0;
         }
 
-        .subjects {
+        nav {
+            margin: 25px 0 35px;
+            font-size: 15px;
+        }
+
+        nav a {
+            color: #555;
+            text-decoration: none;
+            margin-right: 20px;
+        }
+
+        nav a:hover {
+            color: #000;
+        }
+
+        .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap: 20px;
         }
 
         .card {
+            display: block;
             background: white;
             padding: 25px;
             border-radius: 12px;
             text-decoration: none;
             color: #222;
             box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
         }
 
         .card:hover {
             transform: translateY(-3px);
+            box-shadow: 0 5px 16px rgba(0,0,0,0.12);
         }
 
         .card h2 {
-            margin-top: 0;
+            margin: 0 0 18px;
+            font-size: 25px;
         }
 
         .card p {
             color: #666;
+            margin: 0;
         }
     </style>
 </head>
 
 <body>
 
-    <h1>📚 Semester 3 Notes</h1>
+    <header>
+        <p class="college">NMIMS</p>
+        <p class="program">PGPDMMC — Post Graduate Program in Digital Media and Marketing Communication</p>
+        <p class="semester">Semester III</p>
+    </header>
 
-    <div class="subtitle">
-        PGPDMMC — NMIMS
-    </div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="Course_Outline_and_Progress.html">Course Guide</a>
+        <a href="Activities.html">Activities</a>
+    </nav>
 
-    <h2>Subjects</h2>
-
-    <div class="subjects">
+    <div class="grid">
 
         <a class="card" href="Digital_Laws_and_Ethics.html">
             <h2>⚖️ Digital Laws & Ethics</h2>
@@ -99,12 +132,17 @@
 
         <a class="card" href="Affiliate_Marketing.html">
             <h2>🔗 Affiliate Marketing</h2>
-            <p>Course information and lecture notes</p>
+            <p>Lecture notes and revision material</p>
         </a>
 
         <a class="card" href="AI_in_Digital_Marketing.html">
             <h2>🤖 Artificial Intelligence in Digital Marketing</h2>
-            <p>Course information and lecture notes</p>
+            <p>Lecture notes and revision material</p>
+        </a>
+
+        <a class="card" href="Course_Outline_and_Progress.html">
+            <h2>📚 Course Guide</h2>
+            <p>Course outline and progress</p>
         </a>
 
         <a class="card" href="Activities.html">
