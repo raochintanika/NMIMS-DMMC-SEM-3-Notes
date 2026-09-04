@@ -161,6 +161,10 @@ Research **Grey Tick & Trial Reels**, covering:
 
 ## 9. Digital Media Planning & Buying
 
+**Given:** Thursday, 3 September 2026  
+
+**Due:** Thursday, 10 September 2026
+
 ### Brand24 & Modash Exploration
 
 **Task:**
@@ -189,6 +193,6 @@ You can either:
 | 6 | E-Commerce & Digital Marketing | Glossary | 22 Aug 2026 | 29 Aug 2026 |
 | 7 | Digital Laws & Ethics | Grey Tick & Trial Reels | 24 Aug 2026 | 14 Sep 2026 |
 | 8 | Web Analytics & Strategy Formulation | Similarweb — Explore | 25 Aug 2026 | 1 Sep 2026 |
-| 9 | Digital Media Planning & Buying | Brand24 & Modash Exploration | — | — |
+| 9 | Digital Media Planning & Buying | Brand24 & Modash Exploration | 3 Sep 2026 | 10 Sep 2026 |
 
 <script src="assets/top-button.js"></script>
