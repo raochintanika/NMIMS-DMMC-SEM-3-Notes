@@ -10,15 +10,15 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ### Course Outline & Progress
 
-- [x] IT Rules, 2021 & Digital Media Governance
-- [x] Data Protection & Digital Rights
-- [x] Trustworthy AI & Algorithmic Bias
-- [x] Media Laws & Ethics in the Digital Age
-- [ ] Regulation of Digital Media
-- [ ] Digital India Act
-- [ ] Digital Media Ethics & Content Regulation
-- [ ] Data Protection, Privacy & Digital Rights
-- [ ] Digital Media Ethics Case Studies
+- <span style="color:#1976d2; font-weight:700;">✓</span> IT Rules, 2021 & Digital Media Governance
+- <span style="color:#1976d2; font-weight:700;">✓</span> Data Protection & Digital Rights
+- <span style="color:#1976d2; font-weight:700;">✓</span> Trustworthy AI & Algorithmic Bias
+- <span style="color:#1976d2; font-weight:700;">✓</span> Media Laws & Ethics in the Digital Age
+- <span style="color:#b0b0b0;">□</span> Regulation of Digital Media
+- <span style="color:#b0b0b0;">□</span> Digital India Act
+- <span style="color:#b0b0b0;">□</span> Digital Media Ethics & Content Regulation
+- <span style="color:#b0b0b0;">□</span> Data Protection, Privacy & Digital Rights
+- <span style="color:#b0b0b0;">□</span> Digital Media Ethics Case Studies
 
 **Progress:** 4 / 9 sections
 
@@ -30,13 +30,13 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ### Course Outline & Progress
 
-- [x] OTT Fundamentals
-- [x] OTT Monetization
-- [x] OTT vs Live Streaming
-- [x] Major OTT Platforms
-- [ ] OTT Advertising & Video Advertising
-- [ ] OTT Audience & Engagement
-- [ ] OTT Strategy & Campaigns
+- <span style="color:#1976d2; font-weight:700;">✓</span> OTT Fundamentals
+- <span style="color:#1976d2; font-weight:700;">✓</span> OTT Monetization
+- <span style="color:#1976d2; font-weight:700;">✓</span> OTT vs Live Streaming
+- <span style="color:#1976d2; font-weight:700;">✓</span> Major OTT Platforms
+- <span style="color:#b0b0b0;">□</span> OTT Advertising & Video Advertising
+- <span style="color:#b0b0b0;">□</span> OTT Audience & Engagement
+- <span style="color:#b0b0b0;">□</span> OTT Strategy & Campaigns
 
 **Progress:** 4 / 7 sections
 
@@ -50,15 +50,15 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ### Course Outline & Progress
 
-- [x] Digital Media Planning
-- [x] Media Channels & Media Vehicles
-- [x] Media Planning Strategy
-- [x] Media Planning vs Media Buying
-- [x] Digital Media Planning Process
-- [x] Media Buying Steps & Types
-- [x] Digital Media Buying Channels
-- [x] Campaign Coordination & Planning Tools
-- [ ] Programmatic Advertising
+- <span style="color:#1976d2; font-weight:700;">✓</span> Digital Media Planning
+- <span style="color:#1976d2; font-weight:700;">✓</span> Media Channels & Media Vehicles
+- <span style="color:#1976d2; font-weight:700;">✓</span> Media Planning Strategy
+- <span style="color:#1976d2; font-weight:700;">✓</span> Media Planning vs Media Buying
+- <span style="color:#1976d2; font-weight:700;">✓</span> Digital Media Planning Process
+- <span style="color:#1976d2; font-weight:700;">✓</span> Media Buying Steps & Types
+- <span style="color:#1976d2; font-weight:700;">✓</span> Digital Media Buying Channels
+- <span style="color:#1976d2; font-weight:700;">✓</span> Campaign Coordination & Planning Tools
+- <span style="color:#b0b0b0;">□</span> Programmatic Advertising
 
 **Progress:** 8 / 9 sections
 
@@ -72,14 +72,14 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ### Course Outline & Progress
 
-- [ ] E-Commerce & Digital Marketing Fundamentals
-- [ ] E-Commerce Business Models
-- [ ] E-Commerce Marketing Strategy
-- [ ] Customer Acquisition & Conversion
-- [ ] E-Commerce Operations
-- [ ] E-Commerce Payments
-- [ ] Upcoming Trends in E-Commerce Marketing
-- [ ] E-Commerce Cases & Tools
+- <span style="color:#b0b0b0;">□</span> E-Commerce & Digital Marketing Fundamentals
+- <span style="color:#b0b0b0;">□</span> E-Commerce Business Models
+- <span style="color:#b0b0b0;">□</span> E-Commerce Marketing Strategy
+- <span style="color:#b0b0b0;">□</span> Customer Acquisition & Conversion
+- <span style="color:#b0b0b0;">□</span> E-Commerce Operations
+- <span style="color:#b0b0b0;">□</span> E-Commerce Payments
+- <span style="color:#b0b0b0;">□</span> Upcoming Trends in E-Commerce Marketing
+- <span style="color:#b0b0b0;">□</span> E-Commerce Cases & Tools
 
 **Progress:** 0 / 8 sections
 
@@ -93,16 +93,16 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ### Course Outline & Progress
 
-- [x] Introduction to Mobile Advertising
-- [x] Types of Mobile Advertisements
-- [x] Ad Placement, Formats & Targeting
-- [x] Mobile Advertising Models
-- [x] Mobile Marketing Tools
-- [x] Starting a Mobile Marketing Business
-- [x] Mobile Marketing Strategies
-- [x] Mobile Advertising Measurement & Metrics
-- [x] Mobile Advertising Campaigns
-- [x] AI in Mobile Advertising
+- <span style="color:#1976d2; font-weight:700;">✓</span> Introduction to Mobile Advertising
+- <span style="color:#1976d2; font-weight:700;">✓</span> Types of Mobile Advertisements
+- <span style="color:#1976d2; font-weight:700;">✓</span> Ad Placement, Formats & Targeting
+- <span style="color:#1976d2; font-weight:700;">✓</span> Mobile Advertising Models
+- <span style="color:#1976d2; font-weight:700;">✓</span> Mobile Marketing Tools
+- <span style="color:#1976d2; font-weight:700;">✓</span> Starting a Mobile Marketing Business
+- <span style="color:#1976d2; font-weight:700;">✓</span> Mobile Marketing Strategies
+- <span style="color:#1976d2; font-weight:700;">✓</span> Mobile Advertising Measurement & Metrics
+- <span style="color:#1976d2; font-weight:700;">✓</span> Mobile Advertising Campaigns
+- <span style="color:#1976d2; font-weight:700;">✓</span> AI in Mobile Advertising
 
 **Progress:** 10 / 10 sections
 
@@ -116,14 +116,14 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ### Course Outline & Progress
 
-- [x] Web Analytics
-- [x] Web Analytics Use Cases
-- [x] Web Analytics Metrics
-- [x] Web Analytics Tools
-- [x] Web Analytics Strategy
-- [x] Creating an Analytics Strategy
-- [x] AI & Machine Learning in Web Analytics
-- [x] Customer Journey Analytics & Attribution
+- <span style="color:#1976d2; font-weight:700;">✓</span> Web Analytics
+- <span style="color:#1976d2; font-weight:700;">✓</span> Web Analytics Use Cases
+- <span style="color:#1976d2; font-weight:700;">✓</span> Web Analytics Metrics
+- <span style="color:#1976d2; font-weight:700;">✓</span> Web Analytics Tools
+- <span style="color:#1976d2; font-weight:700;">✓</span> Web Analytics Strategy
+- <span style="color:#1976d2; font-weight:700;">✓</span> Creating an Analytics Strategy
+- <span style="color:#1976d2; font-weight:700;">✓</span> AI & Machine Learning in Web Analytics
+- <span style="color:#1976d2; font-weight:700;">✓</span> Customer Journey Analytics & Attribution
 
 **Progress:** 8 / 8 sections
 
@@ -137,16 +137,16 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ### Course Outline & Progress
 
-- [ ] Affiliate Marketing Fundamentals
-- [ ] Types of Affiliate Marketing
-- [ ] Examples of Affiliate Marketing
-- [ ] Affiliate Payments
-- [ ] Affiliate Marketing Tools
-- [ ] Types of Affiliate Programs
-- [ ] Affiliate Marketing Networks
-- [ ] Affiliate Marketing Strategies
-- [ ] Affiliate Marketing Benchmarks
-- [ ] Finding Benchmark Data
+- <span style="color:#b0b0b0;">□</span> Affiliate Marketing Fundamentals
+- <span style="color:#b0b0b0;">□</span> Types of Affiliate Marketing
+- <span style="color:#b0b0b0;">□</span> Examples of Affiliate Marketing
+- <span style="color:#b0b0b0;">□</span> Affiliate Payments
+- <span style="color:#b0b0b0;">□</span> Affiliate Marketing Tools
+- <span style="color:#b0b0b0;">□</span> Types of Affiliate Programs
+- <span style="color:#b0b0b0;">□</span> Affiliate Marketing Networks
+- <span style="color:#b0b0b0;">□</span> Affiliate Marketing Strategies
+- <span style="color:#b0b0b0;">□</span> Affiliate Marketing Benchmarks
+- <span style="color:#b0b0b0;">□</span> Finding Benchmark Data
 
 **Progress:** 0 / 10 sections
 
@@ -160,14 +160,14 @@ A simple overview of the Semester III course outlines and the topics covered so 
 
 ### Course Outline & Progress
 
-- [ ] AI in Digital Marketing
-- [ ] Why Use AI in Marketing?
-- [ ] How Digital Marketers Use AI
-- [ ] AI Tools for Digital Marketers
-- [ ] AI's Impact on Digital Marketing
-- [ ] AI Applications & Chatbots
-- [ ] AI Market & Future Outlook
-- [ ] Careers in AI & Digital Marketing
+- <span style="color:#b0b0b0;">□</span> AI in Digital Marketing
+- <span style="color:#b0b0b0;">□</span> Why Use AI in Marketing?
+- <span style="color:#b0b0b0;">□</span> How Digital Marketers Use AI
+- <span style="color:#b0b0b0;">□</span> AI Tools for Digital Marketers
+- <span style="color:#b0b0b0;">□</span> AI's Impact on Digital Marketing
+- <span style="color:#b0b0b0;">□</span> AI Applications & Chatbots
+- <span style="color:#b0b0b0;">□</span> AI Market & Future Outlook
+- <span style="color:#b0b0b0;">□</span> Careers in AI & Digital Marketing
 
 **Progress:** 0 / 8 sections
 
