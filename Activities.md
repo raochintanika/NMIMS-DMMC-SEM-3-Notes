@@ -87,7 +87,7 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 ## 5. E-Commerce & Digital Marketing
 
 **Given:** Saturday, 22 August 2026  
-**Due:** Saturday, 12 Septmeber 2026
+**Due:** Saturday, 12 September 2026
 
 ### Myntra Presentation
 
