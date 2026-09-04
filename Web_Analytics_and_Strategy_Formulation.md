@@ -1,11 +1,11 @@
-# Web Analytics & Strategic Formulation
-
-### **Credits:** 3  
+# Web Analytics & Strategy Formulation
+### ****Credits:**** 3  
 
 ---
 
-### Lecture — 18 August 2026
+## Lecture 1
 
+**Date:** 18 August 2026
 ## 1. Analytics
 
 ### Analytics = Story With Data
@@ -26,7 +26,7 @@ Class framing:
 
 - Google/Meta ads - Second-party data
 
-****Note****: If Meta has to record the full journey, a code called Pixel tracks everything (like google tag)
+********Note******: If Meta has to record the full journey, a code called Pixel tracks everything (like google tag)
 
 ## 3. Google Analytics & Search Console
 
@@ -64,11 +64,11 @@ Search Console + Google Analytics can be combined into a dashboard to view data 
 
 ## 4. SEO Auditing
 
-****SEOptimer**** a SEO tool for auditing a website.
+********SEOptimer****** a SEO tool for auditing a website.
 
 ## 5. Core Web Vitals
 
-Core Web Vitals -  ****user experience****.
+Core Web Vitals -  ********user experience******.
 
 ### LCP — Largest Contentful Paint
 
@@ -96,11 +96,11 @@ The broader point is that website size/content structure affects loading and per
 
 ### JavaScript (JS)
 
-Described as the ****“brain” of a website**** — involved in decision-making/interactive elements.
+Described as the ********“brain” of a website****** — involved in decision-making/interactive elements.
 
 ### CSS
 
-****Cascading Style Sheets**** — takes care of website aesthetics/design.
+********Cascading Style Sheets****** — takes care of website aesthetics/design.
 
 Examples:
 
@@ -138,17 +138,17 @@ GA4 drops cookies in the browser for tracking when a user lands on a website.
 
 ### Basic Flow
 
-****User lands on website → GA4 → Cookie → Data tracked → Data sent → GA4 servers → Data processed → Report****
+********User lands on website → GA4 → Cookie → Data tracked → Data sent → GA4 servers → Data processed → Report******
 
 ## 9. Reasons Data May Not Be Collected
 
-1. Rejected cookie
+1\. Rejected cookie
 
-2. Incognito mode
+2\. Incognito mode
 
-3. Website not loading correctly, preventing tracking code/cookies from working
+3\. Website not loading correctly, preventing tracking code/cookies from working
 
-4. Cache-related/tracking problems noted in class
+4\. Cache-related/tracking problems noted in class
 
 ## 10. What Does GA4 Track?
 
@@ -202,17 +202,17 @@ Possible exit situations:
 
 ## 11. GA4 Session
 
-****GA4 session expires after 30 minutes (default).****
+********GA4 session expires after 30 minutes (default).******
 
 The GA4 does not necessarily know what the user does after leaving the website.
 
 ## 12. GA4 Implementation
 
-****GA4 code needs to be placed on every page of the website.****
+********GA4 code needs to be placed on every page of the website.******
 
 ### Google Tag Manager
 
-****Multiple-tag dashboard**** where tags can be managed/placed across website pages.
+********Multiple-tag dashboard****** where tags can be managed/placed across website pages.
 
 ## 13. Google Analytics Debugger
 
@@ -220,28 +220,29 @@ A browser extension/tool used to check whether a website has the required analyt
 
 ## Quick Revision
 
-****Analytics:**** Story backed by data.
+********Analytics:****** Story backed by data.
 
-****Search Console:**** Keywords, impressions, clicks, CTR, average position.
+********Search Console:****** Keywords, impressions, clicks, CTR, average position.
 
-****GA4:**** Users, sessions, time, pages, leads/sales.
+********GA4:****** Users, sessions, time, pages, leads/sales.
 
-****LCP:**** Largest Contentful Paint.
+********LCP:****** Largest Contentful Paint.
 
-****INP:**** Interaction to Next Paint.
+********INP:****** Interaction to Next Paint.
 
-****CLS:**** Cumulative Layout Shift.
+********CLS:****** Cumulative Layout Shift.
 
-****Cookies:**** Browser-based tracking mechanism used in analytics implementations.
+********Cookies:****** Browser-based tracking mechanism used in analytics implementations.
 
-****GTM:**** Manage multiple tags.
+********GTM:****** Manage multiple tags.
 
-****GA Debugger:**** Check analytics implementation/debugging.
+********GA Debugger:****** Check analytics implementation/debugging.
 
 ---
 
-### Lecture — 25 August 2026
+## Lecture 2
 
+**Date:** 25 August 2026
 ## 1. Analytics Across Different Websites
 
 When two different websites are involved, their analytics data does not automatically communicate with each other.
@@ -264,7 +265,7 @@ When working with another website/creator:
 
 - Do not automatically assume that analytics from two different websites will match.
 
-> ****Important:**** Analytics systems on different websites generally operate independently.
+> ********Important:****** Analytics systems on different websites generally operate independently.
 
 ---
 
@@ -274,7 +275,7 @@ A user's website journey can be understood through three important terms:
 
 ### Landing Page
 
-The ****first page**** a user reaches when entering a website.
+The ********first page****** a user reaches when entering a website.
 
 ### Source
 
@@ -282,11 +283,11 @@ Where the user came from before reaching the website.
 
 ### Exit Page
 
-The ****last page**** the user visits before leaving the website.
+The ********last page****** the user visits before leaving the website.
 
 ### Simple Journey
 
-****Source → Landing Page → Website Journey → Exit Page****
+********Source → Landing Page → Website Journey → Exit Page******
 
 ---
 
@@ -296,7 +297,7 @@ These two terms are related but different.
 
 ## Channels
 
-Channels are ****default/high-level groups of traffic sources**** that analytics tools understand.
+Channels are ********default/high-level groups of traffic sources****** that analytics tools understand.
 
 Examples:
 
@@ -316,43 +317,43 @@ Sources are more specific.
 
 For example:
 
-****Channel:**** Social  
+********Channel:****** Social  
 
-****Source:**** Facebook
+********Source:****** Facebook
 
 Or:
 
-****Channel:**** Social  
+********Channel:****** Social  
 
-****Source:**** A particular Facebook post
+********Source:****** A particular Facebook post
 
 Another example:
 
-****Channel:**** Referral  
+********Channel:****** Referral  
 
-****Source:**** A particular third-party website
+********Source:****** A particular third-party website
 
 ### Simple Difference
 
-****Channel = broad category****
+********Channel = broad category******
 
-****Source = specific origin****
+********Source = specific origin******
 
 ---
 
 ## 4. Similarweb
 
-The class used ****Similarweb**** to understand website traffic and market-level data.
+The class used ********Similarweb****** to understand website traffic and market-level data.
 
 Website:
 
-****similarweb.com****
+********similarweb.com******
 
-The professor instructed students to explore Similarweb ****without logging in****.
+The professor instructed students to explore Similarweb ********without logging in******.
 
 ### Navigation discussed
 
-****Products → Free Tools → Top Websites****
+********Products → Free Tools → Top Websites******
 
 Students could select:
 
@@ -360,7 +361,7 @@ Students could select:
 
 - Geography
 
-For the activity, the focus was on ****India**** and ****all categories****.
+For the activity, the focus was on ********India****** and ********all categories******.
 
 ---
 
@@ -386,9 +387,9 @@ These should be considered separately.
 
 Amazon and Flipkart receive significant traffic through their apps.
 
-However, when looking at the website rankings in Similarweb, the data being viewed is ****website traffic****, not the complete picture of app usage.
+However, when looking at the website rankings in Similarweb, the data being viewed is ********website traffic******, not the complete picture of app usage.
 
-> ****Important:**** Always understand whether the data you are analysing represents website usage or app usage.
+> ********Important:****** Always understand whether the data you are analysing represents website usage or app usage.
 
 ---
 
@@ -396,7 +397,7 @@ However, when looking at the website rankings in Similarweb, the data being view
 
 Similarweb can show the most visited websites for a selected geography/category.
 
-The class looked at the ****top websites in India****.
+The class looked at the ********top websites in India******.
 
 Examples discussed included:
 
@@ -448,13 +449,13 @@ This can be useful when planning large-scale media campaigns.
 
 ## 8. Similarweb Homework
 
-Explore the following sections for ****India****:
+Explore the following sections for ********India******:
 
-1. ****Trending Websites****
+1\. ********Trending Websites******
 
-2. ****Top Android Apps****
+2\. ********Top Android Apps******
 
-3. ****Top iOS Apps****
+3\. ********Top iOS Apps******
 
 Look at what is currently popular/trending.
 
@@ -472,21 +473,21 @@ A person who visits a website is referred to as a:
 
 ### Session
 
-A session is a ****30-minute tracking window****.
+A session is a ********30-minute tracking window******.
 
 If a user repeatedly visits a website within the 30-minute window, those visits are counted as part of the same session.
 
-If the user returns after the 30-minute window, it becomes a ****new session****.
+If the user returns after the 30-minute window, it becomes a ********new session******.
 
 #### Example
 
-****User visits → returns within 30 minutes → same session****
+********User visits → returns within 30 minutes → same session******
 
-****User visits → returns after 30 minutes → new session****
+********User visits → returns after 30 minutes → new session******
 
 #### Important
 
-The ****user remains the same****, but the number of sessions can increase.
+The ********user remains the same******, but the number of sessions can increase.
 
 ---
 
@@ -518,7 +519,7 @@ The lecture compared two concepts:
 
 ### Bounce Rate
 
-A user lands on the website and leaves ****without doing anything meaningful****.
+A user lands on the website and leaves ********without doing anything meaningful******.
 
 It is traditionally viewed as a negative metric.
 
@@ -530,9 +531,9 @@ The lecture presented bounce rate and engaged sessions as opposite ways of looki
 
 ### Industry Shift
 
-Earlier, the industry focused heavily on ****bounce rate****.
+Earlier, the industry focused heavily on ********bounce rate******.
 
-Today, there is greater focus on ****engagement**** rather than simply measuring what users did not do.
+Today, there is greater focus on ********engagement****** rather than simply measuring what users did not do.
 
 ---
 
@@ -564,7 +565,7 @@ The user clicks and loads another page on the website.
 
 ## 13. Events
 
-An ****event**** is an action that takes place on a website and can be tracked.
+An ********event****** is an action that takes place on a website and can be tracked.
 
 ### Examples
 
@@ -608,7 +609,7 @@ Examples:
 
 The marketer must decide:
 
-> ****"What user actions are valuable to my client/business?"****
+> ********"What user actions are valuable to my client/business?"******
 
 Those actions can then be tracked as events.
 
@@ -652,9 +653,9 @@ Examples discussed:
 
 ### Important
 
-****Channel = default/broad grouping****
+********Channel = default/broad grouping******
 
-****Source = more specific origin****
+********Source = more specific origin******
 
 ---
 
@@ -676,9 +677,9 @@ The analytics tool may therefore:
 
 ### Important Change
 
-The professor explained that ****Unassigned**** has become more common as analytics systems have evolved.
+The professor explained that ********Unassigned****** has become more common as analytics systems have evolved.
 
-Older systems could push more unidentified traffic into ****Direct****.
+Older systems could push more unidentified traffic into ********Direct******.
 
 ---
 
@@ -694,11 +695,11 @@ A website publishes a link to your website.
 
 A user clicks that link and arrives at your website.
 
-That traffic can be classified as ****Referral****.
+That traffic can be classified as ********Referral******.
 
 ### Simple Example
 
-****Third-party website → Link → Your website****
+********Third-party website → Link → Your website******
 
 ---
 
@@ -710,13 +711,13 @@ Different paid channels can be identified separately.
 
 Example:
 
-****Google Search Ads / text ads****
+********Google Search Ads / text ads******
 
 ### Display Advertising
 
 Example:
 
-****Banner/display ads****
+********Banner/display ads******
 
 Both are paid forms of traffic but represent different advertising environments.
 
@@ -742,11 +743,11 @@ A user may have discovered the website through another marketing channel earlier
 
 ### Example
 
-****Email / Ads / WhatsApp → User discovers website → URL gets saved****
+********Email / Ads / WhatsApp → User discovers website → URL gets saved******
 
 Later:
 
-****User returns using saved URL → Direct traffic****
+********User returns using saved URL → Direct traffic******
 
 Therefore, previous marketing activity can indirectly contribute to future direct traffic.
 
@@ -754,7 +755,7 @@ Therefore, previous marketing activity can indirectly contribute to future direc
 
 ## 20. Search vs Direct
 
-If a user types a brand name into a search engine and clicks the result, that is ****Organic Search****, not Direct.
+If a user types a brand name into a search engine and clicks the result, that is ********Organic Search******, not Direct.
 
 ### Example
 
@@ -766,7 +767,7 @@ on Google and clicks the NMIMS website.
 
 This is classified as:
 
-****Organic Search / SEO****
+********Organic Search / SEO******
 
 Even though the user already knew the brand.
 
@@ -780,15 +781,15 @@ If the user directly enters the website URL into the browser, it can be classifi
 
 The class used website-analysis data to study the NMIMS website.
 
-One of the metrics discussed was ****Visits****.
+One of the metrics discussed was ********Visits******.
 
 ### Device Distribution
 
 The NMIMS website showed approximately:
 
-- ****50% Desktop****
+- ********50% Desktop******
 
-- ****49% Mobile****
+- ********49% Mobile******
 
 This was considered interesting because many websites typically receive more traffic from mobile devices.
 
@@ -832,11 +833,11 @@ An important observation from the lecture:
 
 ### First-Time Users
 
-First-time visitors are more likely to use ****mobile****.
+First-time visitors are more likely to use ********mobile******.
 
 ### Repeat Users
 
-Repeat visitors may have a higher share of ****desktop/laptop traffic****.
+Repeat visitors may have a higher share of ********desktop/laptop traffic******.
 
 The professor used examples such as:
 
@@ -848,15 +849,15 @@ The professor used examples such as:
 
 ### Possible Journey
 
-****First visit → Mobile discovery****
+********First visit → Mobile discovery******
 
 ↓
 
-****Repeat visit → More considered activity****
+********Repeat visit → More considered activity******
 
 ↓
 
-****Desktop may become more likely****
+********Desktop may become more likely******
 
 ---
 
@@ -868,11 +869,11 @@ The average amount of time a user spends on a website.
 
 An example discussed in class showed approximately:
 
-****2.5 minutes****
+********2.5 minutes******
 
 ### Healthy Benchmark Discussed
 
-> ****More than 2 minutes = good visit duration****
+> ********More than 2 minutes = good visit duration******
 
 ---
 
@@ -884,11 +885,11 @@ The average number of pages a user views during a visit.
 
 An example discussed:
 
-****Approximately 6 pages per visit****
+********Approximately 6 pages per visit******
 
 ### Healthy Benchmark Discussed
 
-> ****More than 3 pages = healthy****
+> ********More than 3 pages = healthy******
 
 However, benchmarks depend heavily on the type of website.
 
@@ -1034,7 +1035,7 @@ Examples:
 
 ### Simple Principle
 
-> ****If you want users to continue their journey, give them something useful to click.****
+> ********If you want users to continue their journey, give them something useful to click.******
 
 ---
 
@@ -1060,7 +1061,7 @@ Examples:
 
 More useful pathways can encourage users to:
 
-****Stay longer → Visit more pages → Engage more deeply****
+********Stay longer → Visit more pages → Engage more deeply******
 
 ---
 
@@ -1068,7 +1069,7 @@ More useful pathways can encourage users to:
 
 The website analysis showed traffic from outside India.
 
-The professor highlighted that unexpected international traffic can sometimes indicate ****spam traffic****.
+The professor highlighted that unexpected international traffic can sometimes indicate ********spam traffic******.
 
 ### Important
 
@@ -1090,9 +1091,9 @@ could require investigation into whether the traffic is genuine.
 
 The website analysis showed approximately:
 
-- ****Direct — 41%****
+- ********Direct — 41%******
 
-- ****Organic Search — 44%****
+- ********Organic Search — 44%******
 
 This was discussed as an interesting result for an established brand.
 
@@ -1100,7 +1101,7 @@ This was discussed as an interesting result for an established brand.
 
 For a very well-established brand, Direct traffic might normally be expected to be strong.
 
-However, people searching for the brand through Google can still be classified as ****Organic Search****.
+However, people searching for the brand through Google can still be classified as ********Organic Search******.
 
 ### Example
 
@@ -1114,7 +1115,7 @@ Then clicks the NMIMS website.
 
 That is still:
 
-****Organic Search****
+********Organic Search******
 
 —not Direct.
 
@@ -1172,7 +1173,7 @@ Traffic where the source is identified/classified as direct.
 
 How long users stay.
 
-****Lecture benchmark: >2 minutes = good****
+********Lecture benchmark: >2 minutes = good******
 
 ### Pages per Visit
 
@@ -1198,12 +1199,13 @@ Useful for understanding:
 
 - Audience/market information
 
-****Always distinguish website data from app data.****
+********Always distinguish website data from app data.******
 
 ---
 
-# Lecture — 1 September 2026
+## Lecture 3
 
+**Date:** 1 September 2026
 ## 33. AI Brand Visibility
 
 The class introduced AI-related brand visibility and how marketers can analyse how a brand appears in AI-generated answers.
@@ -1211,8 +1213,11 @@ The class introduced AI-related brand visibility and how marketers can analyse h
 ### Areas Discussed
 
 - Brand visibility
+
 - Prompt tracking
+
 - Citation analysis
+
 - Sentiment analysis
 
 ### Brand Visibility
@@ -1223,11 +1228,11 @@ The objective is to understand how often a brand is mentioned when users ask AI-
 
 If a category is searched 100 times and your brand is mentioned 47 times:
 
-**Brand Visibility = 47%**
+****Brand Visibility = 47%****
 
 ### Formula
 
-**Brand Mentions ÷ Total Relevant Category Mentions × 100**
+****Brand Mentions ÷ Total Relevant Category Mentions × 100****
 
 ---
 
@@ -1244,11 +1249,12 @@ My Brand Visibility looks at how often your brand appears within relevant catego
 If:
 
 - Total relevant category searches = 100
+
 - Your brand is mentioned = 47 times
 
 Then:
 
-**47 ÷ 100 × 100 = 47%**
+****47 ÷ 100 × 100 = 47%****
 
 ---
 
@@ -1256,11 +1262,12 @@ Then:
 
 ### Core
 
-**Core = Your Category**
+****Core = Your Category****
 
 For example, if a brand sells yoga pants, the core category could be:
 
 - Yoga pants
+
 - Leggings
 
 ### Core Average
@@ -1271,15 +1278,15 @@ It helps compare your brand's visibility against the broader category.
 
 ### Simple Understanding
 
-**Core = Category**
+****Core = Category****
 
-**Core Average = Average visibility within the category**
+****Core Average = Average visibility within the category****
 
 ---
 
 ## 36. Brand Mention Share
 
-Brand Mention Share focuses on how often the **specific brand name** is mentioned in relevant AI conversations/answers.
+Brand Mention Share focuses on how often the ****specific brand name**** is mentioned in relevant AI conversations/answers.
 
 ### Key Question
 
@@ -1295,12 +1302,15 @@ The class explored AI visibility through different tabs/sections.
 
 The areas discussed were:
 
-1. Brand Overview
-2. Prompt Tracking
-3. Citation Analysis
-4. Sentiment Analysis
+1\. Brand Overview
 
-The activity was to explore the tabs and identify **4–5 interesting findings that would matter to a client**.
+2\. Prompt Tracking
+
+3\. Citation Analysis
+
+4\. Sentiment Analysis
+
+The activity was to explore the tabs and identify ****4–5 interesting findings that would matter to a client****.
 
 ---
 
@@ -1311,8 +1321,11 @@ Brand Overview gives a general view of the brand's presence/visibility in AI-gen
 It can help a marketer understand:
 
 - Brand presence
+
 - Visibility patterns
+
 - Category presence
+
 - Competitive visibility
 
 ---
@@ -1323,7 +1336,7 @@ It can help a marketer understand:
 
 Prompt Tracking identifies:
 
-> **What exact prompt/question did the user use?**
+> ****What exact prompt/question did the user use?****
 
 This helps marketers understand the questions that lead to a brand being mentioned.
 
@@ -1332,8 +1345,11 @@ This helps marketers understand the questions that lead to a brand being mention
 It can reveal:
 
 - What users are asking
+
 - Which queries mention the brand
+
 - Which topics create visibility
+
 - Potential content opportunities
 
 ---
@@ -1344,11 +1360,11 @@ It can reveal:
 
 Citation Analysis identifies:
 
-> **Which websites were used as sources for the AI answer?**
+> ****Which websites were used as sources for the AI answer?****
 
 In simple terms:
 
-**AI Answer → Citation → Source Website**
+****AI Answer → Citation → Source Website****
 
 ### Important Question
 
@@ -1367,14 +1383,18 @@ Citation analysis can help marketers identify websites that are frequently cited
 ### Possible Actions
 
 - Identify websites frequently cited for relevant queries
+
 - Analyse what information those websites provide
+
 - Improve your own content
+
 - Look for relevant mention opportunities
+
 - Explore backlink/digital PR opportunities
 
 ### Key Learning
 
-> **Citation analysis can help identify opportunities to improve a brand's presence in AI-generated answers.**
+> ****Citation analysis can help identify opportunities to improve a brand's presence in AI-generated answers.****
 
 ---
 
@@ -1384,9 +1404,11 @@ Citation analysis can help marketers identify websites that are frequently cited
 
 Sentiment analysis checks whether a brand is being discussed in a:
 
-- **Positive** context
-- **Negative** context
-- **Neutral** context
+- ****Positive**** context
+
+- ****Negative**** context
+
+- ****Neutral**** context
 
 ### Example
 
@@ -1398,7 +1420,7 @@ If the brand is repeatedly described positively, this indicates positive sentime
 
 This connects with:
 
-**ORM = Online Reputation Management**
+****ORM = Online Reputation Management****
 
 Sentiment analysis can therefore be used to track how the brand is represented in AI-generated answers.
 
@@ -1406,15 +1428,20 @@ Sentiment analysis can therefore be used to track how the brand is represented i
 
 ## 43. AI Visibility — Client Analysis
 
-The class activity was to explore the AI visibility tabs and identify **4–5 interesting points for a client**.
+The class activity was to explore the AI visibility tabs and identify ****4–5 interesting points for a client****.
 
 Useful questions include:
 
 - Why is my brand mentioned for this query?
+
 - Why is a competitor mentioned instead?
+
 - Which prompts mention my brand?
+
 - Which websites are cited?
+
 - Is the sentiment positive, negative or neutral?
+
 - Where are there visibility/citation opportunities?
 
 ### Important
@@ -1423,7 +1450,7 @@ Do not only report a number.
 
 Explain:
 
-> **What does this mean for the client/business?**
+> ****What does this mean for the client/business?****
 
 ---
 
@@ -1441,10 +1468,13 @@ It helps marketers understand where traffic came from and which campaign/creativ
 
 The parameters discussed in class include:
 
-- `utm_source`
-- `utm_medium`
-- `utm_campaign`
-- `utm_content`
+- \`utm_source\`
+
+- \`utm_medium\`
+
+- \`utm_campaign\`
+
+- \`utm_content\`
 
 ### UTM Source
 
@@ -1453,8 +1483,11 @@ Identifies the platform/source from which the user came.
 Examples:
 
 - Facebook
+
 - Instagram
+
 - Google
+
 - Email
 
 ### UTM Medium
@@ -1464,7 +1497,9 @@ Describes the medium/type of traffic.
 Examples:
 
 - Social
+
 - CPC
+
 - Email
 
 ### UTM Campaign
@@ -1473,7 +1508,7 @@ Identifies the campaign.
 
 Example:
 
-`utm_campaign=diwali`
+\`utm_campaign=diwali\`
 
 ### UTM Content
 
@@ -1487,25 +1522,35 @@ It can be used to track different ads or different clicks within the same creati
 
 Suppose a brand runs a campaign on Facebook with two different creatives.
 
-You can use `utm_content` to distinguish them.
+You can use \`utm_content\` to distinguish them.
 
 Example:
 
-```text
+\`\`\`text
+
 utm_source=facebook
+
 utm_medium=social
+
 utm_campaign=diwali
+
 utm_content=creative_a
-```
+
+\`\`\`
 
 Another creative:
 
-```text
+\`\`\`text
+
 utm_source=facebook
+
 utm_medium=social
+
 utm_campaign=diwali
+
 utm_content=creative_b
-```
+
+\`\`\`
 
 This allows the marketer to compare performance between the creatives.
 
@@ -1521,11 +1566,15 @@ UTM values should be treated consistently because different capitalization can c
 
 For example, avoid inconsistent use of:
 
-```text
+\`\`\`text
+
 Facebook
+
 facebook
+
 FACEBOOK
-```
+
+\`\`\`
 
 Choose one naming convention and use it consistently across departments.
 
@@ -1535,49 +1584,57 @@ Do not use spaces in UTM parameter values.
 
 Use a consistent format such as:
 
-```text
+\`\`\`text
+
 diwali-sale
-```
+
+\`\`\`
 
 or:
 
-```text
+\`\`\`text
+
 diwali_sale
-```
+
+\`\`\`
 
 ---
 
 ## 48. UTM URL Rule
 
-A URL should have only **one `?`** for its query parameters.
+A URL should have only ****one \`?\`**** for its query parameters.
 
 ### Example
 
-```text
-https://example.com/?utm_source=facebook&utm_medium=social&utm_campaign=diwali
-```
+\`\`\`text
+
+https\://example.com/?utm_source=facebook&utm_medium=social&utm_campaign=diwali
+
+\`\`\`
 
 The first parameter starts after:
 
-**?**
+****?****
 
 Additional parameters are connected using:
 
-**&**
+****&****
 
-### If a URL Already Has a `?`
+### If a URL Already Has a \`?\`
 
-Use **&** to add UTM parameters.
+Use ****&**** to add UTM parameters.
 
 Example:
 
-```text
-https://example.com/product?id=123&utm_source=facebook&utm_medium=social
-```
+\`\`\`text
+
+https\://example.com/product?id=123&utm_source=facebook&utm_medium=social
+
+\`\`\`
 
 ### Key Rule
 
-> **One URL = One `?`**
+> ****One URL = One \`?\`****
 
 ---
 
@@ -1592,30 +1649,38 @@ Instead of only knowing:
 the marketer can understand:
 
 - Which source
+
 - Which medium
+
 - Which campaign
+
 - Which creative/content variation
 
 generated the traffic.
 
 ### Simple Flow
 
-**Campaign → UTM → Website → Analytics → Analysis**
+****Campaign → UTM → Website → Analytics → Analysis****
 
 ---
 
 ## 50. Enhanced Measurement
 
-GA4 can automatically track certain website interactions through **Enhanced Measurement**.
+GA4 can automatically track certain website interactions through ****Enhanced Measurement****.
 
 The class discussed the following examples:
 
-1. Page view
-2. Scroll
-3. Click
-4. Video engagement
-5. File downloads
-6. Form interactions
+1\. Page view
+
+2\. Scroll
+
+3\. Click
+
+4\. Video engagement
+
+5\. File downloads
+
+6\. Form interactions
 
 ---
 
@@ -1633,21 +1698,26 @@ It helps marketers understand which pages are receiving attention.
 
 Scroll tracking helps identify how far users move through a webpage.
 
-The class discussion focused on tracking when users reach the **bottom of the page**.
+The class discussion focused on tracking when users reach the ****bottom of the page****.
 
 ### Marketing Use
 
 If users are reaching the bottom:
 
 - Make the bottom section more useful
+
 - Add related content
+
 - Add useful links
+
 - Add relevant recommendations
 
 If users are not reaching the bottom:
 
 - Improve the upper section
+
 - Make the content more engaging
+
 - Improve the page structure
 
 ---
@@ -1658,7 +1728,7 @@ Click tracking can identify when users click an outbound link.
 
 ### Example
 
-**Your website → Facebook**
+****Your website → Facebook****
 
 You can track the click that takes the user away from your website.
 
@@ -1666,7 +1736,7 @@ However, you cannot assume that your website's analytics can track the complete 
 
 ### Key Learning
 
-> **Track the outbound click, but do not assume you can track everything the user does on the third-party website.**
+> ****Track the outbound click, but do not assume you can track everything the user does on the third-party website.****
 
 ---
 
@@ -1675,13 +1745,17 @@ However, you cannot assume that your website's analytics can track the complete 
 Video engagement tracking can measure video activity such as:
 
 - Video start
+
 - Video progress
+
 - Video completion
 
 ### Marketing Questions
 
 - How many users started the video?
+
 - How many reached a particular progress point?
+
 - How many completed it?
 
 This helps marketers understand whether users are actually consuming the video content.
@@ -1695,7 +1769,9 @@ GA4 can track successful downloads of files from a website.
 Examples:
 
 - PDF
+
 - Documents
+
 - Other downloadable resources
 
 ### Marketing Use
@@ -1703,7 +1779,9 @@ Examples:
 A marketer can understand:
 
 - How many users downloaded a resource
+
 - Which resource is most popular
+
 - Whether the downloadable content is generating engagement
 
 ---
@@ -1715,19 +1793,26 @@ Form tracking can help understand user interaction with forms.
 It can track:
 
 - Access/interaction with individual data fields
+
 - Form start
+
 - Form submit
+
 - Form filling/interactions
 
 ### Example
 
 A form may contain:
 
-1. Name
-2. Email
-3. Date of birth
-4. Gender
-5. Other information
+1\. Name
+
+2\. Email
+
+3\. Date of birth
+
+4\. Gender
+
+5\. Other information
 
 The marketer can analyse where users interact and where they stop.
 
@@ -1739,16 +1824,20 @@ Form interaction tracking can help identify where users drop off.
 
 ### Example
 
-**Start Form → Name → Email → Date of Birth → Drop-Off**
+****Start Form → Name → Email → Date of Birth → Drop-Off****
 
 This may indicate that the user is facing friction at that stage.
 
 ### Possible Areas to Investigate
 
 - Number of fields
+
 - Sensitive information requested
+
 - Confusing fields
+
 - Technical issues
+
 - Lack of trust
 
 ### Marketing Use
@@ -1766,9 +1855,13 @@ The class discussed examples that may require additional/special tracking setup.
 ### Examples
 
 - Carousel / horizontal scroll
+
 - Login
+
 - Pop-ups
+
 - Social sites
+
 - Third-party site links
 
 ### Important
@@ -1781,17 +1874,17 @@ If an interaction is important to the business but is not being tracked automati
 
 ### Attribution
 
-Attribution is the process of deciding **which marketing source/channel receives credit for a conversion**.
+Attribution is the process of deciding ****which marketing source/channel receives credit for a conversion****.
 
 ### Example
 
 A user may:
 
-**Instagram → Google → Email → Purchase**
+****Instagram → Google → Email → Purchase****
 
 The question is:
 
-> **Which channel should receive credit for the purchase?**
+> ****Which channel should receive credit for the purchase?****
 
 Different attribution models answer this differently.
 
@@ -1801,13 +1894,19 @@ Different attribution models answer this differently.
 
 The class covered:
 
-1. Data Driven
-2. First Click
-3. Last Click
-4. Linear
-5. Position Based
-6. Time Decay
-7. Ads Preferred
+1\. Data Driven
+
+2\. First Click
+
+3\. Last Click
+
+4\. Linear
+
+5\. Position Based
+
+6\. Time Decay
+
+7\. Ads Preferred
 
 ---
 
@@ -1819,43 +1918,43 @@ It analyses the conversion path and determines how credit should be distributed.
 
 ### Simple Idea
 
-**Data Driven = Credit based on conversion-path data**
+****Data Driven = Credit based on conversion-path data****
 
 ---
 
 ## 62. First Click Attribution
 
-Gives all credit for the conversion to the **first channel**.
+Gives all credit for the conversion to the ****first channel****.
 
 ### Example
 
-**Instagram → Google → Email → Purchase**
+****Instagram → Google → Email → Purchase****
 
 First Click:
 
-**100% credit → Instagram**
+****100% credit → Instagram****
 
 ### Key Idea
 
-> **First interaction gets all the credit.**
+> ****First interaction gets all the credit.****
 
 ---
 
 ## 63. Last Click Attribution
 
-Gives all credit for the conversion to the **last channel** before the conversion.
+Gives all credit for the conversion to the ****last channel**** before the conversion.
 
 ### Example
 
-**Instagram → Google → Email → Purchase**
+****Instagram → Google → Email → Purchase****
 
 Last Click:
 
-**100% credit → Email**
+****100% credit → Email****
 
 ### Key Idea
 
-> **Last interaction gets all the credit.**
+> ****Last interaction gets all the credit.****
 
 ---
 
@@ -1865,51 +1964,55 @@ Gives equal credit to all channels involved in the conversion path.
 
 ### Example
 
-**Instagram → Google → Email → Purchase**
+****Instagram → Google → Email → Purchase****
 
 Three channels are involved.
 
 Each receives:
 
-**1/3 of the credit**
+****1/3 of the credit****
 
 ### Key Idea
 
-> **All channels receive equal credit.**
+> ****All channels receive equal credit.****
 
 ---
 
 ## 65. Position Based Attribution
 
-Gives more credit to the **first and last** interactions.
+Gives more credit to the ****first and last**** interactions.
 
 The class example used:
 
-- **40% → First interaction**
-- **40% → Last interaction**
-- Remaining **20% → Distributed equally among the middle interactions**
+- ****40% → First interaction****
+
+- ****40% → Last interaction****
+
+- Remaining ****20% → Distributed equally among the middle interactions****
 
 ### Example
 
-**Instagram → Google → Email → Purchase**
+****Instagram → Google → Email → Purchase****
 
 - Instagram = 40%
+
 - Google = 20%
+
 - Email = 40%
 
 ### Key Idea
 
-> **First + Last = Most Credit**
+> ****First + Last = Most Credit****
 
 ---
 
 ## 66. Time Decay Attribution
 
-Gives more credit to interactions that happened **closer in time to the conversion**.
+Gives more credit to interactions that happened ****closer in time to the conversion****.
 
 ### Example
 
-**Instagram → Google → Email → Purchase**
+****Instagram → Google → Email → Purchase****
 
 Email happened closest to the purchase.
 
@@ -1917,7 +2020,7 @@ Therefore, Email receives more credit than the earlier interactions.
 
 ### Key Idea
 
-> **Closer to conversion = More credit**
+> ****Closer to conversion = More credit****
 
 ---
 
@@ -1925,11 +2028,11 @@ Therefore, Email receives more credit than the earlier interactions.
 
 The class described Ads Preferred as attributing:
 
-**100% of the value to the last Google Ads channel.**
+****100% of the value to the last Google Ads channel.****
 
 ### Key Idea
 
-> **Last Google Ads interaction receives all the credit.**
+> ****Last Google Ads interaction receives all the credit.****
 
 ---
 
@@ -1937,51 +2040,59 @@ The class described Ads Preferred as attributing:
 
 Suppose the customer journey is:
 
-**Instagram → Google Search → Email → Purchase**
+****Instagram → Google Search → Email → Purchase****
 
 | Model | Credit |
+
 |---|---|
+
 | Data Driven | Based on conversion-path data |
+
 | First Click | 100% Instagram |
+
 | Last Click | 100% Email |
+
 | Linear | Equal credit to all three |
+
 | Position Based | 40% Instagram + 40% Email + remaining 20% to middle |
+
 | Time Decay | More credit to interactions closer to purchase |
+
 | Ads Preferred | Class example: 100% to last Google Ads channel |
 
 ---
 
-# Quick Revision — 1 September 2026
+### Quick Revision — 1 September 2026
 
 ## AI Visibility
 
-**How visible is my brand in AI-generated answers?**
+****How visible is my brand in AI-generated answers?****
 
 ### Brand Visibility
 
-**Brand Mentions ÷ Relevant Category Mentions × 100**
+****Brand Mentions ÷ Relevant Category Mentions × 100****
 
 ### Core
 
-**Core = Category**
+****Core = Category****
 
 ### Prompt Tracking
 
-**What exact prompt/question was used?**
+****What exact prompt/question was used?****
 
 ### Citation Analysis
 
-**Which website did AI use as a source?**
+****Which website did AI use as a source?****
 
 ### Sentiment Analysis
 
-**Positive / Negative / Neutral**
+****Positive / Negative / Neutral****
 
 ---
 
 ## UTM
 
-**Source → Medium → Campaign → Content**
+****Source → Medium → Campaign → Content****
 
 ### UTM Content
 
@@ -1989,15 +2100,15 @@ Used to distinguish different creatives/ads.
 
 ### URL Rule
 
-**One URL = One `?`(Question Mark)**
+****One URL = One \`?\`(Question Mark)****
 
 Additional parameters use:
 
-**&**
+****&****
 
 ### Naming
 
-**Case-sensitive → Keep naming consistent → Avoid spaces**
+****Case-sensitive → Keep naming consistent → Avoid spaces****
 
 ---
 
@@ -2006,10 +2117,15 @@ Additional parameters use:
 Examples:
 
 - Page view
+
 - Scroll
+
 - Click
+
 - Video engagement
+
 - File downloads
+
 - Form interactions
 
 ### Special Tracking
@@ -2017,9 +2133,13 @@ Examples:
 May be required for interactions such as:
 
 - Carousel
+
 - Login
+
 - Pop-ups
+
 - Social sites
+
 - Third-party links
 
 ---
@@ -2028,42 +2148,42 @@ May be required for interactions such as:
 
 ### First Click
 
-**First channel = 100%**
+****First channel = 100%****
 
 ### Last Click
 
-**Last channel = 100%**
+****Last channel = 100%****
 
 ### Linear
 
-**Equal credit to all channels**
+****Equal credit to all channels****
 
 ### Position Based
 
-**40% First + 40% Last + 20% Middle**
+****40% First + 40% Last + 20% Middle****
 
 ### Time Decay
 
-**Closer to conversion = More credit**
+****Closer to conversion = More credit****
 
 ### Data Driven
 
-**Machine learning/data-based conversion-path analysis**
+****Machine learning/data-based conversion-path analysis****
 
 ### Ads Preferred
 
-**Class example: 100% to last Google Ads channel**
+****Class example: 100% to last Google Ads channel****
 
 ---
 
-# Overall Analytics Mental Model
+### Overall Analytics Mental Model
 
-**Traffic → Behaviour → Engagement → Conversion → Attribution → Insight → Optimisation**
+****Traffic → Behaviour → Engagement → Conversion → Attribution → Insight → Optimisation****
 
 For AI visibility:
 
-**Prompt → AI Answer → Brand Mention → Citation → Sentiment → Opportunity**
+****Prompt → AI Answer → Brand Mention → Citation → Sentiment → Opportunity****
 
 For campaign tracking:
 
-**Source → Medium → Campaign → Content → Analytics**
+****Source → Medium → Campaign → Content → Analytics****
