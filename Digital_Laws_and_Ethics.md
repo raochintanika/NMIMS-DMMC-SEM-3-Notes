@@ -210,3 +210,5 @@ Study:
 - What?
 - How?
 - Benefits?
+
+<script src="assets/top-button.js"></script>
