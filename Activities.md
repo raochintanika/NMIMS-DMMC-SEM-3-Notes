@@ -7,6 +7,7 @@ Activities and academic tasks assigned by professors for Semester 3.
 ## 1. Digital Laws & Ethics
 
 **Given:** Monday, 17 August 2026  
+
 **Due:** Monday, 24 August 2026
 
 ### Watch: Depp v. Heard + The Social Dilemma
@@ -21,6 +22,7 @@ Activities and academic tasks assigned by professors for Semester 3.
 ## 2. Web Analytics & Strategy Formulation
 
 **Given:** Tuesday, 18 August 2026  
+
 **Due:** Tuesday, 25 August 2026
 
 ### Westside Website — SEOptimer
@@ -36,6 +38,7 @@ Activities and academic tasks assigned by professors for Semester 3.
 ## 3. Web Analytics & Strategy Formulation
 
 **Given:** Tuesday, 18 August 2026  
+
 **Due:** Tuesday, 25 August 2026
 
 ### Google Analytics Debugger
@@ -51,6 +54,7 @@ Activities and academic tasks assigned by professors for Semester 3.
 ## 4. Mobile Advertising
 
 **Given:** Wednesday, 19 August 2026  
+
 **Due:** Wednesday, 26 August 2026
 
 ### FreshBite — Mobile Marketing Case Study + PPT
@@ -87,6 +91,7 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 ## 5. E-Commerce & Digital Marketing
 
 **Given:** Saturday, 22 August 2026  
+
 **Due:** Saturday, 12 September 2026
 
 ### Myntra Presentation
@@ -107,6 +112,7 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 ## 6. E-Commerce & Digital Marketing
 
 **Given:** Saturday, 22 August 2026  
+
 **Due:** Saturday, 29 August 2026
 
 ### Glossary
@@ -121,6 +127,7 @@ Urban consumers aged **22–35** who are working professionals, fitness-consciou
 ## 7. Digital Laws & Ethics
 
 **Given:** Monday, 24 August 2026  
+
 **Due:** Monday, 14 September 2026
 
 ### Grey Tick & Trial Reels
@@ -140,6 +147,7 @@ Research **Grey Tick & Trial Reels**, covering:
 ## 8. Web Analytics & Strategy Formulation
 
 **Given:** Tuesday, 25 August 2026  
+
 **Due:** Tuesday, 1 September 2026
 
 ### Similarweb — Explore
@@ -148,6 +156,24 @@ Research **Grey Tick & Trial Reels**, covering:
 
 - Explore **Trending Sites**, **Android Apps**, and **iOS Apps** in India on the Similarweb website.
 - Note the interesting ones.
+
+---
+
+## 9. Digital Media Planning & Buying
+
+### Brand24 & Modash Exploration
+
+**Task:**
+
+Explore the following platforms:
+
+- Brand24
+- Modash
+
+You can either:
+
+1. Register/sign up and explore the platforms, or
+2. Watch YouTube videos to understand how the platforms work.
 
 ---
 
@@ -163,5 +189,6 @@ Research **Grey Tick & Trial Reels**, covering:
 | 6 | E-Commerce & Digital Marketing | Glossary | 22 Aug 2026 | 29 Aug 2026 |
 | 7 | Digital Laws & Ethics | Grey Tick & Trial Reels | 24 Aug 2026 | 14 Sep 2026 |
 | 8 | Web Analytics & Strategy Formulation | Similarweb — Explore | 25 Aug 2026 | 1 Sep 2026 |
+| 9 | Digital Media Planning & Buying | Brand24 & Modash Exploration | — | — |
 
 <script src="assets/top-button.js"></script>
