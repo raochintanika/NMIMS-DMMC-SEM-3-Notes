@@ -1,5 +1,5 @@
 # OTT Advertising
-****Credits:**** 2
+**Credits:** 2
 
 ---
 
@@ -10,10 +10,10 @@
 
 ## 1. OTT
 
-****OTT = Over The Top**** — services delivered over the internet.
+**OTT = Over The Top** — services delivered over the internet.
 
 - Netflix was used as an example.
-- OTT is a ****non-linear medium****.
+- OTT is a **non-linear medium**.
 - DTH = network / signal / satellite
 - Cable = cable
 - OTT = internet
@@ -51,7 +51,7 @@
 
 ## 4. Hoarding
 
-****Hoarding:**** IP tracking / approximation used to understand audience exposure.
+**Hoarding:** IP tracking / approximation used to understand audience exposure.
 
 > Hoarding does not provide perfectly accurate audience-level data.
 
@@ -76,7 +76,7 @@ Local OTT content depends on:
 - Content rights
 - Censorship differences
 
-The notes give ****“Middle Eastern countries — No Hindu content”**** as an example. This is preserved as the professor's example, not as a universal statement.
+The notes give **“Middle Eastern countries — No Hindu content”** as an example. This is preserved as the professor's example, not as a universal statement.
 
 ---
 
@@ -121,13 +121,13 @@ The notes give ****“Middle Eastern countries — No Hindu content”**** as an
 
 ### Quick Revision
 
-****OTT:**** Internet-delivered, non-linear, on-demand content.  
-****Traditional TV:**** Scheduled, linear, mass-audience medium.  
-****TRP:**** TV measurement based on sampling.  
-****TVOD:**** Pay/rent for specific content.  
-****AVOD:**** Advertising-supported video on demand.  
-****FVOD:**** Free video on demand.  
-****SVOD:**** Subscription-based video on demand.  
+**OTT:** Internet-delivered, non-linear, on-demand content.  
+**Traditional TV:** Scheduled, linear, mass-audience medium.  
+**TRP:** TV measurement based on sampling.  
+**TVOD:** Pay/rent for specific content.  
+**AVOD:** Advertising-supported video on demand.  
+**FVOD:** Free video on demand.  
+**SVOD:** Subscription-based video on demand.  
 
 ---
 
@@ -138,11 +138,11 @@ The notes give ****“Middle Eastern countries — No Hindu content”**** as an
 
 ## 1. FAST Channels
 
-****FAST channels**** use linear programming / an EPG-style scheduled experience but are delivered through the internet and supported by advertising.
+**FAST channels** use linear programming / an EPG-style scheduled experience but are delivered through the internet and supported by advertising.
 
 ### Key Idea
 
-****Linear programming + Internet delivery + Ads****
+**Linear programming + Internet delivery + Ads**
 
 ---
 
@@ -150,7 +150,7 @@ The notes give ****“Middle Eastern countries — No Hindu content”**** as an
 
 The basic OTT content delivery ecosystem discussed in class:
 
-****Cloud → CDN → Internet → Phone / Device → Streaming****
+**Cloud → CDN → Internet → Phone / Device → Streaming**
 
 ### Cloud
 
@@ -158,19 +158,19 @@ Content is stored and/or processed through cloud infrastructure.
 
 ### CDN
 
-****CDN = Content Delivery Network****
+**CDN = Content Delivery Network**
 
 The CDN helps deliver streamed content from the cloud/infrastructure to the user's device.
 
 ### Flow
 
-****Content → Cloud → CDN → Internet → User Device****
+**Content → Cloud → CDN → Internet → User Device**
 
 ---
 
 ## 3. Cloud Infrastructure
 
-The class discussed ****Azure and AWS**** as major cloud infrastructure providers.
+The class discussed **Azure and AWS** as major cloud infrastructure providers.
 
 > The professor discussed these in the context of major infrastructure/cloud providers.
 
@@ -180,16 +180,16 @@ The class discussed ****Azure and AWS**** as major cloud infrastructure provider
 
 ### Case Study
 
-- ****OTT****  
-- ****Genre:**** Animation / Fiction
-- ****Name:**** Anfiction **(as noted in class)**
-- ****Installs:**** 18M installs
+- **OTT**  
+- **Genre:** Animation / Fiction
+- **Name:** Anfiction **(as noted in class)**
+- **Installs:** 18M installs
 
 ### Monetisation
 
-The case discussed a ****hybrid monetisation model****:
+The case discussed a **hybrid monetisation model**:
 
-****SVOD + AVOD + FVOD****
+**SVOD + AVOD + FVOD**
 
 ### Why This Model?
 
@@ -206,8 +206,8 @@ The class discussion connected the model to:
 
 Two major factors affecting OTT monetisation:
 
-1\. ****Cost of the App****
-2\. ****Cost of Content****
+1\. **Cost of the App**
+2\. **Cost of Content**
 
 ---
 
@@ -240,7 +240,7 @@ Content-related costs can include:
 An OTT platform may acquire content from another market.   
 For example:
 
-****Korean Content → Acquisition → Localisation → Hindi / English****   
+**Korean Content → Acquisition → Localisation → Hindi / English**   
 Localisation can involve adapting content for the target audience and language.
 
 ---
@@ -295,13 +295,13 @@ Digital channels can provide more measurable information about audience behaviou
 
 ### 8. CDN
 
-****CDN = Content Delivery Network****
+**CDN = Content Delivery Network**
 
 A CDN is part of the OTT delivery infrastructure that helps deliver streamed content to users.
 
 ### OTT Delivery Flow
 
-****Cloud → CDN → Internet → Device → Stream****
+**Cloud → CDN → Internet → Device → Stream**
 
 ---
 
@@ -311,7 +311,7 @@ The OTT customer journey can be understood through different stages.
 
 ### Acquisition
 
-****Installs → Users****
+**Installs → Users**
 
 The first step is acquiring users through app installs.
 
@@ -344,7 +344,7 @@ Examples:
 
 ### Important Distinction
 
-****Install → User → Active User****
+**Install → User → Active User**
 
 An installed app does not automatically mean that the person is an active user.
 
@@ -362,9 +362,9 @@ Engagement focuses on whether acquired users actually use the platform.
 
 ### Key Business Metric
 
-****CLV / LTV****   
-****CLV = Customer Lifetime Value****   
-****LTV = Lifetime Value****
+**CLV / LTV**   
+**CLV = Customer Lifetime Value**   
+**LTV = Lifetime Value**
 
 The objective is not only to acquire users but to understand their long-term value to the platform.
 
@@ -461,7 +461,7 @@ Examples may include:
 
 A simplified OTT user journey:
 
-****Acquisition → Install → User → Active User → Engagement → Subscription / Revenue → Retention****
+**Acquisition → Install → User → Active User → Engagement → Subscription / Revenue → Retention**
 
 ### Important
 
@@ -481,47 +481,47 @@ The platform needs to:
 
 ### FAST
 
-****FAST = Linear programming / EPG-style experience + Internet + Ads****
+**FAST = Linear programming / EPG-style experience + Internet + Ads**
 
 ### OTT Ecosystem
 
-****Cloud → CDN → Internet → Device → Streaming****
+**Cloud → CDN → Internet → Device → Streaming**
 
 ### CDN
 
-****Content Delivery Network****
+**Content Delivery Network**
 
 ### OTT Monetisation
 
-****SVOD + AVOD + FVOD = Hybrid Model****
+**SVOD + AVOD + FVOD = Hybrid Model**
 
 ### Major OTT Costs
 
-****App Cost + Content Cost****
+**App Cost + Content Cost**
 
 ### Content Costs
 
-****Production + Acquisition + Localisation + Rights****
+**Production + Acquisition + Localisation + Rights**
 
 ### Other OTT Costs
 
-****Marketing + Cloud + Maintenance + Resources + CDN****
+**Marketing + Cloud + Maintenance + Resources + CDN**
 
 ### Content Categories
 
-****Bollywood + Astrology + Spiritual / Devotional + Sports****
+**Bollywood + Astrology + Spiritual / Devotional + Sports**
 
 ### User Journey
 
-****Installs → Users → Active Users → Engagement****
+**Installs → Users → Active Users → Engagement**
 
 ### Important Value Metric
 
-****CLV / LTV****
+**CLV / LTV**
 
 ### Subscription Periods
 
-****Monthly / Quarterly / Yearly****
+**Monthly / Quarterly / Yearly**
 
 ### Engagement Tactics
 
@@ -536,6 +536,6 @@ The platform needs to:
 
 ### Core Learning
 
-> ****Acquiring a user is only the beginning. The OTT platform must keep the user active and engaged to generate long-term value.****
+> **Acquiring a user is only the beginning. The OTT platform must keep the user active and engaged to generate long-term value.**
 
 <script src="assets/top-button.js"></script>
