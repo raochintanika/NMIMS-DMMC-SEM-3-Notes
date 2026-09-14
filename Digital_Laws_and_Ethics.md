@@ -18,7 +18,7 @@
 - Newspaper
 - Radio
 - Social Media
-- 4th pillar of democracy
+- 4th pillar of democracy (alongside legislature, executive, judiciary)
 
 ### Functions of Media
 
@@ -30,9 +30,8 @@
 
 Example:
 
-Primary: TV
-
-Allies: advertising, content, etc.
+- **Primary:** TV
+- **Allies:** advertising, content production, etc.
 
 ---
 
@@ -40,25 +39,22 @@ Allies: advertising, content, etc.
 
 ### Echo Chambers
 
-A bubble where person's opinions are formed based on the data/content a person receives.
+A bubble where a person's opinions are reinforced based on the data/content they keep receiving (usually via algorithmic recommendation).
 
-### Algorithmic Biases
+### Algorithmic Bias
 
-Bias made by programs because of unbalanced or unfair data.
+Bias built into a program/platform because it was trained on unbalanced or unfair data.
 
-### Evolution
+### Evolution vs. Appropriation
 
-Picking the original and changing the meaning.
+- **Evolution:** content/meaning changing naturally over time, generally within the same context.
+- **Appropriation:** taking original content/meaning and using it in a different context.
 
-### Appropriation
+> ⚠️ **Flagged for verification:** the original notes gave near-identical definitions for both terms, so the distinction above is a best-effort reconstruction from class discussion, not a verified definition. Please confirm the exact distinction your professor intends (commonly, "evolution" = organic change within a culture/community, "appropriation" = borrowing from another culture/context, often without credit).
 
-Picking the original content/message and changing the meaning.
+### Infodemic
 
-> The distinction between evolution and appropriation is not a lot it's just same meaning but different context.
-
-### Infodemics
-
-Too much information in the market.
+An overload of information — accurate or not — that makes it hard for people to find trustworthy sources. (Term originally coined in public health contexts, now used more broadly for any information overload.)
 
 ---
 
@@ -67,7 +63,7 @@ Too much information in the market.
 **Recognition Value + Commercial Value = Economic Associative Value**
 
 - Celebrities represent positive qualities.
-- Products gain/associate celebrity traits.
+- Products gain/associate celebrity traits through endorsement.
 
 ---
 
@@ -76,9 +72,9 @@ Too much information in the market.
 | Term | Class Meaning |
 |---|---|
 | Media | TV, newspaper, radio, social media |
-| Echo Chamber | Bubble where opinions are formed based on received data/content |
-| Algorithmic Bias | Bias caused by unbalanced/unfair data |
-| Infodemic | Too much information |
+| Echo Chamber | Bubble reinforcing opinions based on received data/content |
+| Algorithmic Bias | Bias caused by unbalanced/unfair training data |
+| Infodemic | Overload of information, making it hard to find trustworthy sources |
 | Economic Associative Value | Recognition value + commercial value |
 
 ---
@@ -95,15 +91,13 @@ Too much information in the market.
 
 Celebrities and influencers have commercial value because of their recognition and association with brands.
 
+> 📝 Note: Lecture 1 calls this **Economic Associative Value**; Lecture 2 calls it **Economic Association Value (EAV)**. Same concept — worth confirming which exact term/abbreviation your professor wants used in the exam.
+
 ---
 
 ## 2. Right of Publicity (ROP)
 
-**ROP = Right of Publicity**
-
-The right related to the commercial use of a celebrity/influencer's identity.
-
-Includes:
+The right related to the commercial use of a celebrity/influencer's identity. Includes:
 
 - Name
 - Image
@@ -116,15 +110,13 @@ Includes:
 
 ## 3. Right to Privacy (RTP)
 
-**RTP = Right to Privacy**
-
 The right of an individual to maintain privacy over their personal life and information.
 
 In the context of celebrities/influencers:
 
 **Fame ↑ → Privacy ↓**
 
-As fame increases, privacy can become more difficult to maintain.
+As fame increases, privacy becomes harder to maintain (courts generally hold public figures to a narrower zone of privacy, especially on matters of public interest).
 
 ---
 
@@ -133,66 +125,45 @@ As fame increases, privacy can become more difficult to maintain.
 **Defamation:** Stating a false fact that harms someone's reputation.
 
 ### Libel
-
-Harming someone's reputation through **written communication** containing a falsehood.
+Harming reputation through **written/published communication** containing a falsehood.
 
 ### Slander
-
-Harming someone's reputation through **spoken communication** containing a falsehood.
+Harming reputation through **spoken communication** containing a falsehood.
 
 ---
 
 ## 5. Key Elements of Defamation
 
-- **Defamatory statement** — The statement is harmful to reputation.
-- **False statement** — The statement is false.
-- **Specific reference** — The person must be identifiable from the statement.
-- **Publication to a third party** — The statement must be communicated to someone other than the person concerned.
+- **Defamatory statement** — the statement is harmful to reputation.
+- **False statement** — the statement is false.
+- **Specific reference** — the person must be identifiable from the statement.
+- **Publication to a third party** — the statement must reach someone other than the person concerned.
 
 ---
 
 ## 6. Defences Against Defamation
 
-### Truth
-
-The statement is true.
-
-### Public Interest
-
-The statement is made in the public interest.
-
-### Good Faith
-
-The statement/communication is made honestly and in good faith.
-
-### Privileged Communication
-
-Certain communications receive legal privilege.
-
-Examples discussed:
-
-- Court proceedings
-- Parliamentary debates
-- etc.
+- **Truth** — the statement is true.
+- **Public Interest** — the statement is made in the public interest.
+- **Good Faith** — the statement is made honestly, without malice.
+- **Privileged Communication** — certain communications carry legal privilege (e.g., statements made in court proceedings or parliamentary debates).
 
 ---
 
 ## 7. What Is Not Defamation?
 
-The following were discussed as situations that may not constitute defamation:
+Situations discussed as generally **not** constituting defamation:
 
 1. Truthful statement
 2. Sarcastic statement
 3. Rhetorical statement
-4. Actual damage to reputation
+4. No actual damage to reputation
 
-**Case reference:** Manisha Koirala vs. Shashilal Nair
+**Case reference:** *Manisha Koirala v. Shashilal Nair* (Bombay High Court, 2002) — actress sued to stop release of intimate scenes (filmed with a body double) from *Ek Chhoti Si Love Story*, claiming defamation, invasion of privacy, and breach of contract. Court dismissed her plea for an injunction. ✅ Verified — this is a real, correctly cited case.
 
 ---
 
 ## 8. Balance Between Rights
-
-There is a balance between:
 
 **Freedom of Press ↔ Protection of Individual Reputation**
 
@@ -205,7 +176,6 @@ The media has freedom to report and communicate, while individuals also have a r
 ### Grey Tick & Trial Reels
 
 Study:
-
 - Why?
 - What?
 - How?

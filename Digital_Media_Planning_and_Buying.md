@@ -5,1346 +5,375 @@
 ---
 
 ## Lecture 1
-
 **Date:** 20 August 2026
-
----
 
 ## 1. Media Planning & Buying
 
-### Media
+**Media:** A medium/channel through which advertisers communicate with customers.
 
-A medium or channel through which advertisers talk and communicate with customers.
+**Media Planning:** A strategic process of deciding **where, when, and how** an ad should be shown to reach the target audience effectively.
 
-### Media Planning
+**Media Platform + Creative** should complement each other → **Creativity + Numbers**
 
-A strategic process of determining **where, when and how** an advertisement should be shown to reach a target audience effectively.
+**Objective:**
+- Maximize ROI *before* ad space is purchased.
+- ROI ≠ necessarily a final purchase — can be based on views, visits, engagement, etc., with sales as the eventual end goal.
 
-### Media Platform + Creative
-
-Media platforms and the creative should complement each other.
-
-> **Creativity + Numbers**
-
-### Objective
-
-- Maximize **Return on Investment (ROI)** before the actual ad space is purchased.
-- ROI is not necessarily the final purchase.
-- It can be based on objectives such as **views, visits, engagement, etc.**
-- The end goal may be to push towards sales.
-
----
-
-## 2. Media Strategy
-
-The lecture identifies **three parts of a Media Strategy**:
-
-1. **Objectives**
-2. **Audience**
-3. **Media Mix**
+## 2. Media Strategy — Three Parts
+**1. Objectives → 2. Audience → 3. Media Mix**
 
 ### 2.1 Objectives
-
-#### Quantitative
-
-- Reach
-- Sales
-- Impressions
-- Frequency
-
-#### Qualitative
-
-- Awareness
-- Consideration
-- Sales
-- Sentiment
-
-#### Campaign-Specific Objectives
-
-- **Launch** — new
-- **Market Penetration** — increase sales
-- **Market Expansion** — saturated market
-
----
+| Type | Examples |
+|---|---|
+| Quantitative | Reach, Sales, Impressions, Frequency |
+| Qualitative | Awareness, Consideration, Sales, Sentiment |
+| Campaign-specific | Launch (new), Market Penetration (↑ sales in existing market), Market Expansion (saturated market → new markets) |
 
 ### 2.2 Audience
+- **Target Audience:** prospects, customers, and well-wishers of the brand.
+- **Segments:** groups by shared traits (age, demographics, gender).
+- **Personas:** realistic, fictional representative profiles of a segment.
 
-#### Target Audience
-
-The people the brand needs to talk to. This can include prospects, customers and well-wishers of the brand.
-
-#### Segments
-
-Target groups based on specific characteristics such as:
-
-- Age
-- Demographics
-- Gender
-
-#### Personas
-
-Realistic but fictional representative profiles of a segment.
-
----
-
-## 3. Class Activity — Creating a Buyer Persona
-
-The class created a buyer persona around a **hairstylist**.
-
-### Persona Profile
-
-- **Age:** 27
-- **Gender:** Female
-- **Location:** South Bombay
-- **Qualification:** Aesthetic Cosmetologist
-- **Relationship/Marital Status:** Relationship
-
-### Psychographics
-
-- **Interests:** Celebrity, makeup, books
-- **Hobbies:** Books/reading, adventure, travel
-- **Beliefs:** Discussed as part of the persona exercise
-- **Behaviour/Personality:** Enthusiastic, passionate, friendly
-
-### Goals
-
-- **Personal:** Personal goals
-- **Professional:** Top 10 in India
-- **Short-term:** Become famous
-- **Long-term:** Own a brand
-
-### Challenge
-
-- **Personal:** Money
-
-### Product Problem
-
-A product that works for everyone.
-
-### How Can the Brand Help?
-
-- Product
-- Collaboration
-
-### Media Habits
-
-- **Time:** 3 hours/day
-- **Platforms:** Instagram, YouTube, Facebook, X, Medium
-- **Visits:** Multiple times/day, as recorded in the activity
-
-### Physical Description
-
-- Dusky skin
-- Curly hair
-- Soft curly appearance
-
-### Persona Activity Insight
-
-The activity also used a motivational statement about fighting for the right place and respect and not letting others decide your worth, as part of understanding the persona's mindset.
-
----
+## 3. Class Activity — Buyer Persona (Hairstylist)
+- **Profile:** Age 27, Female, South Bombay, Aesthetic Cosmetologist, in a relationship
+- **Psychographics:** Interests — celebrity, makeup, books; Hobbies — reading, adventure, travel; Personality — enthusiastic, passionate, friendly
+- **Goals:** Professional — Top 10 in India; Short-term — become famous; Long-term — own a brand
+- **Challenge:** Money
+- **Product problem:** a product that works for everyone
+- **Brand's role:** Product + Collaboration
+- **Media habits:** ~3 hrs/day on Instagram, YouTube, Facebook, X, Medium; visits multiple times/day
+- **Physical description:** dusky skin, curly hair
 
 ## 4. Reach, Impressions & Frequency
-
-### Reach
-
-Number of **unique people** reached.
-
-### Impressions
-
-Number of **times** the content/ad is shown.
-
-### Frequency
-
-Average number of times a person saw the content.
+- **Reach:** number of **unique** people reached
+- **Impressions:** number of **times** content is shown
+- **Frequency:** average times one person saw it
 
 **Frequency = Impressions ÷ Reach**
 
-### Example
-
-If an ad gets 80 impressions and reaches 20 unique people:
-
-**Frequency = 80 ÷ 20 = 4**
-
----
+Example: 80 impressions, 20 unique reach → **Frequency = 80 ÷ 20 = 4**
 
 ## 5. Media Mix
+A combination of communication platforms and ad channels used to hit objectives.
 
-A combination of **communication platforms and advertising channels** used to target customers and achieve objectives.
-
-### Components
-
-**Channel**
-
-A broad route to reach people.
-
-Example: Social Media
-
-**Platform**
-
-The company ecosystem used.
-
-Example: Meta
-
-**Media Vehicle**
-
-The specific platform/place where the ad reaches people.
-
-**Content Format**
-
-The creative format used.
-
-Example: Video Ad
-
----
+**Channel** (broad route, e.g. Social Media) → **Platform** (ecosystem, e.g. Meta) → **Media Vehicle** (specific placement) → **Content Format** (creative type, e.g. Video Ad)
 
 ## 6. Earned, Owned & Paid Media
+- **Earned:** media coverage (PR, word-of-mouth)
+- **Owned:** brand-controlled channels (website, packaging, pages)
+- **Paid:** ads, sponsorships, collaborations
 
-### Earned
+> **Earned depends on Owned + Paid.**
 
-Media coverage.
+## 7. Class Activity — O2 "Be More Dog" Campaign (UK, 2013)
+*(Verified: this is O2 UK's real 2013 "Be More Dog" campaign — the media vehicles below match its actual execution.)*
 
-### Owned
+**Platforms/vehicles used:** YouTube (launch video), Website (interactive frisbee-throwing AR-style experience), Vine (film festival), Frisbee activity/outdoor, X/Twitter ("Dog Bombs" personalised messages), Blogger outreach, Quora, TV commercial, Retail.
 
-Brand-controlled channels such as:
+*(Note: Vine — the short-video app — was shut down by Twitter in 2017. It's still a valid historical example, just no longer an active platform today.)*
 
-- Website
-- Packaging
-- Pages
-- Other brand-controlled channels
-
-### Paid
-
-Sponsored/paid promotion such as:
-
-- Ads
-- Sponsorships
-- Collaborations
-
-> **Earned is dependent on Owned + Paid.**
-
----
-
-## 7. Class Activity — O2 Campaign / Platform Selection
-
-The class analysed the **O2 campaign** to determine the different platforms/media vehicles used.
-
-### Platforms / Media Used
-
-1. **YouTube** — Video
-2. **Website** — Interactive / AR experience (Chew Toys)
-3. **Vine** — Film festival
-4. **Frisbee activity / Outdoor**
-5. **X** — Chew Toys / Dog Bombs
-6. **Blogs**
-7. **Quora**
-8. **TV** — Commercial
-9. **Retail**
-
-### Key Principles
-
-#### Diversify
-
-Use different platforms and channels rather than relying on only one.
-
-#### Awareness + Capability to Go Viral
-
-The campaign should create awareness and have the capability to go viral.
-
-#### Stay True to the Campaign
-
-Keep the core campaign idea consistent even when it is tailored to different platforms.
-
----
+**Key principles:**
+- **Diversify:** use multiple platforms, not just one
+- **Awareness + viral capability:** design for shareability
+- **Stay true to the core idea** even as execution is tailored per platform
 
 ## 8. Campaign Phases
+1. **Teaser** — build curiosity
+2. **Launch** — deliver main campaign (**maximum intensity**)
+3. **Sustenance** — maintain attention after launch
 
-A good campaign should have **three phases**:
+> **Teaser + Launch = short. Sustenance = can be extended.**
 
-### 1. Teaser
-
-**Build curiosity.**
-
-### 2. Launch
-
-Deliver the **main campaign**.
-
-### 3. Sustenance
-
-**Maintain attention** after the main launch.
-
-### Media Intensity
-
-- **Maximum:** Launch
-- **Before launch:** Teaser
-- **After launch:** Sustenance
-
-> **Teaser + Launch should be short.**
->
-> **Sustenance can be extended / dragged longer.**
-
----
-
-# Quick Revision
-
-**Media Planning:** Decide **where, when and how** advertisements should appear.
-
-**Media Strategy:** **Objectives + Audience + Media Mix**
-
-**Audience:** **Target Audience → Segments → Personas**
-
-**Reach:** Unique people.
-
-**Impressions:** Total times shown.
-
-**Frequency:** Average views per person.
-
-**Frequency = Impressions ÷ Reach**
-
-**Media Mix:** Combination of communication platforms and advertising channels.
-
-**Channel → Platform → Media Vehicle → Content Format**
-
-**Earned:** Media coverage.
-
-**Owned:** Brand-controlled.
-
-**Paid:** Sponsored/paid promotion.
-
-**Campaign:** **Teaser → Launch → Sustenance**
-
-**Launch = Maximum intensity**
-
-**Teaser + Launch = Short**
-
-**Sustenance = Can be extended**
+### Quick Revision
+- **Media Planning:** where, when, how
+- **Media Strategy:** Objectives + Audience + Media Mix
+- **Audience:** Target Audience → Segments → Personas
+- **Frequency = Impressions ÷ Reach**
+- **Media Mix:** Channel → Platform → Media Vehicle → Content Format
+- **Earned / Owned / Paid**
+- **Campaign:** Teaser → Launch (max intensity) → Sustenance (extendable)
 
 ---
 
 ## Lecture 2
-
 **Date:** 27 August 2026
 
----
-
 ## 1. Messaging — Communication Process
+A **two-way** process between brand and audience:
 
-Messaging is a **two-way communication process** between the brand and the audience.
-
-### Communication Process
-
-**Sender → Encoding → Message → Channel → Decoding → Receiver**
-
-The process also includes:
-
-**Receiver → Feedback → Sender**
-
-And **Noise** can interfere with the communication process.
-
-### Key Elements
+**Sender → Encoding → Message → Channel → Decoding → Receiver → Feedback → (back to) Sender**, with **Noise** able to interfere at any stage.
 
 | Element | Meaning |
 |---|---|
-| **Sender** | Source/company/marketer creating the message |
-| **Encoding** | Transforming the message into a format suitable for the chosen channel |
-| **Message** | The actual content being communicated |
-| **Channel** | Medium used to deliver the message |
-| **Decoding** | Interpreting the message and assigning meaning |
-| **Receiver** | End customer or target audience segment |
-| **Feedback** | Response from the receiver; in digital marketing this can be tracked through KPIs |
-| **Noise** | Anything that interferes with the intended communication |
+| Sender | Brand/marketer creating the message |
+| Encoding | Turning the message into a format fit for the channel |
+| Message | The actual content |
+| Channel | Medium of delivery |
+| Decoding | Audience interpreting the message |
+| Receiver | Target audience |
+| Feedback | Audience response — tracked via KPIs in digital marketing |
+| Noise | Anything that distorts the intended communication (language/cultural barriers, tech issues, site loading problems, competition, misinterpretation) |
 
-### Examples of Noise
+**Key question when planning a campaign:** *Can the audience decode the message as intended?* If not, identify the source of noise.
 
-- Language barriers
-- Cultural differences
-- Technology challenges
-- Website loading issues
-- Competition
-- Other distractions
-- Incorrect interpretation of the message
+**Feedback → What we track → KPIs** (views, clicks, engagement, leads, sales, conversions)
 
-### Encoding vs Decoding
+## 2. Example — Coca-Cola Holiday Campaign
+Sender: Coca-Cola | Message: festive/holiday feeling | Channel: digital/social/video | Receiver: viewers | Noise: cultural interpretation, tech, competing messages | Feedback: views, engagement, sentiment, sales
 
-A marketer may **encode** a message correctly, but the audience may **decode it differently**.
+**Key learning:** A campaign can get negative reactions even with a positive intended message — this is why decoding and feedback both matter.
 
-Therefore, when developing a campaign, always ask:
-
-> **Can the target audience decode the message in the way we intended?**
-
-If not, identify the possible sources of **noise**.
-
-### Feedback and KPIs
-
-Feedback tells the marketer how the audience responded.
-
-Examples of measurable feedback:
-
-- Views
-- Clicks
-- Engagement
-- Leads
-- Sales
-- Conversions
-- Other campaign-specific KPIs
-
-Therefore:
-
-**Feedback → What we track → KPIs**
-
----
-
-## 2. Messaging Example — Coca-Cola
-
-A Coca-Cola holiday campaign can be used to understand the communication process.
-
-- **Sender:** Coca-Cola
-- **Message:** Holiday/Christmas feeling and the brand's association with the festive season
-- **Channel:** Digital/social/video platforms and other campaign channels
-- **Receiver:** Viewers/consumers
-- **Decoding:** How viewers interpret the campaign
-- **Noise:** Technology, cultural interpretation, audience perception, competing messages, etc.
-- **Feedback:** Views, engagement, sentiment, sales and other measurable responses
-
-### Important Learning
-
-A campaign can receive negative reactions even when the brand's intended message was positive.
-
-This demonstrates why **decoding and feedback are important**.
-
-The marketer must consider:
-
-> **"What we intended to communicate" ≠ "What the audience actually understood."**
-
----
+> "What we intended to communicate" ≠ "What the audience actually understood."
 
 ## 3. Plan & Schedule
+After deciding Objective → Audience → Media Mix → Budget → Message, build the **Media Plan** (typically an Excel sheet).
 
-After deciding the:
-
-1. Objective
-2. Audience
-3. Media Mix
-4. Budget
-5. Message
-
-the next step is to create the **Media Plan**.
-
-A media plan is typically maintained in an **Excel sheet**.
-
-### Typical Media Plan Columns
-
-| Column | What it contains |
-|---|---|
-| Platform | Where the campaign will run |
-| Audience | Target audience/segment |
-| Objective | Awareness, sales, leads, etc. |
-| Budget | Amount allocated |
-| Time & Schedule | When the campaign will run |
-| KPIs | What will be measured |
-
-Additional performance metrics may include:
-
-- CPC
-- CPM
-- CPA
-- CTR
-- Conversion Rate
-- Other campaign-specific KPIs
-
-### Media Plan
-
-A media plan is essentially a structured extension of the decisions made during the strategy process.
-
----
+**Typical columns:** Platform, Audience, Objective, Budget, Time & Schedule, KPIs
+**Additional metrics:** CPC, CPM, CPA, CTR, Conversion Rate
 
 ## 4. Optimization
-
-**Optimization is also part of the digital media planning process.**
-
-A marketer should always assume that something may not perform as expected once the campaign goes live.
-
-Digital media is flexible, so marketers can:
-
-- Change budgets
-- Shift budget toward better-performing platforms
-- Change creatives
-- Change creators
-- Modify targeting
-- Improve landing pages
-- Test different messages/offers
-
-### Digital Media Planning is Flexible
-
-Unlike many traditional media placements, digital media allows marketers to make changes based on real-time performance.
-
-For example:
-
-> If Platform A is performing better than Platform B, more budget can be shifted toward Platform A.
-
-Therefore, a media plan should always include an **optimization approach**.
-
----
+Digital media is flexible — unlike much traditional media, marketers can adjust **while live**: shift budget toward better performers, change creatives/creators, adjust targeting, improve landing pages, test new messages/offers.
 
 ## 5. Conversion Rate Optimization (CRO)
+**CRO = getting a higher ROI/conversion rate from *existing* traffic, without increasing spend.**
+*(Fact-check: this matches the standard industry definition of CRO — improving the % of visitors who convert, rather than buying more traffic.)*
 
-**CRO = Conversion Rate Optimization**
-
-CRO focuses on getting a **higher ROI/conversion rate from existing traffic without increasing the marketing budget.**
-
-Example:
-
-If the budget remains constant but the client wants more sales, the marketer can optimize different parts of the customer journey.
-
-### CRO Principle
-
-**Same budget + better conversion performance = higher ROI**
-
----
+> Same budget + better conversion performance = higher ROI
 
 ## 6. CRO Levers
 
-### A. Creative Optimization
+**A. Creative Optimization** — stronger concept, audience relevance, CTA, less text/more visuals, better offers, human element/lifestyle imagery (a product shown *in use* by a person often performs better than a product shown alone).
 
-Improve the advertisement/creative itself.
+**B. Landing Page Optimization** — faster load speed, fewer unnecessary elements, clearer CTAs/journey.
+Example: even a 2% → 2.5% conversion lift compounds significantly at scale.
 
-Possible changes:
+**C. Trust Builders** — reviews, ratings, testimonials, unboxing/influencer videos, founder presence, support/chatbots, return policy, free shipping, loyalty points. More uncertainty a customer feels → more trust-building needed.
 
-- Better creative concept
-- Better audience relevance
-- Stronger CTA
-- Less text
-- More visual communication
-- Better colours
-- Better offers
-- Human element
-- Lifestyle imagery
-- Better product presentation
+**D. Personalised Marketing** — tailoring message per segment (email, WhatsApp, behaviour-based offers) rather than one message for everyone.
 
-### Human Element
+**E. Retargeting** — re-engaging users who showed interest but didn't convert (e.g. added to cart, didn't purchase) via reminder ads/offers.
 
-Creatives containing a **human being or human element** can make the product feel more relatable.
+**F. Cart Abandonment Optimization** — causes: price, expected discount, payment friction, shipping uncertainty. Fixes: retargeting, limited-time discounts, better payment options, clearer shipping info, urgency messaging ("your product is waiting for you").
 
-Example:
-
-**Product shown alone**
-
-vs.
-
-**Product being used by a person**
-
-Lifestyle shots can also show how the product looks or works in a real-life situation.
-
----
-
-### B. Landing Page Optimization
-
-The landing page is where the shopping/conversion experience continues after the ad.
-
-Important factors include:
-
-- Faster page speed
-- Lower loading time
-- Fewer unnecessary files
-- Fewer unnecessary elements
-- Better buttons/CTAs
-- Clearer shopping journey
-
-### Why Speed Matters
-
-Even a small improvement in conversion rate can create meaningful additional sales.
-
-Example:
-
-**Before:** 2 people out of 100 purchase
-
-**After optimization:** 2.5 people out of 100 purchase
-
-That additional 0.5 conversion can become significant at larger traffic volumes.
-
----
-
-### C. Trust Builders
-
-Trust-building elements can make customers more comfortable completing a purchase.
-
-Examples:
-
-- Reviews
-- Ratings
-- Testimonials
-- Unboxing videos
-- Influencer videos
-- Founder presence
-- Customer support
-- Chatbots
-- Phone/contact support
-- Return policy
-- Free shipping
-- Loyalty points/coins
-- Stamp or proof of authority
-
-### Key Idea
-
-The more uncertainty a customer has, the more important **trust builders** become.
-
----
-
-### D. Personalised Marketing
-
-Personalisation means adapting communication to different audience segments.
-
-Instead of showing the same message to everyone:
-
-**Different segment → Relevant creative/message**
-
-Personalisation can include:
-
-- Segment-specific advertisements
-- Personalised communication
-- Email marketing
-- WhatsApp communication
-- Offers based on customer behaviour
-
-Correct segmentation makes personalisation more effective.
-
----
-
-### E. Retargeting
-
-Retargeting is useful when a user has already shown interest but has not completed the desired action.
-
-Example:
-
-**User → Visits website → Adds product to cart → Does not purchase**
-
-The marketer can retarget the user with:
-
-- Reminder ads
-- Product reminders
-- Offers
-- Discounts
-- Limited-time incentives
-
----
-
-### F. Cart Abandonment Optimization
-
-Customers may abandon their cart because of:
-
-- Price
-- Expectation of a discount
-- Payment issues
-- Uncertainty
-- Shipping concerns
-- Other friction points
-
-Possible solutions:
-
-- Retargeting
-- Limited-time discounts
-- Cart reminder
-- Better payment options
-- Clear shipping information
-- Stronger trust signals
-
-### Limited-Time Offers
-
-Creating urgency can encourage customers to complete the purchase.
-
-Examples:
-
-- "Your product is waiting for you"
-- Limited-time discount
-- Time-sensitive offer
-
----
-
-# Quick Revision — 27 August
-
-### Strategy Flow
-
-**Objective → Audience → Media Mix → Budget → Messaging → Plan → Optimization**
-
-### Audience
-
-**Audience → Segments → Personas**
-
-### Communication
-
-**Sender → Encoding → Message → Channel → Decoding → Receiver → Feedback**
-
-**Noise** can interfere at different stages.
-
-### Budget
-
-**Revenue-based + Competitive Parity + Historical Performance**
-
-### Allocation
-
-**70% Proven + 20% Emerging + 10% Experimental**
-
-### CRO
-
-**Same traffic/budget → Better conversion → Higher ROI**
-
-Main CRO levers:
-
-**Creative → Landing Page → Trust → Personalisation → Retargeting → Cart Recovery → Payment/Checkout**
+### Quick Revision — 27 August
+- **Strategy flow:** Objective → Audience → Media Mix → Budget → Messaging → Plan → Optimization
+- **Communication:** Sender → Encoding → Message → Channel → Decoding → Receiver → Feedback (Noise throughout)
+- **CRO:** Same traffic/budget → better conversion → higher ROI
+- **CRO levers:** Creative → Landing Page → Trust → Personalisation → Retargeting → Cart Recovery → Payment/Checkout
 
 ---
 
 ## Lecture 3
-
 **Date:** 3 September 2026
 
----
+## 1–2. Funnel Stages & Measurement
+100% of budget is split across funnel stages (allocation depends on the Media Plan/objective):
 
-## 1. Division of 100% Budget Among Funnel Stages
+| Stage | Objective | Measured via |
+|---|---|---|
+| **Awareness** | Attention, brand love, shareability | Impressions, Reach, Frequency, Shareability |
+| **Findability** | Discoverability, interaction | Clicks, Landing Page Views, Video Views, Engagement |
+| **Reputation** | Trust, confidence, positive perception | Watch time, follower growth, positive mentions, sentiment |
+| **Conversion** | Business-valuable action | Sales, Leads, Calls, Chats |
+| **Advocacy** | Brand love, repeat behaviour | Mentions, Follows, Referrals, Reviews, Loyalty |
 
-The 100% campaign budget can be divided among different stages of the funnel:
+**Landing Page Views vs Clicks:** a discrepancy between the two can occur due to page speed, network issues, or accidental clicks.
 
-- **Awareness**
-- **Findability**
-- **Reputation**
-- **Conversion**
-- **Advocacy**
+**Reputation tools:** Brand24 (social listening/mention monitoring), Modash (influencer/follower analysis, fake-follower detection).
 
-The exact allocation **depends on the Media Plan** and the campaign objective.
+**Lead Generation:** Leads → Prospects → Sales (via email, calls, messages, enquiries).
 
----
+**Advocacy:** buyer → advocate — mentions, follows, referrals, reviews, loyalty/subscriptions.
 
-## 2. Funnel Stages & Measurement
+## 3. Core Formulas
+- **Impressions** = times shown
+- **Reach** = unique people who saw it
+- **Frequency = Impressions ÷ Reach**
 
-### Awareness
-
-The objective is to create:
-
-- Awareness
-- Attention
-- Brand love
-- Shareability
-
-### Measurement
-
-Awareness can be judged through:
-
-- Impressions
-- Reach
-- Frequency
-- Shareability
-
----
-
-### Findability
-
-The objective is to make the brand easier to discover and encourage users to interact with it.
-
-### Measurement
-
-- Clicks
-- Landing Page Views
-- Video Views
-- Engagements
-
-### Landing Page Views
-
-A landing page view indicates that the user clicked and the landing page loaded.
-
-> A discrepancy between clicks and landing page views can occur because of factors such as page speed, network/Wi-Fi issues or accidental clicks.
-
----
-
-### Reputation
-
-The objective is to build:
-
-- Confidence
-- Trust
-- Positive brand perception
-
-### Measurement
-
-Possible indicators include:
-
-- Video watch time
-- Follower numbers
-- Positive mentions
-- Sentiment
-
-### Reputation Monitoring
-
-Tools discussed in class:
-
-- **Brand24** — Social listening and brand mention monitoring
-- **Modash** — Influencer/follower analysis and fake-follower detection
-
----
-
-### Conversion
-
-Conversion is an action taken by the user that creates measurable business value.
-
-Examples:
-
-- Sales
-- Leads
-- Calls
-- Chats
-- Purchases
-- Other valuable actions
-
-### Lead Generation
-
-**Leads → Prospects → Sales**
-
-For example, leads can come through:
-
-- Email
-- Calls
-- Messages
-- Enquiries
-
----
-
-### Advocacy
-
-Advocacy represents brand love and positive customer behaviour.
-
-Examples:
-
-- Mentions
-- Follows
-- Referrals
-- Reviews
-- Loyalty programmes
-- Subscriptions
-- Loyalty points
-
-### Key Idea
-
-A customer can move from being a buyer to becoming a **brand advocate**.
-
----
-
-## 3. Media Jargon & Formulas
-
-### Impressions
-
-**Impressions = Number of times the content/ad was shown**
-
-### Reach
-
-**Reach = Number of unique people who saw the content/ad**
-
-### Frequency
-
-**Frequency = Average number of times one person saw the ad**
-
-### Formula
-
-**Frequency = Impressions ÷ Reach**
-
-### Example
-
-If:
-
-- Impressions = 150
-- Reach = 50
-
-Then:
-
-**Frequency = 150 ÷ 50 = 3**
-
-Therefore:
-
-**150 Impressions = 50 Reach × 3 Frequency**
-
----
+Example: 150 impressions, 50 reach → **Frequency = 150 ÷ 50 = 3** (i.e., 150 impressions = 50 reach × 3 frequency)
 
 ## 4. Frequency Cap
-
-A **Frequency Cap** is the upper limit on the number of times one person can see an advertisement.
-
-It helps control excessive repetition of an advertisement.
-
-### Frequency Cap Depends On
-
-- Campaign objective
-- Platform
-- Campaign duration
-- Audience
-- Media plan
-
-Frequency caps are available in platforms such as:
-
-- Meta Ads
-- Google Ads
-
----
+Upper limit on how often one person can see an ad — depends on objective, platform, duration, audience, media plan. Available on Meta Ads and Google Ads.
 
 ## 5. Findability Metrics
-
-### 1. Clicks
-
-Clicks measure when users click on an advertisement or link.
-
----
-
-### 2. Landing Page Views
-
-Measures when the user clicks and the landing page successfully loads.
-
-A difference between clicks and landing page views can happen because of:
-
-- Page speed
-- Network/Wi-Fi problems
-- Accidental clicks
-- Page loading issues
-
----
-
-### 3. Video Views
-
-Video views measure whether users actually watched the video according to the platform's view definition.
-
-The class discussed short-duration viewing/watch-time as an indication of video consumption.
-
-> **Impression ≠ View**
-
-An impression means the ad was shown, while a view depends on the platform's defined viewing criteria.
-
----
-
-### 4. YouTube Video Views
-
-The class discussed:
-
-#### Skippable Ads
-
-The user can skip the advertisement.
-
-The class discussed the **30-second viewing point** as an important view measurement reference.
-
-#### Non-Skippable Ads
-
-The user cannot skip the advertisement.
-
-Therefore, the relationship between impressions and completed exposure is different from skippable advertisements.
-
-### Important
-
-If the advertisement is good and users continue watching, the platform can generate more meaningful video views.
-
----
+- **Clicks** — ad/link clicks
+- **Landing Page Views** — click + successful page load (gap vs. clicks = speed/network/accidental-click issues)
+- **Video Views** — platform-defined; **Impression ≠ View**
+- **YouTube views (verified):** For **skippable in-stream ads**, a view is counted at **30 seconds watched (or full ad if shorter) or on interaction** (click on CTA/card/banner). **Non-skippable ads don't generate a "view" metric at all** — they're billed on CPM/impressions instead, since the viewer had no choice to opt in.
 
 ## 6. Engagement
-
-Engagement measures how actively users interact with the content.
-
-Examples:
-
-- Likes
-- Comments
-- Shares
-- Saves
-- Contest participation
-- Other meaningful interactions
-
-### Engagement Depends On Objective
-
-For example:
-
-**Awareness → Views / Shares**
-
-**Consideration → Comments / Clicks**
-
-**Conversion → Leads / Sales**
-
----
+Likes, comments, shares, saves, contest participation — mapped to objective:
+Awareness → views/shares | Consideration → comments/clicks | Conversion → leads/sales
 
 ## 7. Reputation Measurement
+Brand mentions (positive/negative), sentiment, follower growth, watch time, social conversations. Tools: Brand24 (listening), Modash (influencer/follower analysis).
 
-Reputation focuses on how people perceive and talk about the brand.
+## 8. Conversion & Remarketing by Journey Stage
+| Stage | User behaviour | Remarketing action |
+|---|---|---|
+| Homepage | Doesn't continue | Relevant product/category ads |
+| Product Page | Doesn't proceed | Product reminder, discount |
+| Cart | Doesn't purchase | Cart reminder, discount, better payment options |
+| Purchase complete | Converted | Cross-sell, up-sell, loyalty communication |
 
-### Metrics / Indicators
-
-- Brand mentions
-- Positive mentions
-- Negative mentions
-- Sentiment
-- Follower growth
-- Video watch time
-- Social conversations
-
-### Tools
-
-**Brand24 → Brand/social listening**
-
-**Modash → Influencer and follower analysis**
-
----
-
-## 8. Conversion & Remarketing
-
-Remarketing can be used at different stages of the customer journey.
-
-### Stage 1 — Homepage
-
-**User reaches homepage → Does not continue**
-
-Possible action:
-
-- Remarketing
-- Relevant product/category communication
-
----
-
-### Stage 2 — Product Page
-
-**User reaches product page → Does not proceed**
-
-Possible action:
-
-- Product reminder
-- Discount
-- Offer
-- Relevant product communication
-
----
-
-### Stage 3 — Cart
-
-**User reaches cart → Does not purchase**
-
-Possible action:
-
-- Cart reminder
-- Discount
-- Limited-time offer
-- Better payment options
-
----
-
-### Stage 4 — Successful Transaction
-
-**User completes purchase**
-
-Possible action:
-
-- Cross-sell
-- Up-sell
-- Loyalty communication
-- New product communication
-
-### Key Principle
-
-> **At every stage of the customer journey, users can be remarketed based on their previous behaviour.**
-
----
+> At every journey stage, users can be remarketed based on prior behaviour.
 
 ## 9. Sales
+Urgency drivers: offers, discounts, limited-time deals, new product announcements.
 
-For sales-focused campaigns, marketers can create urgency using:
+## 10. Deal Types & Formulas
+**General principle:** Spend is always the numerator; the metric you're costing is the denominator.
 
-- Offers
-- Discounts
-- Limited-time deals
-- New product communication
+| Metric | Formula | Meaning |
+|---|---|---|
+| **CPM** (Cost Per Mille/1,000) | (Spend ÷ Impressions) × 1,000 | Cost per 1,000 impressions |
+| **CPC** | Spend ÷ Clicks | Cost per click |
+| **CPV** | Spend ÷ Views | Cost per view |
+| **CPL** | Spend ÷ Leads | Cost per lead |
 
-The objective is to encourage the user to complete the purchase.
+Example: ₹1,000 spend, 50,000 impressions → **CPM = (1,000 ÷ 50,000) × 1,000 = ₹20** ✅ (checked, correct)
 
----
+## 11. Marketing Funnel Models
 
-# 10. Deal Types
-
-Different campaign objectives use different ways of charging/measuring media spend.
-
----
-
-## 10.1 Impressions → CPM
-
-**CPM = Cost Per Mille**
-
-Mille means **1,000**.
-
-CPM is the cost of generating 1,000 impressions.
-
-### Formula
-
-**CPM = (Spend ÷ Impressions) × 1,000**
-
-### Example
-
-If:
-
-- Spend = ₹1,000
-- Impressions = 50,000
-
-Then:
-
-**CPM = (₹1,000 ÷ 50,000) × 1,000**
-
-**CPM = ₹20**
-
----
-
-## 10.2 Clicks → CPC
-
-**CPC = Cost Per Click**
-
-### Formula
-
-**CPC = Spend ÷ Clicks**
-
-It measures the average amount spent for each click.
-
----
-
-## 10.3 Views → CPV
-
-**CPV = Cost Per View**
-
-### Formula
-
-**CPV = Spend ÷ Views**
-
-It measures the average amount spent for each counted video view.
-
----
-
-## 10.4 Leads → CPL
-
-**CPL = Cost Per Lead**
-
-### Formula
-
-**CPL = Spend ÷ Leads**
-
-It measures the average amount spent for each lead generated.
-
----
-
-## 10.5 General Formula Principle
-
-> **Spend is the numerator and whatever you want to find is the denominator.**
-
-Examples:
-
-**Spend ÷ Impressions → CPM**
-
-**Spend ÷ Clicks → CPC**
-
-**Spend ÷ Views → CPV**
-
-**Spend ÷ Leads → CPL**
-
----
-
-# 11. Marketing Funnel Models
-
-Different marketing models can be used to understand the movement of consumers from awareness to action and advocacy.
-
----
-
-## 11.1 First Model — See → Think → Do → Care
-
-### See
-
-The target audience becomes aware of the brand.
-
-**See → Awareness**
-
-### Think
-
-The audience becomes interested and starts considering the brand.
-
-**Think → Interest**
-
-### Do
-
-The audience develops an intention to buy and takes action.
-
-**Do → Desire / Action**
-
-### Care
-
-The customer has purchased and may provide feedback or become an advocate.
-
-**Care → Advocacy**
-
-### Flow
-
-**See → Think → Do → Care**
-
----
-
-## 11.2 Second Model — Plan → Reach → Act → Convert → Engage
-
-This model focuses on planning communication for a specific customer.
-
-### Plan
-
-Plan the communication before entering the funnel.
-
-### Reach
-
-Reach the relevant audience and understand how communication should be delivered.
-
-### Act
-
-Create purchase intent and interaction.
-
-Examples:
-
-- Interactions
-- Leads
-- Enquiries
-
-### Convert
-
-The customer purchases.
-
-### Engage
-
-Build:
-
-- Love
-- Loyalty
-- Relationship
-- Repeat behaviour
-
-### Flow
-
-**Plan → Reach → Act → Convert → Engage**
-
----
-
-## 11.3 Third Model — AFCRA
-
-### AFCRA
-
-**Awareness → Findability → Reputation → Conversion → Advocacy**
-
-| Stage | Consumer Behaviour |
+| Model | Flow |
 |---|---|
-| **Awareness** | See |
-| **Findability** | Look |
-| **Reputation** | Research |
-| **Conversion** | Buy |
-| **Advocacy** | Come back |
+| See-Think-Do-Care | See (Awareness) → Think (Interest) → Do (Desire/Action) → Care (Advocacy) |
+| Plan-Reach-Act-Convert-Engage | Plan comms → Reach audience → Act (intent/interaction) → Convert (purchase) → Engage (loyalty) |
+| AFCRA | Awareness (See) → Findability (Look) → Reputation (Research) → Conversion (Buy) → Advocacy (Come back) |
+| AIDA | Awareness → Interest → Desire → Action |
+| **5A** | Awareness → Consideration → Conversion → Advocacy *(see correction below)* |
 
-### Flow
+> **Whichever model you use, always include Advocacy.**
 
-**Awareness → Findability → Reputation → Conversion → Advocacy**
+### Quick Revision — 3 September
+- **Funnel:** Awareness → Findability → Reputation → Conversion → Advocacy
+- **Awareness:** Impressions + Reach + Frequency + Shareability
+- **Findability:** Clicks + Landing Page Views + Video Views + Engagement
+- **Reputation:** Trust + Confidence + Mentions + Sentiment
+- **Conversion:** Sales + Leads + Calls + Chats
+- **Advocacy:** Mentions + Follows + Referrals + Loyalty + Subscriptions
+- **Formulas:** Impressions = Reach × Frequency | Frequency = Impressions ÷ Reach | CPM = (Spend ÷ Impressions) × 1,000 | CPC = Spend ÷ Clicks | CPV = Spend ÷ Views | CPL = Spend ÷ Leads
+- **Models:** See-Think-Do-Care | Plan-Reach-Act-Convert-Engage | AFCRA | AIDA | 5A (check correct sequence — Aware-Appeal-Ask-Act-Advocate per Kotler)
 
----
+> **Key principle:** Whatever funnel model you use, always have Advocacy.
 
-## 11.4 Fourth Model — AIDA
+## Lecture 4
+**Date:** 10 September 2026
 
-### AIDA
+## 1. Remarketing Across the Conversion Funnel
+Continuing the funnel: **Awareness → Findability → Reputation → Conversion → Advocacy**
 
-| Letter | Stage |
+Remarketing changes message by where the user dropped off:
+1. **Reached homepage, no action** → remarket with a specific product
+2. **Reached product page, no action** → remarket with an offer/discount
+3. **Reached cart, didn't purchase** → remarket with an offer
+4. **Completed purchase** → loyalty/reward points, cross-sell, up-sell
+5. Use **testimonials** or alternatives to support users still deciding
+
+> Remarketing applies at *every* stage — the message adapts to the user's behaviour.
+
+## 2. Deal Types / Media Buying Formulas
+**General rule:** Spend is the numerator; the metric named after "Per" is the denominator.
+
+| Metric | Formula |
 |---|---|
-| **A** | Awareness |
-| **I** | Interest |
-| **D** | Desire |
-| **A** | Action |
+| **CPM** (Cost Per Mille) | (Spend ÷ Impressions) × 1,000 |
+| **CPC** (Cost Per Click) | Spend ÷ Clicks |
+| **CPV** (Cost Per View) | Spend ÷ Views |
+| **CPL** (Cost Per Lead) | Spend ÷ Leads |
+| **CPLV** (Cost Per Landing Page View) | Spend ÷ Landing Page Views |
 
-### Flow
+*(A landing page view = the user clicked the ad AND the landing page actually loaded.)*
 
-**Awareness → Interest → Desire → Action**
+## 3. Core Ratios
+- **CTR = (Clicks ÷ Impressions) × 100**
+- **Conversion Rate = (Conversions ÷ Clicks) × 100** — "conversion" itself is flexible (leads, sales, app installs, calls, store visits) and should be defined with the client.
 
----
+**Why CTR matters:** it's a *ratio*, so it lets you fairly compare one ad/campaign/period against another — regardless of scale.
 
-## 11.5 Fifth Model — 5A
+## 4. Industry CTR Benchmarks (class reference figures)
+| Channel | Approx. CTR |
+|---|---:|
+| Meta / Instagram / Facebook | 1–2% |
+| Google Search | 5%+ |
+| Google Display Network (GDN) | ~0.2–0.3% |
 
-### 5A Model
+*(These are rough, commonly-cited industry averages and are directionally reasonable, but actual benchmarks shift by industry, quarter, and source — treat as class reference points, not fixed rules, as your notes already caveat.)*
 
-| Letter | Stage |
+If no client benchmark exists, the professor suggested starting with a **1% conversion rate assumption** as a discussion baseline.
+
+## 5. Optimising CTR
+**Control the denominator (Impressions):** Targeting, Timing/Scheduling, Frequency (avoid overexposure), Placement.  
+
+**Increase the numerator (Clicks):** stronger CTA, better design/aesthetics, relevant creative, human element.   
+
+**Creative tip:** eye contact from a model/person in an ad is a useful attention-driving technique.
+
+## 6. Optimising Conversion Rate
+Avoid false/exaggerated promises. Key levers: customer service, clear return policy, clear shipping timelines, easy payment options, offers/discounts, **website speed** (flagged as a *baseline requirement* before other fixes matter).
+
+## 7. CAC — Customer Acquisition Cost
+`CAC = (Marketing Spend + Sales Spend) ÷ New Customers Acquired`
+Sales-side costs to include: CRM, sales team, callers, email tools, etc. — don't judge CAC on ad spend alone if the business has real sales/CRM overhead.
+
+## 8. CLV — Customer Lifetime Value
+`CLV = Average Order Value × Purchase Frequency × Customer Lifespan`
+
+**Maximising CLV:** reward/stamp cards, memberships, subscriptions, after-sales service, buybacks/upgrades, upselling/cross-selling.
+
+## 9. ROAS — Return on Ad Spend
+`ROAS = Revenue from Ads ÷ Ad Spend` — focuses on **revenue**, not profit.
+
+## 10. ROI — Return on Investment
+`ROI = ((Gain from Investment − Cost of Investment) ÷ Cost of Investment) × 100`
+
+**Class example:**
+- Spend = ₹75,000; New customers = 250; Avg. purchase value = ₹1,000; Fulfilment cost/order = ₹600
+- Revenue = 250 × 1,000 = ₹2,50,000
+- Fulfilment cost = 250 × 600 = ₹1,50,000
+- Net profit (before ad spend) = ₹2,50,000 − ₹1,50,000 = ₹1,00,000
+- **ROI = (1,00,000 − 75,000) ÷ 75,000 × 100 = 33.3%** ✅ *(verified correct)*
+
+## 11. Class Practice — Media Math
+*(Recreated from the given values; each set is internally consistent unless flagged.)*
+
+**Exercise 1**  
+*(given, not independently derivable without Frequency/Spend/Impressions)*: Reach 22,50,000 | CPM 200 | CPC 51.42 | CPL 692.3 | CTR 0.38% | Conv. Rate 7.42%
+
+**Exercise 2**   
+*(checks out ✅)*: Reach 2,25,000 | CPC 10.3 | CPL 135 | CTR 1.44% | Conv. Rate 7.6% | Spend ₹67,500
+
+**Exercise 3**  
+Given: CTR 4% | Impressions 3,30,000 | CPC 4 | Leads 300 | Frequency 2
+Derived: Reach = 1,65,000 ✅ | Clicks = 13,200 ✅ | CPM = 160 ✅ | CPL = 176 ✅ | Conv. Rate = 2.27% ✅
+
+**Exercise 4**   
+*(checks out ✅)*: CPM 250 | CPC 12 | Leads 600 | Frequency 2 | Spend ₹3,00,000 → Clicks 25,000 | Impressions 12,00,000 | Reach 6,00,000 | CTR 2.08% | Conv. Rate 2.4%
+
+## 12. Comparing Ads via CTR
+- Ad A: 5,00,000 impressions, CTR 1%
+- Ad B: 1,20,000 impressions, CTR 2%
+→ **Ad B wins on CTR** despite fewer impressions — don't judge by raw click count alone; use ratios for fair comparison.
+
+### ⭐ Quick Revision — Lecture 4
+| Metric | Formula |
 |---|---|
-| **A** | Awareness |
-| **C** | Consideration |
-| **C** | Conversion |
-| **A** | Advocacy |
+| Impressions | Reach × Frequency |
+| CPM | (Spend ÷ Impressions) × 1,000 |
+| CPC | Spend ÷ Clicks |
+| CPV | Spend ÷ Views |
+| CPL | Spend ÷ Leads |
+| CTR | (Clicks ÷ Impressions) × 100 |
+| Conversion Rate | (Conversions ÷ Clicks) × 100 |
+| CAC | (Marketing + Sales Spend) ÷ New Customers |
+| CLV | AOV × Purchase Frequency × Customer Lifespan |
+| ROAS | Revenue ÷ Ad Spend |
+| ROI | ((Gain − Cost) ÷ Cost) × 100 |
 
-### Flow
-
-**Awareness → Consideration → Conversion → Advocacy**
-
-> **Whichever model you use, always have Advocacy.**
-
----
-
-# 12. Key Learning — Funnel Models
-
-Different models can be used depending on:
-
-- Campaign objective
-- Audience
-- Communication strategy
-- Media plan
-
-However, the larger objective is to move customers beyond purchase and toward:
-
-**Loyalty → Advocacy → Repeat Behaviour**
-
----
-
-# Quick Revision — 3 September 2026
-
-### Funnel
-
-**Awareness → Findability → Reputation → Conversion → Advocacy**
-
-### Awareness
-
-**Impressions + Reach + Frequency + Shareability**
-
-### Findability
-
-**Clicks + Landing Page Views + Video Views + Engagement**
-
-### Reputation
-
-**Trust + Confidence + Mentions + Sentiment**
-
-### Conversion
-
-**Sales + Leads + Calls + Chats**
-
-### Advocacy
-
-**Mentions + Follows + Referrals + Loyalty + Subscriptions**
-
-### Core Formulas
-
-**Impressions = Reach × Frequency**
-
-**Frequency = Impressions ÷ Reach**
-
-**CPM = (Spend ÷ Impressions) × 1,000**
-
-**CPC = Spend ÷ Clicks**
-
-**CPV = Spend ÷ Views**
-
-**CPL = Spend ÷ Leads**
-
-### Funnel Models
-
-**See → Think → Do → Care**
-
-**Plan → Reach → Act → Convert → Engage**
-
-**Awareness → Findability → Reputation → Conversion → Advocacy**
-
-**AIDA = Awareness → Interest → Desire → Action**
-
-**5A = Awareness → Consideration → Conversion → Advocacy**
-
-### Key Principle
-
-> **Whatever funnel model you use, always have Advocacy.**
+- **CTR** = comparison tool across ads/campaigns
+- **Targeting + Timing + Frequency + Placement** → control impressions
+- **Creative + CTA + Human element** → increase clicks
+- **Speed + Trust + Payment + Offers** → improve conversion
+- **CAC** = cost to acquire; **CLV** = long-term value; **ROAS** = revenue vs. spend; **ROI** = return net of cost
 
 <script src="assets/top-button.js"></script>

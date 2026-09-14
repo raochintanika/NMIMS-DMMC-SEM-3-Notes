@@ -4,84 +4,47 @@
 ---
 
 ## Lecture 1
-
 **Date:** 21 August 2026
----
 
 ## 1. OTT
+**OTT = Over The Top** — content/services delivered over the internet, bypassing traditional broadcast/cable infrastructure.
 
-**OTT = Over The Top** — services delivered over the internet.
-
-- Netflix was used as an example.
-- OTT is a **non-linear medium**.
-- DTH = network / signal / satellite
-- Cable = cable
-- OTT = internet
-
----
+- Netflix used as the class example.
+- OTT is a **non-linear** medium.
+- **DTH** = satellite/signal-based delivery
+- **Cable** = physical cable network
+- **OTT** = internet-based delivery
 
 ## 2. Traditional TV vs OTT
+| Traditional TV | OTT |
+|---|---|
+| Fixed schedule / EPG | On-demand |
+| Local or national | Global content |
+| Family/group viewing | Individual consumption |
+| Limited user-level tracking | Tracks detailed user behaviour/metrics |
+| Geographic limitations | No traditional geographic boundary |
+| Linear | Non-linear |
 
-### Traditional TV
+## 3. TRP (Television Rating Point)
+TRP is based on **sampling**, not a full population count.
+*(Fact-check: confirmed — in India, TRP is measured by BARC using "Bar-O-meters" installed in a panel of tens of thousands of households, extrapolated to represent the whole viewing population. Since it's sample-based, it's an estimate, not a perfect count — matching your notes.)*
 
-- Fixed schedule / EPG
-- Local or national
-- Family watching / group consumption
-- Limited ability to track detailed user-level behaviour
-- Geographic limitations
-- Linear
+## 4–5. "Hoarding" — Two Different Uses in Class
+> ⚠️ **Worth clarifying with your professor:** Your notes use "Hoarding" in two different senses that don't quite line up:
+> - **Section 4** defines Hoarding as "IP tracking/approximation used to understand audience exposure" — this sounds like a *digital measurement technique* (estimating reach via IP addresses), similar in spirit to TRP-style sampling for OTT/digital ads.
+> - **Section 5** references a **"Netflix Hoarding Campaign"** as a PR stunt/brand positioning example — in standard Indian-English advertising usage, "hoarding" actually means a **billboard/outdoor (OOH) ad**, not a tracking method. Netflix has in fact run several high-profile real-world billboard stunts (e.g., a 100-day countdown billboard for *The Archies* in India, and international stunts like a person "living inside" a billboard to promote a title) — this fits the Section 5 usage perfectly.
+>
+> These look like two unrelated concepts that both happened to get labelled "Hoarding" in the same set of notes — possibly a mishearing of two separate professor comments. I've kept both as written since I can't resolve which was intended, but it's worth double-checking definitions with your professor before an exam.
 
-### OTT
+**Hoarding data (Section 4):** does not provide perfectly accurate audience-level data (approximation only).
 
-- On-demand
-- Global content
-- Individual consumption
-- No traditional geographic boundary
-- Tracks user behaviour and metrics
-- Non-linear
-
----
-
-## 3. TRP
-
-- Sampling is used.
-- Since TRP is based on sampling, the data may not represent every viewer perfectly.
-
----
-
-## 4. Hoarding
-
-**Hoarding:** IP tracking / approximation used to understand audience exposure.
-
-> Hoarding does not provide perfectly accurate audience-level data.
-
----
-
-## 5. Netflix Hoarding Campaign
-
-Used as an example of:
-
-- PR stunt
-- Innovation
-- Creating something people will talk about
-- Brand positioning
-
----
+**Netflix "Hoarding" Campaign (Section 5):** used in class as an example of a PR stunt / innovation / brand positioning / something people talk about.
 
 ## 6. Local OTT Content
+Depends on: audience preferences, content rights, censorship differences.
+*(The "Middle Eastern countries — no Hindu content" example is preserved as your professor's specific illustration, not a universal or verified claim — treat it as a class example, not a fact to cite elsewhere.)*
 
-Local OTT content depends on:
-
-- Audience preferences
-- Content rights
-- Censorship differences
-
-The notes give **“Middle Eastern countries — No Hindu content”** as an example. This is preserved as the professor's example, not as a universal statement.
-
----
-
-## 7. Traditional TV vs OTT — Positioning in Advertising
-
+## 7. Traditional TV vs OTT — Advertising Positioning
 | Traditional TV | OTT |
 |---|---|
 | Limited personalization | Greater personalization |
@@ -90,452 +53,101 @@ The notes give **“Middle Eastern countries — No Hindu content”** as an exa
 | Fixed inventory | Flexible inventory |
 | Fixed infrastructure | Portable infrastructure |
 
----
-
 ## 8. OTT Monetization Models
-
-### TVOD — Transactional Video on Demand
-
-- Pay/rent for specific content
-- Rent a movie for a limited period
-- New-release movies may receive early access
-- Can provide premium movie/content access
-
-### AVOD — Advertising Video on Demand
-
-- Advertising-supported video on demand
-- Ads support the monetization model
-
-### FVOD — Free Video on Demand
-
-- Free content
-- Can be used for sampling and increased engagement
-
-### SVOD — Subscription Video on Demand
-
-- Subscription-based video on demand
-- User pays an OTT subscription fee
-- Ads may also be included depending on the plan
-
----
+*(Fact-check: all four definitions below match standard industry usage.)*
+- **TVOD** (Transactional VOD): pay/rent per title — e.g., renting a new release for a limited window, sometimes with early access.
+- **AVOD** (Advertising VOD): free to watch, monetized via ads.
+- **FVOD** (Free VOD): free content, often used for sampling/engagement (distinct from AVOD in that it isn't necessarily ad-funded — though in practice the two overlap heavily).
+- **SVOD** (Subscription VOD): recurring subscription fee; some plans may still include ads (an "ad-supported subscription tier").
 
 ### Quick Revision
-
-**OTT:** Internet-delivered, non-linear, on-demand content.  
-**Traditional TV:** Scheduled, linear, mass-audience medium.  
-**TRP:** TV measurement based on sampling.  
-**TVOD:** Pay/rent for specific content.  
-**AVOD:** Advertising-supported video on demand.  
-**FVOD:** Free video on demand.  
-**SVOD:** Subscription-based video on demand.  
+- **OTT:** Internet-delivered, non-linear, on-demand
+- **Traditional TV:** Scheduled, linear, mass-audience
+- **TRP:** Sample-based TV measurement
+- **TVOD / AVOD / FVOD / SVOD:** Pay-per-title / Ad-funded / Free / Subscription
 
 ---
 
 ## Lecture 2
-
 **Date:** 4 September 2026
----
 
 ## 1. FAST Channels
+**FAST = Free Ad-Supported Streaming Television** — linear, scheduled (EPG-style) programming delivered over the internet, funded by ads.
 
-**FAST channels** use linear programming / an EPG-style scheduled experience but are delivered through the internet and supported by advertising.
-
-### Key Idea
-
-**Linear programming + Internet delivery + Ads**
-
----
+*(Clarification: the "Free" in FAST is a defining feature, not just implied — FAST channels require no subscription or login at all, unlike SVOD. Your notes' formula "Linear programming + Internet delivery + Ads" is accurate but worth remembering the "no-subscription/free-to-access" part explicitly, since that's what distinguishes FAST from a paid vMVPD service.)*
 
 ## 2. OTT Ecosystem
-
-The basic OTT content delivery ecosystem discussed in class:
-
-**Cloud → CDN → Internet → Phone / Device → Streaming**
-
-### Cloud
-
-Content is stored and/or processed through cloud infrastructure.
-
-### CDN
-
-**CDN = Content Delivery Network**
-
-The CDN helps deliver streamed content from the cloud/infrastructure to the user's device.
-
-### Flow
-
 **Content → Cloud → CDN → Internet → User Device**
 
----
+- **Cloud:** stores/processes content
+- **CDN (Content Delivery Network):** distributes streamed content efficiently from cloud to device
 
 ## 3. Cloud Infrastructure
+Major providers discussed: **Azure, AWS** (both real, major cloud infrastructure providers — correct).
 
-The class discussed **Azure and AWS** as major cloud infrastructure providers.
+## 4. OTT Case Study
+- Genre: Animation/Fiction, "Anfiction" (as named in class), 18M installs
+- **Monetisation:** Hybrid — SVOD + AVOD + FVOD
+- **Why hybrid:** caters to young audiences, varying time-on-platform, occasional viewers, and different willingness to pay across the user base
 
-> The professor discussed these in the context of major infrastructure/cloud providers.
+## 5. Monetisation Factors
+Two major cost drivers: **Cost of the App** + **Cost of Content**
 
----
+**App costs:** development, technology, maintenance, resources, marketing, cloud infrastructure, CDN
+**Content costs:** production, acquisition, rights, localisation, marketing
 
-### 4. OTT Case Study
+**Content acquisition example:** Korean content → acquired → localised into Hindi/English for the target market.
 
-### Case Study
+## 6. Top Content Categories (as discussed)
+Bollywood, Astrology, Spiritual/Devotional, Sports
 
-- **OTT**  
-- **Genre:** Animation / Fiction
-- **Name:** Anfiction **(as noted in class)**
-- **Installs:** 18M installs
+## 7. OTT Marketing Costs
+**Traditional media** (Print, Outdoor, TV, Radio) — challenges: attention, cost, measurability, visibility, limited audience-level data.
+**Digital media** (social, email, performance marketing, influencers, telemarketing) — advantage: far more measurable audience behaviour data.
 
-### Monetisation
+## 8. CDN (recap)
+**CDN = Content Delivery Network** — part of the delivery infrastructure: **Cloud → CDN → Internet → Device → Stream**
 
-The case discussed a **hybrid monetisation model**:
+## 9–10. User Journey: Acquisition → User → Active User
+- **Acquisition:** Installs → Users
+- **User:** has installed/has an account — not necessarily active
+- **Active User:** actually engages (watches, clicks, browses, interacts)
 
-**SVOD + AVOD + FVOD**
+> Install ≠ active use — an installed app doesn't guarantee an engaged user.
 
-### Why This Model?
+## 11. Engagement & CLV/LTV
+Key metrics: Installs, Users, Active Users.
+**CLV/LTV (Customer/Lifetime Value):** the goal isn't just acquisition — it's understanding a user's long-term value to the platform.
 
-The class discussion connected the model to:
+## 12. Subscription Periods
+Monthly, Quarterly, Yearly — platforms can structure plans around different billing cadences.
 
-- Young audiences
-- Time spent on the platform
-- Additional/occasional viewers
-- Different audience willingness to pay
+## 13. Engagement Tactics
+1. Personalised recommendations
+2. Notifications (new episode/content, reminders)
+3. Offers (subscription, re-subscription, consumption)
+4. Watchlist
+5. Watch Party (shared viewing)
+6. Rewards
+7. Newer content (reason to return)
+8. Nostalgia value/calendar (old shows, festivals, anniversaries, seasonal content)
 
----
+## 14. Overall OTT Flow
+**Acquisition → Install → User → Active User → Engagement → Subscription/Revenue → Retention**
 
-### 5. Monetisation Factors
-
-Two major factors affecting OTT monetisation:
-
-1\. **Cost of the App**
-2\. **Cost of Content**
-
----
-
-## 5.1 Cost of the App
-
-Costs can include:
-
-- App development
-- Technology
-- Maintenance
-- Resources
-- Marketing
-- Cloud infrastructure
-- CDN
-
----
-
-## 5.2 Cost of Content
-
-Content-related costs can include:
-
-- Content production
-- Content acquisition
-- Content rights
-- Localisation
-- Marketing
-
-### Content Acquisition
-
-An OTT platform may acquire content from another market.   
-For example:
-
-**Korean Content → Acquisition → Localisation → Hindi / English**   
-Localisation can involve adapting content for the target audience and language.
-
----
-
-### 6. Top Content Categories
-
-The class discussed the following as major content categories:
-
-- Bollywood
-- Astrology
-- Spiritual / Devotional
-- Sports
-
----
-
-### 7. OTT Marketing Costs
-
-## Traditional Media
-
-Examples:
-
-- Print
-- Outdoor
-- TV
-- Radio
-
-### Challenges / Reasons for Decline
-
-- Attention
-- Cost
-- Measurability
-- Visibility
-- Limited audience-level data
-
----
-
-## Digital Media
-
-Examples:
-
-- Modern social media
-- Email
-- Performance marketing
-- Influencers / creators
-- Tele-marketing
-
-### Key Advantage
-
-Digital channels can provide more measurable information about audience behaviour.
-
----
-
-### 8. CDN
-
-**CDN = Content Delivery Network**
-
-A CDN is part of the OTT delivery infrastructure that helps deliver streamed content to users.
-
-### OTT Delivery Flow
-
-**Cloud → CDN → Internet → Device → Stream**
-
----
-
-### 9. Acquisition & User Journey
-
-The OTT customer journey can be understood through different stages.
-
-### Acquisition
-
-**Installs → Users**
-
-The first step is acquiring users through app installs.
-
-### Important Acquisition Considerations
-
-- Revenue
-- Customer base
-- Number of installs
-- Number of users
-
----
-
-### 10. User vs Active User
-
-### User
-
-A person who has installed the app and has their account/login details within the platform.   
-A user may not necessarily be actively using the platform.
-
-### Active User
-
-A user who actually performs an activity on the platform.   
-Examples:
-
-- Watching content
-- Clicking
-- Browsing
-- Interacting with the app
-- Performing another measurable action
-
-### Important Distinction
-
-**Install → User → Active User**
-
-An installed app does not automatically mean that the person is an active user.
-
----
-
-### 11. Engagement
-
-Engagement focuses on whether acquired users actually use the platform.
-
-### Important Metrics
-
-- Installs
-- Users
-- Active users
-
-### Key Business Metric
-
-**CLV / LTV**   
-**CLV = Customer Lifetime Value**   
-**LTV = Lifetime Value**
-
-The objective is not only to acquire users but to understand their long-term value to the platform.
-
----
-
-### 12. Subscription Model
-
-A subscription model can have different payment periods.
-
-Examples:
-
-- Monthly
-- Quarterly
-- Yearly
-
-### Key Idea
-
-The platform can structure subscription plans according to different payment durations.
-
----
-
-### 13. Engagement Tactics
-
-The class discussed different ways to encourage users to engage with an OTT platform.
-
-### 1. Personalised Recommendations
-
-Recommend content based on the user's interests and previous behaviour.
-
----
-
-### 2. Notifications
-
-Use notifications to bring users back to the platform.
-
-Examples:
-
-- New episode notification
-- New content notification
-- Reminder to watch
-- Personalised content notification
-
----
-
-### 3. Offers
-
-Use offers to encourage:
-
-- Subscription
-- Re-subscription
-- Content consumption
-- Continued engagement
-
----
-
-### 4. Watchlist
-
-Allow users to save content they want to watch later.
-
----
-
-### 5. Watch Party
-
-Allow users to watch content together or create a shared viewing experience.
-
----
-
-### 6. Rewards
-
-Use rewards to encourage continued engagement and activity.
-
----
-
-### 7. Newer Content
-
-Continuously introduce new content to give users a reason to return.
-
----
-
-### 8. Nostalgia Value / Calendar
-
-Use nostalgic content or calendar-based moments to encourage viewing.
-
-Examples may include:
-
-- Old popular shows
-- Festival-related content
-- Anniversary-based content
-- Seasonal content
-
----
-
-### 14. OTT Engagement — Overall Flow
-
-A simplified OTT user journey:
-
-**Acquisition → Install → User → Active User → Engagement → Subscription / Revenue → Retention**
-
-### Important
-
-Acquisition alone is not enough.
-
-The platform needs to:
-1\. Acquire users  
-2\. Convert them into active users  
-3\. Keep them engaged  
-4\. Generate revenue  
-5\. Retain them  
-6\. Increase their lifetime value  
-
----
+> Acquisition alone isn't enough — platforms must convert installs into active, engaged, retained, high-LTV users.
 
 ### Quick Revision — 4 September 2026
+- **FAST:** Free + Linear/EPG-style + Internet + Ads
+- **OTT Ecosystem:** Cloud → CDN → Internet → Device → Streaming
+- **Monetisation:** SVOD + AVOD + FVOD = Hybrid Model
+- **Costs:** App Cost + Content Cost (Production + Acquisition + Localisation + Rights; Marketing + Cloud + Maintenance + Resources + CDN)
+- **Content categories:** Bollywood, Astrology, Spiritual/Devotional, Sports
+- **User journey:** Installs → Users → Active Users → Engagement
+- **Value metric:** CLV/LTV
+- **Subscription periods:** Monthly / Quarterly / Yearly
+- **Engagement tactics:** Recommendations, Notifications, Offers, Watchlist, Watch Party, Rewards, New Content, Nostalgia/Calendar
 
-### FAST
-
-**FAST = Linear programming / EPG-style experience + Internet + Ads**
-
-### OTT Ecosystem
-
-**Cloud → CDN → Internet → Device → Streaming**
-
-### CDN
-
-**Content Delivery Network**
-
-### OTT Monetisation
-
-**SVOD + AVOD + FVOD = Hybrid Model**
-
-### Major OTT Costs
-
-**App Cost + Content Cost**
-
-### Content Costs
-
-**Production + Acquisition + Localisation + Rights**
-
-### Other OTT Costs
-
-**Marketing + Cloud + Maintenance + Resources + CDN**
-
-### Content Categories
-
-**Bollywood + Astrology + Spiritual / Devotional + Sports**
-
-### User Journey
-
-**Installs → Users → Active Users → Engagement**
-
-### Important Value Metric
-
-**CLV / LTV**
-
-### Subscription Periods
-
-**Monthly / Quarterly / Yearly**
-
-### Engagement Tactics
-
-1\. Personalised recommendations  
-2\. Notifications  
-3\. Offers  
-4\. Watchlist  
-5\. Watch party  
-6\. Rewards  
-7\. Newer content  
-8\. Nostalgia value / calendar
-
-### Core Learning
-
-> **Acquiring a user is only the beginning. The OTT platform must keep the user active and engaged to generate long-term value.**
+> **Core learning:** Acquiring a user is only the beginning — the platform must keep them active and engaged to generate long-term value.
 
 <script src="assets/top-button.js"></script>
