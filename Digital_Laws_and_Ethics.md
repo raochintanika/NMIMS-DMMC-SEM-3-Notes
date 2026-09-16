@@ -1,3 +1,11 @@
+<p class="page-nav">
+  <a href="index.html">← Home</a>
+  <span>•</span>
+  <a href="Course_Outline_and_Progress.html">Course Guide</a>
+  <span>•</span>
+  <a href="Activities.html">Activities</a>
+</p>
+
 # Digital Laws & Ethics
 
 **Credits:** 2
