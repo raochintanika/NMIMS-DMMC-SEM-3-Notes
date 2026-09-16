@@ -91,11 +91,9 @@ An overload of information — accurate or not — that makes it hard for people
 
 ## 1. Celebrities & Influencers
 
-**Commercial Value + Recognition Value = Economic Association Value (EAV)**
+**Commercial Value + Recognition Value = Economic Associative Value (EAV)**
 
 Celebrities and influencers have commercial value because of their recognition and association with brands.
-
-> 📝 Note: Lecture 1 calls this **Economic Associative Value**; Lecture 2 calls it **Economic Association Value (EAV)**. Same concept — worth confirming which exact term/abbreviation your professor wants used in the exam.
 
 ---
 
