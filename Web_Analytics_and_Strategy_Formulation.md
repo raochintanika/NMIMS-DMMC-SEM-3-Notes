@@ -412,4 +412,168 @@ B: Direct + Google Organic + Referral
 - **Sessions > Users** for acquisition reporting (per professor)
 - **Non-Google Campaign report:** UTM-based, non-Google-Ads traffic
 
+## Lecture 5
+
+**Date:** 15 September 2026
+
+---
+
+## 1. Annotations in GA4
+
+**Annotations** let you add notes directly to GA4 reports to record events, explain changes in data, or highlight important observations.
+
+**Common uses:**
+| Use case | Example |
+|---|---|
+| Traffic changes | Spikes or dips in traffic |
+| Marketing | Campaign launches |
+| Product | Product launches |
+| General | Other important performance changes |
+
+---
+
+## 2. Engagement & Events Reports
+
+GA4 reports can be customized to analyse specific parts of the data.
+
+| Feature | What it does |
+|---|---|
+| **Comparison** | Evaluate different subsets of data side by side |
+| **Filters** | Narrow the data shown in a report |
+
+Reports can also be customized and **shared** with others.
+
+---
+
+## 3. Site Simulator Tool — TasteWP
+
+**TasteWP** is a tool for creating **temporary WordPress test sites**.
+
+**Used for:**
+- Experimenting with WordPress
+- Testing themes and plugins
+- Working with the WordPress backend without affecting a live website
+
+**Steps discussed:**
+1. Create a temporary WordPress site
+2. Access the **WordPress Admin/Backend**
+3. Install or manage **Plugins**
+4. Edit and test the site
+
+---
+
+## 4. Enhanced Measurement
+
+**Enhanced Measurement** automatically collects certain website interactions once it's **enabled for a web data stream**.
+
+**Examples:**
+- Scrolls
+- Site search
+- Outbound clicks
+
+These events can be viewed in GA4 reports.
+
+> ⚠️ **Important:** Enhanced Measurement isn't activated just by creating a GA4 property — it must be enabled/configured at the **web data stream** level.
+
+---
+
+## 5. Setting Up Events
+
+GA4 events measure specific interactions or occurrences on a website or app.
+
+**Examples:** Page views · Clicks · Searches · Purchases
+
+**Event conditions discussed:**
+| Condition type | Example |
+|---|---|
+| **URL-based** | Trigger an event when a specific page/URL is viewed |
+| **Click-based** | Track a specific click interaction |
+
+> ℹ️ These are examples of event *conditions*, not the only two GA4 event types overall. GA4 also has automatically collected, enhanced measurement, recommended, and custom events.
+
+---
+
+## 6. Integrating WordPress with GA4 — 3 Techniques
+
+| # | Technique | How it works |
+|---|---|---|
+| a | **Plugins** | A WordPress plugin connects the site to Google Analytics |
+| b | **Google Tag Manager** | Acts as the tag-management layer between the site and tracking tools |
+| c | **Direct Tracking Code** | The Google tag is added directly to the site's HTML, immediately after the opening `<head>` tag |
+
+**Placement rules:**
+- **Shared header file** across pages → edit that one file to place the tag on all pages using it
+- **Independent landing page** (not using the shared header) → add the tag to that page separately
+
+> 💡 **Key idea:** The Google tag needs to be present on every page you want Google Analytics to measure.
+
+---
+
+## 7. Pages & Landing Pages
+
+### Page
+An individual webpage a visitor views on a website. (For apps, the equivalent is generally a **screen**.)
+
+### Landing Page
+The **first page** a visitor lands on when arriving at a website.
+
+- GA4's **Landing page** dimension = the page associated with the **first page view in a session**
+- Can be the homepage, a product page, a blog post, a sign-up page — any page where the visitor first arrives
+
+---
+
+## 8. Analysing Events & Purchases
+
+**Key question:** Which user actions, pages, or journeys are associated with more purchases?
+
+To answer this, track relevant events and analyse their relationship with **purchases/key events**:
+- Which pages receive the most engagement?
+- Which clicks lead to important actions?
+- Which landing pages are associated with better outcomes?
+- Which user journeys lead to purchases?
+
+*The exact answer depends on the website's data and the events being tracked.*
+
+---
+
+## 9. Basic GA4 + WordPress Setup Flow
+
+```
+→ Create/Access WordPress Site 
+→ Add Plugin or Tracking Method 
+→ Connect GA4 → Set Up Tracking/Events 
+→ Test & Analyse Data
+```
+
+**Direct Google tag implementation:**
+```
+→ GA4 Web Data Stream 
+→ Google Tag 
+→ Website <head> 
+→ Data Collection
+```
+
+---
+
+## Quick Revision — Lecture 5
+
+| Concept | Summary |
+|---|---|
+| **Annotations** | Add notes/context to explain important changes in GA4 data |
+| **Comparison** | Compare subsets of data side by side |
+| **Filters** | Narrow the data shown in reports |
+| **TasteWP** | Temporary WordPress testing/sandbox tool |
+| **Enhanced Measurement** | Auto-collects selected interactions (Scrolls, Site Search, Outbound Clicks) once enabled |
+| **Events** | Measure specific user interactions/occurrences |
+| **Event conditions** | URL-based · Click-based |
+| **GA4 + WordPress** | Plugins · Google Tag Manager · Direct Google tag |
+| **Direct tag placement** | Immediately after the opening `<head>` tag |
+| **Shared header** | Edit once → tag applies to all pages using it |
+| **Independent landing page** | Add tag separately |
+| **Landing Page** | First page a visitor lands on in a session |
+
+**Core idea:** Track meaningful user actions, analyse the data, and identify which interactions and journeys contribute to important outcomes such as purchases.
+
+---
+
 <script src="assets/top-button.js"></script>
