@@ -46,7 +46,8 @@ Page weight affects load speed — e.g., 10 images × 100 KB vs. 160 images × 1
 ## 8. Cookies & Google Analytics
 GA4 drops a cookie on landing to track a user.
 
-**Cookie data captured:** Time, Location, Device, Page, Product, Duration, Name, Gender, Email/login info.
+**Cookie data captured:** Time, Location, Device, Page, Product, Duration, Name, Gender, Email/login info.   
+
 *(Note: name/gender/email are only captured if the site itself collects and passes this data to GA4 — GA4's own cookie doesn't inherently know PII like this. Worth keeping in mind for privacy/compliance context.)*
 
 **Basic flow:**
@@ -79,6 +80,7 @@ GA4 code must be placed on every page of the site.
 Browser extension to verify analytics code is present and firing correctly.
 
 ### Quick Revision
+
 | Term | Meaning |
 |---|---|
 | Analytics | Story backed by data |
@@ -225,8 +227,8 @@ Unexpected high international traffic (e.g. 20–25% from outside India for an I
 - **Journey:** Source → Landing Page → Website Journey → Exit Page
 - **Channel** = broad group; **Source** = specific origin
 - **Session** = 30-min window
-- **Bounce** = no meaningful action; **Engaged** = meaningful action (10s+ / conversion / 2+ pages)
-- **Visit duration:** >2 min good | **Pages/visit:** >3 healthy
+- **Bounce** = no meaningful action; **Engaged** = meaningful action (10s+ / conversion / 2+ pages)   
+**Visit duration:** >2 min good | **Pages/visit:** >3 healthy
 - Similarweb: always separate website vs app data
 
 ---
@@ -315,10 +317,8 @@ Example journey: Instagram → Google → Email → Purchase
 | Time Decay | More credit to channels closer to conversion (Email > Google > Instagram) |
 | Ads Preferred | 100% to the last **Google Ads** touchpoint (if any) |
 
-> ⚠️ **Correction:** An earlier draft of these notes had a duplicated Position-Based section with swapped numbers (40% combined first+last, 60% middle) — that was a transcription error.   
-The correct, standard model (and what your Lecture 4 revision also confirms) is **40% first / 40% last / 20% split among the middle**.
-
 > ⚠️ **Important update (verified):** Google officially **deprecated First Click, Linear, Time Decay, and Position-Based** as selectable attribution models in Google Ads and GA4 in 2023 — only **Last Click** and **Data-Driven** remain selectable today (existing conversions using the old models were auto-migrated to Data-Driven).  
+
 "Ads-preferred last click" also still exists. These models are still worth knowing conceptually (and may appear in exams/theory), but note they're no longer live options in the actual GA4/Google Ads interface.
 
 ### Quick Revision
@@ -340,6 +340,7 @@ Campaign tracking: Source → Medium → Campaign → Content → Analytics
 
 ### Attribution — Exceptions
 - **Last Click exception:** If **Direct** is the last channel, it does *not* get 100% credit — the **second-last source** gets it instead.  
+
 Reasoning: a Direct visit may just reflect the user recalling/bookmarking a URL first seen via another channel. *(This matches the old "Last Non-Direct Click" logic Google Analytics historically used by default.)*
 
 - **Ads Preferred exception:** If there's no Google Ads touchpoint in the path, the last channel gets full credit.
@@ -353,6 +354,7 @@ Reasoning: a Direct visit may just reflect the user recalling/bookmarking a URL 
 - **Real-time data:** shows the last 30 minutes — useful for verifying a fresh campaign/tracking setup is working.
 
 ### GA4 Reports Covered
+
 | Report | Purpose |
 |---|---|
 | Real-time Overview | Current site activity |
@@ -401,9 +403,6 @@ B: Direct + Google Organic + Referral
 1) Organic 
 2) Referral / ref-analytics.appspot.com
 
-
-*(Some answers weren't recorded in the original notes — flagged as incomplete, not an error.)*
-
 ### Quick Revision
 - **Last Click exception:** Direct as last touch → credit goes to the second-last source instead
 - **UTM:** Source + Medium + Campaign via URL
@@ -416,13 +415,12 @@ B: Direct + Google Organic + Referral
 
 **Date:** 15 September 2026
 
----
-
 ## 1. Annotations in GA4
 
 **Annotations** let you add notes directly to GA4 reports to record events, explain changes in data, or highlight important observations.
 
 **Common uses:**
+
 | Use case | Example |
 |---|---|
 | Traffic changes | Spikes or dips in traffic |
@@ -484,6 +482,7 @@ GA4 events measure specific interactions or occurrences on a website or app.
 **Examples:** Page views · Clicks · Searches · Purchases
 
 **Event conditions discussed:**
+
 | Condition type | Example |
 |---|---|
 | **URL-based** | Trigger an event when a specific page/URL is viewed |

@@ -23,6 +23,7 @@
 **1. Objectives → 2. Audience → 3. Media Mix**
 
 ### 2.1 Objectives
+
 | Type | Examples |
 |---|---|
 | Quantitative | Reach, Sales, Impressions, Frequency |
@@ -252,8 +253,12 @@ Example: ₹1,000 spend, 50,000 impressions → **CPM = (1,000 ÷ 50,000) × 1,0
 - **Reputation:** Trust + Confidence + Mentions + Sentiment
 - **Conversion:** Sales + Leads + Calls + Chats
 - **Advocacy:** Mentions + Follows + Referrals + Loyalty + Subscriptions
-- **Formulas:** Impressions = Reach × Frequency | Frequency = Impressions ÷ Reach | CPM = (Spend ÷ Impressions) × 1,000 | CPC = Spend ÷ Clicks | CPV = Spend ÷ Views | CPL = Spend ÷ Leads
-- **Models:** See-Think-Do-Care | Plan-Reach-Act-Convert-Engage | AFCRA | AIDA | 5A (check correct sequence — Aware-Appeal-Ask-Act-Advocate per Kotler)
+
+**Formulas:**   
+Impressions = Reach × Frequency | Frequency = Impressions ÷ Reach | CPM = (Spend ÷ Impressions) × 1,000 | CPC = Spend ÷ Clicks | CPV = Spend ÷ Views | CPL = Spend ÷ Leads   
+
+**Models:**   
+See-Think-Do-Care | Plan-Reach-Act-Convert-Engage | AFCRA | AIDA | 5A (check correct sequence — Aware-Appeal-Ask-Act-Advocate per Kotler)   
 
 > **Key principle:** Whatever funnel model you use, always have Advocacy.
 
@@ -356,6 +361,7 @@ Derived: Reach = 1,65,000 ✅ | Clicks = 13,200 ✅ | CPM = 160 ✅ | CPL = 176 
 → **Ad B wins on CTR** despite fewer impressions — don't judge by raw click count alone; use ratios for fair comparison.
 
 ### ⭐ Quick Revision — Lecture 4
+
 | Metric | Formula |
 |---|---|
 | Impressions | Reach × Frequency |

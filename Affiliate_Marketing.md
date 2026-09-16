@@ -8,8 +8,6 @@
 
 **Date:** 12 September 2026
 
----
-
 ## 1. Affiliate Marketing
 
 **Affiliate Marketing** is a **performance-based marketing partnership** where an affiliate promotes a merchant's product/service and earns a **commission based on customer actions** such as clicks, leads, or purchases.

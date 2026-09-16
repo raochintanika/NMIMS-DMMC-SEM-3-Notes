@@ -39,6 +39,7 @@ Types: Welcome, Offers, Brand story, Reminders, Updates, Transactions, FOMO, Per
 **Attention → Awareness → Interest → Community → Purchase**
 
 ## 4. How the Channels Work Together
+
 | Channel | Main Role | Speed | Strength |
 |---|---|---|---|
 | SEO | Awareness → Consideration | Slow | Long-term organic traffic |
@@ -47,7 +48,7 @@ Types: Welcome, Offers, Brand story, Reminders, Updates, Transactions, FOMO, Per
 | Email | Purchase → Retention | Fast | Relationship + loyalty |
 | Social | Awareness → Community | Fast | Brand voice + visibility |
 
-**SEO + Content → Earn attention | SEM + Social → Capture attention | Email → Keep the relationship alive**
+SEO + Content → Earn attention | SEM + Social → Capture attention | Email → Keep the relationship alive
 
 **Overall: Attract → Engage → Convert → Retain**
 
@@ -62,7 +63,13 @@ Study last 6 months of activity (social, email, web/app, YouTube, creators, paid
 **Recommended campaign:** "Fashion As YOU Like It."
 
 ### Quick Revision
-E-Commerce: Discover → Consider → Buy → Come Back | SEO: earn visibility | SEM: pay for visibility | Content: educate + trust | Email: retain | Social: capture attention + community | **Attract → Engage → Convert → Retain**
+E-Commerce: Discover → Consider → Buy → Come Back   
+SEO: earn visibility   
+SEM: pay for visibility   
+Content: educate + trust   
+Email: retain   
+Social: capture attention + community   
+**Attract → Engage → Convert → Retain**
 
 [^1]: **Abandoned cart:** item added to cart, purchase not completed. **Abandoned-cart email:** follow-up nudging completion.
 
@@ -147,6 +154,7 @@ Building presence/sales via Instagram, YouTube, X — organic content, influence
 **Social Commerce:** Creators → Content → Discovery → Trust → Purchase — creators moving from ad space to part of the selling experience itself.
 
 ## 8. Putting the Five Channels Together
+
 | Channel | Funnel Stage | Speed | Cost | Best For |
 |---|---|---|---|---|
 | SEO | Awareness → Consideration | Slow | Low, ongoing | Long-term organic traffic |
@@ -207,8 +215,6 @@ India's **Digital Personal Data Protection (DPDP) Act** — consent is becoming 
 ## Lecture 3
 
 **Date:** 12 September 2026
-
----
 
 ## 1. E-Commerce Marketing
 
@@ -398,9 +404,9 @@ Selling or enabling shopping through social platforms.
 - **Strategy:** Research → Customer → Competitor → Target Audience → Positioning
 - **SMART:** Specific → Measurable → Achievable → Relevant → Time-bound
 - **Channel selection:** Customer + Funnel Stage + Audience
-- **Funnel KPIs:** Reach/Impressions → CTR → Conversion Rate → Repeat Purchase
-- **Budget example:** 50% Performance | 25% Content & Influencer | 15% Retention | 10% Testing
-- **E-Commerce types:** B2C | B2B | C2C | D2C | Social Commerce
+- **Funnel KPIs:** Reach/Impressions → CTR → Conversion Rate → Repeat Purchase   
+**Budget example:** 50% Performance | 25% Content & Influencer | 15% Retention | 10% Testing   
+**E-Commerce types:** B2C | B2B | C2C | D2C | Social Commerce
 - **Core idea:** Use the right mix of channels, measure performance, and optimise based on data.
 
 ---

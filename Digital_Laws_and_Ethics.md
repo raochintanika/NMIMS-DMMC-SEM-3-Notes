@@ -16,8 +16,6 @@
 
 **Date:** 17 August 2026
 
----
-
 ## 1. Media and Allied Industries
 
 ### Media
@@ -58,7 +56,7 @@ Bias built into a program/platform because it was trained on unbalanced or unfai
 - **Evolution:** content/meaning changing naturally over time, generally within the same context.
 - **Appropriation:** taking original content/meaning and using it in a different context.
 
-> ⚠️ **Flagged for verification:** the original notes gave near-identical definitions for both terms, so the distinction above is a best-effort reconstruction from class discussion, not a verified definition. Please confirm the exact distinction your professor intends (commonly, "evolution" = organic change within a culture/community, "appropriation" = borrowing from another culture/context, often without credit).
+> ⚠️ **Flagged:** commonly, "evolution" = organic change within a culture/community, "appropriation" = borrowing from another culture/context, often without credit).
 
 ### Infodemic
 
@@ -90,8 +88,6 @@ An overload of information — accurate or not — that makes it hard for people
 ## Lecture 2
 
 **Date:** 24 August 2026
-
----
 
 ## 1. Celebrities & Influencers
 

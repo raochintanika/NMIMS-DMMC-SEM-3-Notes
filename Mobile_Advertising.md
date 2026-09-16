@@ -188,8 +188,8 @@ Use one product's existing user base to grow another within the same ecosystem (
 
 - **Mobile Marketing:** devices + apps + networks → communicate & influence
 - **Effectiveness:** Relevance + Timing + Value + Consent
-- **9 formats:** Banner → Interstitial → Video → Playable → Rewarded → Notification-Led → Rich Media → In-App → Cross-Promotion **(corrected list — see flag above re: Native vs. Push Notification)**
-- **In-Stream** = inside existing video | **Out-Stream** = outside video player
+- **9 formats:** Banner → Interstitial → Video → Playable → Rewarded → Notification-Led → Rich Media → In-App → Cross-Promotion **(corrected list — see flag above re: Native vs. Push Notification)**   
+**In-Stream** = inside existing video | **Out-Stream** = outside video player
 - **Placement:** Pre-Roll (before) → Mid-Roll (during) → Post-Roll (after)
 - **Playable:** experience → engagement → app acquisition
 - **Rewarded:** action → reward → engagement
@@ -204,8 +204,6 @@ Use one product's existing user base to grow another within the same ecosystem (
 ## Lecture 3
 
 **Date:** 16 September 2026
-
----
 
 ## 1. Where, What & Who of Mobile Advertising
 

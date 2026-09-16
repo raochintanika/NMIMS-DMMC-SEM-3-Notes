@@ -16,6 +16,7 @@
 - **OTT** = internet-based delivery
 
 ## 2. Traditional TV vs OTT
+
 | Traditional TV | OTT |
 |---|---|
 | Fixed schedule / EPG | On-demand |
@@ -29,16 +30,29 @@
 TRP is based on **sampling**, not a full population count.
 *(Fact-check: confirmed — in India, TRP is measured by BARC using "Bar-O-meters" installed in a panel of tens of thousands of households, extrapolated to represent the whole viewing population. Since it's sample-based, it's an estimate, not a perfect count — matching your notes.)*
 
-## 4–5. "Hoarding" — Two Different Uses in Class
-> ⚠️ **Worth clarifying with your professor:** Your notes use "Hoarding" in two different senses that don't quite line up:
-> - **Section 4** defines Hoarding as "IP tracking/approximation used to understand audience exposure" — this sounds like a *digital measurement technique* (estimating reach via IP addresses), similar in spirit to TRP-style sampling for OTT/digital ads.
-> - **Section 5** references a **"Netflix Hoarding Campaign"** as a PR stunt/brand positioning example — in standard Indian-English advertising usage, "hoarding" actually means a **billboard/outdoor (OOH) ad**, not a tracking method. Netflix has in fact run several high-profile real-world billboard stunts (e.g., a 100-day countdown billboard for *The Archies* in India, and international stunts like a person "living inside" a billboard to promote a title) — this fits the Section 5 usage perfectly.
->
-> These look like two unrelated concepts that both happened to get labelled "Hoarding" in the same set of notes — possibly a mishearing of two separate professor comments. I've kept both as written since I can't resolve which was intended, but it's worth double-checking definitions with your professor before an exam.
+## 4–5. Hoarding — Two Uses in Class
 
-**Hoarding data (Section 4):** does not provide perfectly accurate audience-level data (approximation only).
+The term **“Hoarding”** was used in two different contexts during the lecture.
 
-**Netflix "Hoarding" Campaign (Section 5):** used in class as an example of a PR stunt / innovation / brand positioning / something people talk about.
+### Hoarding Data — Section 4
+
+In this context, **Hoarding** was discussed in relation to **IP tracking/approximation** for understanding audience exposure.
+
+- The data is an approximation.
+- It does not provide perfectly accurate audience-level measurement.
+
+> **Note:** The exact terminology and meaning should be confirmed with the professor before the exam.
+
+### Netflix “Hoarding” Campaign — Section 5
+
+In this context, the **Netflix “Hoarding” Campaign** was discussed as an example of:
+
+- PR stunt
+- Innovation
+- Brand positioning
+- Creating public conversation and buzz
+
+The two uses of **“Hoarding”** appear to refer to different concepts, so the distinction should be confirmed with the professor.
 
 ## 6. Local OTT Content
 Depends on: audience preferences, content rights, censorship differences.
