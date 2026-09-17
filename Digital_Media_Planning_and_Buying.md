@@ -2,8 +2,6 @@
 
 **Credits:** 3
 
----
-
 ## Lecture 1
 **Date:** 20 August 2026
 
@@ -94,8 +92,6 @@ A combination of communication platforms and ad channels used to hit objectives.
 - **Earned / Owned / Paid**
 - **Campaign:** Teaser → Launch (max intensity) → Sustenance (extendable)
 
----
-
 ## Lecture 2
 **Date:** 27 August 2026
 
@@ -162,8 +158,6 @@ Example: even a 2% → 2.5% conversion lift compounds significantly at scale.
 - **CRO:** Same traffic/budget → better conversion → higher ROI
 - **CRO levers:** Creative → Landing Page → Trust → Personalisation → Retargeting → Cart Recovery → Payment/Checkout
 
----
-
 ## Lecture 3
 **Date:** 3 September 2026
 
@@ -210,6 +204,7 @@ Awareness → views/shares | Consideration → comments/clicks | Conversion → 
 Brand mentions (positive/negative), sentiment, follower growth, watch time, social conversations. Tools: Brand24 (listening), Modash (influencer/follower analysis).
 
 ## 8. Conversion & Remarketing by Journey Stage
+
 | Stage | User behaviour | Remarketing action |
 |---|---|---|
 | Homepage | Doesn't continue | Relevant product/category ads |
@@ -297,6 +292,7 @@ Remarketing changes message by where the user dropped off:
 **Why CTR matters:** it's a *ratio*, so it lets you fairly compare one ad/campaign/period against another — regardless of scale.
 
 ## 4. Industry CTR Benchmarks (class reference figures)
+
 | Channel | Approx. CTR |
 |---|---:|
 | Meta / Instagram / Facebook | 1–2% |
@@ -381,5 +377,7 @@ Derived: Reach = 1,65,000 ✅ | Clicks = 13,200 ✅ | CPM = 160 ✅ | CPL = 176 
 - **Creative + CTA + Human element** → increase clicks
 - **Speed + Trust + Payment + Offers** → improve conversion
 - **CAC** = cost to acquire; **CLV** = long-term value; **ROAS** = revenue vs. spend; **ROI** = return net of cost
+
+
 
 <script src="assets/top-button.js"></script>

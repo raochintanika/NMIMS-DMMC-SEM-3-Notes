@@ -2,8 +2,6 @@
 
 ### **Credits:** 3
 
----
-
 ## Lecture 1
 **Date:** 18 August 2026
 
@@ -91,8 +89,6 @@ Browser extension to verify analytics code is present and firing correctly.
 | CLS | Cumulative Layout Shift |
 | GTM | Manage multiple tags |
 | GA Debugger | Verify tracking implementation |
-
----
 
 ## Lecture 2
 **Date:** 25 August 2026
@@ -231,8 +227,6 @@ Unexpected high international traffic (e.g. 20–25% from outside India for an I
 **Visit duration:** >2 min good | **Pages/visit:** >3 healthy
 - Similarweb: always separate website vs app data
 
----
-
 ## Lecture 3
 **Date:** 1 September 2026
 
@@ -333,8 +327,6 @@ Traffic → Behaviour → Engagement → Conversion → Attribution → Insight 
 AI visibility: Prompt → AI Answer → Brand Mention → Citation → Sentiment → Opportunity
 Campaign tracking: Source → Medium → Campaign → Content → Analytics
 
----
-
 ## Lecture 4
 **Date:** 8 September 2026
 
@@ -428,8 +420,6 @@ B: Direct + Google Organic + Referral
 | Product | Product launches |
 | General | Other important performance changes |
 
----
-
 ## 2. Engagement & Events Reports
 
 GA4 reports can be customized to analyse specific parts of the data.
@@ -440,8 +430,6 @@ GA4 reports can be customized to analyse specific parts of the data.
 | **Filters** | Narrow the data shown in a report |
 
 Reports can also be customized and **shared** with others.
-
----
 
 ## 3. Site Simulator Tool — TasteWP
 
@@ -458,8 +446,6 @@ Reports can also be customized and **shared** with others.
 3. Install or manage **Plugins**
 4. Edit and test the site
 
----
-
 ## 4. Enhanced Measurement
 
 **Enhanced Measurement** automatically collects certain website interactions once it's **enabled for a web data stream**.
@@ -472,8 +458,6 @@ Reports can also be customized and **shared** with others.
 These events can be viewed in GA4 reports.
 
 > ⚠️ **Important:** Enhanced Measurement isn't activated just by creating a GA4 property — it must be enabled/configured at the **web data stream** level.
-
----
 
 ## 5. Setting Up Events
 
@@ -490,8 +474,6 @@ GA4 events measure specific interactions or occurrences on a website or app.
 
 > ℹ️ These are examples of event *conditions*, not the only two GA4 event types overall. GA4 also has automatically collected, enhanced measurement, recommended, and custom events.
 
----
-
 ## 6. Integrating WordPress with GA4 — 3 Techniques
 
 | # | Technique | How it works |
@@ -506,8 +488,6 @@ GA4 events measure specific interactions or occurrences on a website or app.
 
 > 💡 **Key idea:** The Google tag needs to be present on every page you want Google Analytics to measure.
 
----
-
 ## 7. Pages & Landing Pages
 
 ### Page
@@ -518,8 +498,6 @@ The **first page** a visitor lands on when arriving at a website.
 
 - GA4's **Landing page** dimension = the page associated with the **first page view in a session**
 - Can be the homepage, a product page, a blog post, a sign-up page — any page where the visitor first arrives
-
----
 
 ## 8. Analysing Events & Purchases
 
@@ -532,8 +510,6 @@ To answer this, track relevant events and analyse their relationship with **purc
 - Which user journeys lead to purchases?
 
 *The exact answer depends on the website's data and the events being tracked.*
-
----
 
 ## 9. Basic GA4 + WordPress Setup Flow
 
@@ -551,8 +527,6 @@ To answer this, track relevant events and analyse their relationship with **purc
 → Website <head> 
 → Data Collection
 ```
-
----
 
 ## Quick Revision — Lecture 5
 
@@ -572,7 +546,5 @@ To answer this, track relevant events and analyse their relationship with **purc
 | **Landing Page** | First page a visitor lands on in a session |
 
 **Core idea:** Track meaningful user actions, analyse the data, and identify which interactions and journeys contribute to important outcomes such as purchases.
-
----
 
 <script src="assets/top-button.js"></script>

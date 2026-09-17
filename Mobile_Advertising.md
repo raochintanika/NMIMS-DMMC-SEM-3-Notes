@@ -2,8 +2,6 @@
 
 ### **Credits:** 3
 
----
-
 ## Lecture 1
 
 **Date:** 19 August 2026
@@ -44,8 +42,6 @@ Can be more personalized, better at targeting, reach audiences instantly, and me
 |---|---|
 | Awareness | Amplify reach |
 | Discovery | Capture intent |
-
----
 
 ## Lecture 2
 
@@ -199,8 +195,6 @@ Use one product's existing user base to grow another within the same ecosystem (
 - **6-Second Challenge:** capture attention + create curiosity
 - **Main principle:** Audience + Intent → Objective → Format → Creative → Message
 
----
-
 ## Lecture 3
 
 **Date:** 16 September 2026
@@ -230,8 +224,6 @@ The consumer is the same, but the **mindset and environment keep changing**.
 
 > **Main idea:** Placement should connect with the content, context and consumer mindset.
 
----
-
 ## 2. Mobile Touchpoints & Context
 
 Consumers move across multiple mobile touchpoints during the day.
@@ -257,8 +249,6 @@ The example showed that even a utility such as a calendar can become an advertis
 Relevance + Context → Higher chance of engagement
 
 An ad that is unrelated to the user's situation can feel intrusive, while a relevant ad may be accepted more easily.
-
----
 
 ## 3. Ad Types & Ad Formats
 
@@ -290,8 +280,6 @@ Today's PPT made the distinction between **ad types** and **ad formats**.
 
 > **Important:** The professor's PPT uses **Notification-Led** as the format. Your earlier notes used **Push Notification Ads** for the same general notification-based concept. For today's lecture, use the professor's PPT terminology: **Notification-Led**.
 
----
-
 ## 4. Context & Consumer Mindset
 
 A consumer's mindset changes according to the environment and situation.
@@ -304,8 +292,6 @@ For example:
 - Night → shopping/product discovery
 
 Therefore, marketers need to consider **where the consumer is, what they are doing and what mindset they are in** before choosing the placement, format and message.
-
----
 
 ## 5. Choosing the Right Ad Format
 
@@ -335,8 +321,6 @@ For promoting an upgrade from the free version to a paid/subscription feature:
 
 The key is not to use every format simply because it is available. The choice should have a **clear reason**.
 
----
-
 ## 6. Interstitials & Campaign Economics
 
 The professor discussed interstitial/full-screen advertising as a **high-impact and relatively expensive** option.
@@ -354,8 +338,6 @@ A one-day birthday offer with a large discount can justify a high-impact placeme
 A generic discount running for an entire month may not require the same high-impact investment.
 
 > **Marketing lesson:** Match the scale and cost of the format with the campaign objective and duration.
-
----
 
 ## 7. Mobile Creative Considerations
 
@@ -380,8 +362,6 @@ Privacy is an important consideration in mobile advertising.
 SMS marketing was discussed as an example of communication where the consumer may have provided their number to a brand while making a purchase or sharing their details.
 
 **Key idea:** Relevant, consent-based communication is more acceptable than unexpected or irrelevant targeting.
-
----
 
 ## 8. Targeting — Who Are We Reaching?
 
@@ -444,8 +424,6 @@ Some advertising platforms may also provide device price-range or similar device
 
 > **Important:** Device characteristics can be used as targeting signals, but they should not automatically be treated as a precise measure of a person's income.
 
----
-
 ## 9. Ad Relevance
 
 The same ad can perform differently depending on:
@@ -460,8 +438,6 @@ The same ad can perform differently depending on:
 **Example:** An irrelevant ad interrupting someone while they are watching educational content may feel irritating.
 
 The lesson is to understand the audience before deciding the **placement, format, creative and message**.
-
----
 
 ## 10. Nike Sneaker Example
 
@@ -478,8 +454,6 @@ Possible formats included:
 The class also discussed Nike-related social content where an unusual sneaker visual and influencer activity created attention organically.
 
 **Key lesson:** The creative and format should help capture attention while communicating the product and its value.
-
----
 
 ## 11. Class Activity — Uber: Airport Rides
 
@@ -547,8 +521,6 @@ Use festive visuals combined with travel/upcoming-trip moments.
 - “Flight at 6 AM? Book your festive airport ride in advance.”
 
 > **Core idea:** Use the right audience, location, time, placement and creative to reach consumers close to the moment when the airport ride is needed.
-
----
 
 ## 12. Key Takeaways — Lecture 3
 

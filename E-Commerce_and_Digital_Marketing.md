@@ -1,8 +1,6 @@
 # E-Commerce & Digital Marketing
 **Credits:** 3
 
----
-
 ## Lecture 1
 **Date:** 22 August 2026
 
@@ -72,8 +70,6 @@ Social: capture attention + community
 **Attract → Engage → Convert → Retain**
 
 [^1]: **Abandoned cart:** item added to cart, purchase not completed. **Abandoned-cart email:** follow-up nudging completion.
-
----
 
 ## Lecture 2
 **Date:** 29 August 2026
@@ -199,14 +195,14 @@ India's **Digital Personal Data Protection (DPDP) Act** — consent is becoming 
 **Cross-Channel** → Growth Marketer, Digital Marketing Manager, Marketing Analytics Lead, CMO
 
 ### Quick Revision — Lecture 2
-- E-Commerce: Discover → Consider → Buy → Come Back
-- SEO: earn visibility
-- SEM: pay for visibility
-- Content: educate + trust
-- Email: retain
-- Social: capture attention + community
+- **E-Commerce:** Discover → Consider → Buy → Come Back
+- **SEO:** earn visibility
+- **SEM:** pay for visibility
+- **Content:** educate + trust
+- **Email:** retain
+- **Social:** capture attention + community
 - **Integrated: Attract → Engage → Convert → Retain**
-- AI: operating layer across channels  
+- **AI:** operating layer across channels  
 
 **Core idea:** Digital marketing is multiple channels working together across the customer journey.
 
@@ -228,8 +224,6 @@ The customer moves through different stages before and after purchase.
 
 A key advantage of e-commerce marketing is **measurability** — digital activities can be tracked and measured.
 
----
-
 ## 2. Customer Persona
 
 A **customer persona** is a semi-fictional representation of the ideal customer.
@@ -239,8 +233,6 @@ It helps marketers understand:
 - Their needs and pain points
 - Their behaviour
 - What kind of marketing message may work for them
-
----
 
 ## 3. E-Commerce Marketing Strategy
 
@@ -260,8 +252,6 @@ Before creating the strategy:
 
 **Positioning:** How you want the brand/product to be perceived in the market.
 
----
-
 ## 4. SMART Goals
 
 Marketing goals should be:
@@ -273,8 +263,6 @@ Marketing goals should be:
 - **Time-bound**
 
 Goals should be measurable so that performance can be tracked.
-
----
 
 ## 5. Choosing Marketing Channels
 
@@ -290,8 +278,6 @@ Do not choose a channel only because it is currently trending.
 - **Consideration:** CTR
 - **Purchase:** Conversion Rate
 - **Retention:** Repeat Purchase
-
----
 
 ## 6. E-Commerce Marketing Plan
 
@@ -322,8 +308,6 @@ The lecture discussed a mix of different execution areas:
 
 > **Key idea:** A strong e-commerce marketing plan uses a **mix of channels**, rather than depending on only one.
 
----
-
 ## 7. Example Budget Allocation
 
 The class discussed an example allocation:
@@ -335,8 +319,6 @@ The class discussed an example allocation:
 
 > Budget allocation should be reviewed based on performance and the data collected.
 
----
-
 ## 8. Execution of an E-Commerce Marketing Plan
 
 The plan should connect:
@@ -344,8 +326,6 @@ The plan should connect:
 **Goal → Audience → Channel → Execution → Measurement → Optimization**
 
 The performance of each activity should be monitored so that budget and effort can be adjusted.
-
----
 
 ## 9. E-Commerce Evolution
 
@@ -364,8 +344,6 @@ The lecture discussed the broad evolution of e-commerce:
 Traditional marketing is largely **broadcast-oriented**.
 
 E-commerce and digital marketing allow marketers to **measure user behaviour, responses and outcomes**.
-
----
 
 ## 10. Types of E-Commerce
 
@@ -395,8 +373,6 @@ Selling or enabling shopping through social platforms.
 
 **Examples:** Instagram Shop, TikTok Shop
 
----
-
 ## Quick Revision — Lecture 3
 
 - **Customer journey:** Discover → Consider → Buy → Return
@@ -408,7 +384,5 @@ Selling or enabling shopping through social platforms.
 **Budget example:** 50% Performance | 25% Content & Influencer | 15% Retention | 10% Testing   
 **E-Commerce types:** B2C | B2B | C2C | D2C | Social Commerce
 - **Core idea:** Use the right mix of channels, measure performance, and optimise based on data.
-
----
 
 <script src="assets/top-button.js"></script>

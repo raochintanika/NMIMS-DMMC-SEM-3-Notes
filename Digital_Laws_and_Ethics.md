@@ -10,8 +10,6 @@
 
 **Credits:** 2
 
----
-
 ## Lecture 1
 
 **Date:** 17 August 2026
@@ -39,8 +37,6 @@ Example:
 - **Primary:** TV
 - **Allies:** advertising, content production, etc.
 
----
-
 ## 2. Shaping People's Experiences in Digital Spaces
 
 ### Echo Chambers
@@ -62,16 +58,12 @@ Bias built into a program/platform because it was trained on unbalanced or unfai
 
 An overload of information — accurate or not — that makes it hard for people to find trustworthy sources. (Term originally coined in public health contexts, now used more broadly for any information overload.)
 
----
-
 ## 3. How Endorsements Work
 
 **Recognition Value + Commercial Value = Economic Associative Value**
 
 - Celebrities represent positive qualities.
 - Products gain/associate celebrity traits through endorsement.
-
----
 
 ## Quick Revision
 
@@ -83,8 +75,6 @@ An overload of information — accurate or not — that makes it hard for people
 | Infodemic | Overload of information, making it hard to find trustworthy sources |
 | Economic Associative Value | Recognition value + commercial value |
 
----
-
 ## Lecture 2
 
 **Date:** 24 August 2026
@@ -94,8 +84,6 @@ An overload of information — accurate or not — that makes it hard for people
 **Commercial Value + Recognition Value = Economic Associative Value (EAV)**
 
 Celebrities and influencers have commercial value because of their recognition and association with brands.
-
----
 
 ## 2. Right of Publicity (ROP)
 
@@ -108,8 +96,6 @@ The right related to the commercial use of a celebrity/influencer's identity. In
 - Persona
 - Personality rights
 
----
-
 ## 3. Right to Privacy (RTP)
 
 The right of an individual to maintain privacy over their personal life and information.
@@ -119,8 +105,6 @@ In the context of celebrities/influencers:
 **Fame ↑ → Privacy ↓**
 
 As fame increases, privacy becomes harder to maintain (courts generally hold public figures to a narrower zone of privacy, especially on matters of public interest).
-
----
 
 ## 4. Defamation
 
@@ -132,8 +116,6 @@ Harming reputation through **written/published communication** containing a fals
 ### Slander
 Harming reputation through **spoken communication** containing a falsehood.
 
----
-
 ## 5. Key Elements of Defamation
 
 - **Defamatory statement** — the statement is harmful to reputation.
@@ -141,16 +123,12 @@ Harming reputation through **spoken communication** containing a falsehood.
 - **Specific reference** — the person must be identifiable from the statement.
 - **Publication to a third party** — the statement must reach someone other than the person concerned.
 
----
-
 ## 6. Defences Against Defamation
 
 - **Truth** — the statement is true.
 - **Public Interest** — the statement is made in the public interest.
 - **Good Faith** — the statement is made honestly, without malice.
 - **Privileged Communication** — certain communications carry legal privilege (e.g., statements made in court proceedings or parliamentary debates).
-
----
 
 ## 7. What Is Not Defamation?
 
@@ -163,15 +141,11 @@ Situations discussed as generally **not** constituting defamation:
 
 **Case reference:** *Manisha Koirala v. Shashilal Nair* (Bombay High Court, 2002) — actress sued to stop release of intimate scenes (filmed with a body double) from *Ek Chhoti Si Love Story*, claiming defamation, invasion of privacy, and breach of contract. Court dismissed her plea for an injunction. ✅ Verified — this is a real, correctly cited case.
 
----
-
 ## 8. Balance Between Rights
 
 **Freedom of Press ↔ Protection of Individual Reputation**
 
 The media has freedom to report and communicate, while individuals also have a right to protect their reputation.
-
----
 
 ## Homework / Activity
 

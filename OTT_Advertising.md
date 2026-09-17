@@ -1,8 +1,6 @@
 # OTT Advertising
 **Credits:** 2
 
----
-
 ## Lecture 1
 **Date:** 21 August 2026
 
@@ -59,6 +57,7 @@ Depends on: audience preferences, content rights, censorship differences.
 *(The "Middle Eastern countries — no Hindu content" example is preserved as your professor's specific illustration, not a universal or verified claim — treat it as a class example, not a fact to cite elsewhere.)*
 
 ## 7. Traditional TV vs OTT — Advertising Positioning
+
 | Traditional TV | OTT |
 |---|---|
 | Limited personalization | Greater personalization |
@@ -79,8 +78,6 @@ Depends on: audience preferences, content rights, censorship differences.
 - **Traditional TV:** Scheduled, linear, mass-audience
 - **TRP:** Sample-based TV measurement
 - **TVOD / AVOD / FVOD / SVOD:** Pay-per-title / Ad-funded / Free / Subscription
-
----
 
 ## Lecture 2
 **Date:** 4 September 2026

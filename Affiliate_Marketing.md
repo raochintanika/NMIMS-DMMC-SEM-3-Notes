@@ -2,8 +2,6 @@
 
 **Credits:** 3
 
----
-
 ## Lecture 1
 
 **Date:** 12 September 2026
@@ -21,15 +19,11 @@
 - Merchants can extend their reach through affiliate networks
 - It can be a relatively **low-risk and cost-effective growth channel**
 
----
-
 ## 2. Customer Journey Loop
 
 **Discover → Consider → Buy → Return**
 
 Affiliate marketing can influence the customer at different stages of this journey.
-
----
 
 ## 3. Three-Way / Multi-Party Relationship
 
@@ -45,8 +39,6 @@ An **Affiliate Network / Platform** may also support the programme by helping wi
 
 The **merchant pays the commission**, not the social platform where the affiliate publishes the content.
 
----
-
 ## 4. How Affiliate Marketing Works
 
 1. **Merchant creates an affiliate programme**
@@ -57,8 +49,6 @@ The **merchant pays the commission**, not the social platform where the affiliat
 6. Affiliate receives the agreed **commission**
 
 > **Unique links + tracking = measurable performance**
-
----
 
 ## 5. Affiliates & Engagement
 
@@ -76,8 +66,6 @@ A smaller creator with a highly engaged audience can be more valuable than a lar
 ### Class Example
 
 A recipe creator with an engaged audience can promote multiple food-related brands through recipe content. The audience may click, enquire or purchase through the affiliate links.
-
----
 
 ## 6. Commission Models
 
@@ -97,8 +85,6 @@ Affiliate earns based on **customer clicks** through the affiliate link.
 
 **Class observation:** Beauty, fashion and other high-end products may use click-based affiliate models.
 
----
-
 ## 7. Tracking & Affiliate Links
 
 Each affiliate receives a **unique link/code** so the merchant can identify the source of the action.
@@ -116,8 +102,6 @@ Affiliate links can have a **tracking duration/cookie duration**.
 This helps determine how long a customer's activity can be attributed to the affiliate.
 
 > **Without proper tracking, commission disputes can occur.**
-
----
 
 ## 8. Popular Affiliate Channels
 
@@ -141,8 +125,6 @@ Affiliates can create:
 
 The content helps create **trust → discovery → action**.
 
----
-
 ## 9. Affiliate Marketing as a Side Income
 
 Affiliate marketing can be used as a **side gig**.
@@ -155,8 +137,6 @@ It offers flexibility because affiliates can:
 - Build their own audience/network
 
 > **Create content → Build an audience → Generate actions → Earn commission**
-
----
 
 ## 10. Advantages & Challenges
 
@@ -178,8 +158,6 @@ It offers flexibility because affiliates can:
 - Fake/fraudulent links can create problems
 - Affiliates can lose credibility if they promote products carelessly
 
----
-
 ## 11. Credibility & Responsible Promotion
 
 Affiliate marketing depends heavily on **trust**.
@@ -192,8 +170,6 @@ Affiliates should be careful about:
 - Disclosing compensated/affiliate relationships where required
 
 The lecture discussed how poorly considered promotions can damage an affiliate's credibility.
-
----
 
 ## 12. Affiliate Marketing & Compliance
 
@@ -210,8 +186,6 @@ The lecture also highlighted the importance of:
 - Privacy/data considerations
 
 > **Performance marketing still needs responsible and compliant marketing practices.**
-
----
 
 ## 13. Affiliate Networks & E-Commerce Platforms
 
@@ -233,8 +207,6 @@ Affiliate networks can help merchants:
 
 The lecture highlighted the importance of e-commerce platforms and affiliate networks in expanding the reach of merchants.
 
----
-
 ## 14. Indian Affiliate Marketing Examples
 
 The lecture discussed examples of affiliates earning through:
@@ -247,8 +219,6 @@ The lecture discussed examples of affiliates earning through:
 
 A key observation was that **tier-2 and tier-3 audiences** can be important for affiliate-driven commerce, particularly in categories such as clothing, jewellery and household products.
 
----
-
 ## 15. Affiliate Marketing for Brands
 
 For a merchant, affiliate marketing can act as a **growth channel** without requiring the brand to reach every consumer directly.
@@ -260,8 +230,6 @@ The merchant can track:
 **Click → Lead → Purchase**
 
 This data helps the merchant understand which affiliates and activities are generating results.
-
----
 
 ## Quick Revision — Lecture 1
 
@@ -282,7 +250,5 @@ This data helps the merchant understand which affiliates and activities are gene
 **Key challenge:** Competition + unstable income + credibility + compliance
 
 **Core idea:** **Right affiliate + right audience + right tracking = measurable growth**
-
----
 
 <script src="assets/top-button.js"></script>
