@@ -125,7 +125,7 @@ Sender: Coca-Cola | Message: festive/holiday feeling | Channel: digital/social/v
 ## 3. Plan & Schedule
 After deciding Objective → Audience → Media Mix → Budget → Message, build the **Media Plan** (typically an Excel sheet).
 
-**Typical columns:** Platform, Audience, Objective, Budget, Time & Schedule, KPIs
+**Typical columns:** Platform, Audience, Objective, Budget, Time & Schedule, KPIs   
 **Additional metrics:** CPC, CPM, CPA, CTR, Conversion Rate
 
 ## 4. Optimization
