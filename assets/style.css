@@ -391,3 +391,34 @@ main {
     font-weight: 700;
     vertical-align: middle;
   }
+
+  /* =========================================
+   Search
+   ========================================= */
+
+.search-box {
+  margin: 0 0 30px;
+}
+
+.search-box input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 15px 18px;
+  font-size: 16px;
+  font-family: inherit;
+  color: var(--text);
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.search-box input:focus {
+  border-color: var(--maroon);
+  box-shadow: 0 0 0 3px var(--maroon-light);
+}
+
+#searchResults {
+  margin-top: 10px;
+}
