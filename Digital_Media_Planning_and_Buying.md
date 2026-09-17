@@ -378,6 +378,279 @@ Derived: Reach = 1,65,000 ✅ | Clicks = 13,200 ✅ | CPM = 160 ✅ | CPL = 176 
 - **Speed + Trust + Payment + Offers** → improve conversion
 - **CAC** = cost to acquire; **CLV** = long-term value; **ROAS** = revenue vs. spend; **ROI** = return net of cost
 
+## Lecture 4
 
+**Date:** 17 September 2026
+
+## 1. Media Planning vs Media Buying
+
+| | Planning | Buying |
+|---|---|---|
+| **Focus** | Strategy — what, why, where | Execution — how, placement |
+| **Role** | Research, targeting, budgeting | Negotiation, purchasing, optimisation |
+| **Timing** | Mainly before campaign launch | Mainly during campaign execution |
+| **Skills** | Analytical, strategic | Negotiation, technical, agile |
+| **Outcome** | Detailed media plan | Ads live in market |
+
+### Key Difference
+
+**Planner:** More research, strategy, data and decision-making.
+
+**Buyer:** More dashboard, technology, execution and optimisation.
+
+The planner's work does **not** end when the campaign launches. In digital media, optimisation continues during execution.
+
+## 2. Self-Serve vs Non-Self-Serve
+
+### Self-Serve
+
+A **self-serve platform** allows the advertiser/buyer to run ads through a dashboard without needing to speak directly to a person.
+
+**Examples discussed:** Meta, Google, Amazon.
+
+### Non-Self-Serve
+
+A **non-self-serve platform** requires contacting a person or organisation to arrange the advertising.
+
+**Example discussed:** Vogue / collaborations.
+
+Because a person is involved, there is generally more room for **negotiation**.
+
+## 3. Traits of a Good Media Planner
+
+### Analytical Mindset
+- Comfortable with numbers
+- Comfortable with data
+- Uses research tools
+
+### Strategic Mindset
+- Understands objectives
+- Understands budget
+- Understands buyer persona / target audience
+- Solves problems
+- Understands traditional and digital channels
+
+### Interpersonal Skills
+- Communication skills
+- Negotiation skills
+- Building trust and relationships
+- Comfortable talking to clients and pitching ideas
+
+### Project Management Skills
+- Manages client briefs
+- Manages budgets and plans
+- Works across multiple clients/tasks
+- Works efficiently under tight deadlines
+
+## 4. One-Stop Agency Approach
+
+Clients may prefer working with one agency for both traditional and digital requirements.
+
+### Benefits discussed
+- **Consistency** — communication can remain consistent across channels
+- **Convenience** — easier for the client to manage work through one agency
+
+A single agency may need to understand both traditional and digital media because clients increasingly expect integrated communication.
+
+## 5. Audience & Market Research
+
+A planner needs to understand:
+- Who the target audience is
+- What the audience does online
+- Which digital platforms they use
+- Their media habits
+- The market and competition
+
+### Research Tools Discussed
+
+**Comscore**
+- Used to understand what people in India are doing online
+- Provides data about active apps and websites
+
+**Nielsen**
+- Discussed in class in relation to primary research
+- Can be used to understand consumer responses through research such as questionnaires
+
+**Statista**
+- Provides reports and data across different topics
+- Many detailed reports require a paid subscription
+
+The professor also discussed using AI tools to explore questions about media habits, while preferring established data sources such as Comscore or Nielsen when appropriate.
+
+## 6. A/B Testing
+
+**A/B testing** means testing two or more options with a smaller amount of budget and comparing their performance.
+
+The better-performing option can then be used more widely.
+
+### Things That Can Be Tested
+- Creative
+- Copy
+- Design
+- Call to action
+- Landing page
+- Website speed
+- Targeting
+- Audience
+- Platform
+- Placement
+
+### Important Rule
+
+**Change only one parameter at a time.**
+
+If you are testing a landing page, keep the creative, targeting, placement and other variables constant.
+
+## 7. Media Objectives & Reach
+
+The campaign objective affects planning decisions.
+
+When **maximising reach**, the platform can provide a **frequency cap** option.
+
+### Frequency Cap
+
+A frequency cap limits how many times the same user can be shown an ad.
+
+The appropriate approach depends on the campaign strategy and audience.
+
+## 8. Budget & Schedule
+
+### Daily Budget
+
+A set amount is allocated for each day.
+
+The professor discussed daily budgets as suitable for:
+- Shorter campaigns
+- New or untested audiences
+- Smaller budgets
+- Situations where close day-to-day control is important
+
+### Lifetime Budget
+
+A total amount is allocated for the entire campaign period.
+
+The platform can **pace** spending across the campaign rather than spending the same amount every day.
+
+The professor discussed lifetime budgets as suitable for:
+- Longer campaigns
+- Established brands
+- Tested audiences
+- Campaigns where the platform can optimise spending over time
+
+> These were examples discussed in class; the choice depends on the campaign.
+
+## 9. Scheduling
+
+Scheduling allows ads to run during selected times or days.
+
+The professor discussed more detailed scheduling with lifetime budgets, such as selecting specific days and time slots.
+
+### Examples Discussed
+
+**Zomato**
+- Ads/offers can be scheduled around meal times, such as lunch.
+
+**Baby Products**
+- Promotions can be scheduled around the times when the target audience is most active, such as night-time shopping.
+
+### Key Idea
+
+Schedule campaigns when timing is strategically relevant. Otherwise, unnecessary scheduling can reduce reach.
+
+## 10. UTM Parameters & Tracking
+
+The buyer should understand technical tracking requirements, including:
+- UTM parameters
+- Analytics setup
+- Meta Pixel / tracking
+- Google conversion tracking
+
+These need to be checked so that campaign performance can be measured and attributed correctly.
+
+### UTM Best Practices Discussed
+- No spaces
+- No special characters
+- Case-sensitive
+- Use consistent naming
+
+### Important Rule
+
+**Do not use UTM parameters on internal website links.**
+
+UTMs should be used on links bringing traffic **to** the website from external platforms.
+
+Using UTMs on internal links can overwrite the original traffic source.
+
+**Example:** A user arrives from an email with the source identified as the email. If they then click an internally tagged banner, the banner's UTM can overwrite the original source, making attribution less accurate.
+
+## 11. Media Planning & Buying — Overall Workflow
+
+**Research → Strategy → Targeting → Budgeting → Planning → Buying → Optimisation → Measurement**
+
+The planner and buyer work together, but their responsibilities are more focused on different parts of this process.
+
+# Class Activities
+
+## Activity 1 — Media Jargon Crossword
+
+A **Media Jargon** crossword was completed in class.
+
+Key terms included:
+- ROI — Percentage gain earned compared to money invested
+- CAC — Cost incurred to acquire a new customer
+- Frequency — Average number of times a person sees an advertisement
+- Reach — Number of unique people exposed to a campaign
+- Conversion — Desired action such as a purchase, sign-up or download
+- CPV — Cost paid when a user watches a video ad
+- Attribution — Assigning credit for a conversion to a marketing touchpoint
+- CPC — Cost paid each time someone clicks an ad
+- CPL — Cost paid for every lead generated
+- Engagement — Interactions such as likes, comments, shares or clicks
+- Impressions — Number of times an ad is displayed
+- CTR — Percentage of people who click after seeing an ad
+- CLV — Total value a customer generates throughout their relationship with a brand
+- CPA — Cost paid when a desired action or conversion occurs
+- CPM — Cost paid for every 1,000 ad views
+
+## Activity 2 — UTM Quiz
+
+A UTM quiz was conducted in class covering:
+- Case sensitivity
+- URL formatting
+- `?` and `&` separators
+- Internal vs external links
+- Attribution
+
+### Score
+
+**8 / 9 (89%)**
+
+The quiz demonstrated that:
+- Raw spaces can break URL formatting
+- UTM values are case-sensitive
+- Only the first parameter uses `?`
+- Additional parameters use `&`
+- Internal UTM links can overwrite the original traffic source
+- External documents such as PDFs can use UTM tracking
+
+### Key Learning
+
+**UTM parameters should be used for external traffic sources, not internal website navigation.**
+
+## Quick Revision — Lecture 4
+
+**Planning:** Research + strategy + targeting + budgeting
+**Buying:** Execution + placement + purchasing + optimisation
+**Self-Serve:** Ads can be run through a platform dashboard
+**Non-Self-Serve:** Advertising requires contacting a person/platform representative
+**Planner:** Analytical + strategic + research-oriented
+**Buyer:** Technical + dashboard-oriented + execution-focused
+**A/B Testing:** Test options while changing one parameter at a time
+**Frequency Cap:** Limits how many times the same user sees an ad
+**Daily Budget:** Daily spending allocation
+**Lifetime Budget:** Total campaign budget that can be paced across the campaign
+**Scheduling:** Run ads during strategically selected days/times
+**UTM Rule:** External traffic → UTM | Internal navigation → no UTM
+**Core Idea:** Media planning continues beyond campaign launch because digital campaigns require ongoing optimisation and measurement.
 
 <script src="assets/top-button.js"></script>
