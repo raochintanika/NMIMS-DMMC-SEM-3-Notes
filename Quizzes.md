@@ -1,27 +1,52 @@
 # Semester 3 Quizzes
 
-Test your understanding of the Semester 3 lecture notes through subject-wise quizzes.
+Test your understanding of the Semester 3 lecture notes.
 
 ---
 
-## Available Quizzes
+<div class="quiz-grid">
 
-The quiz currently covers:
+<a class="quiz-card" href="quiz.html?subject=digital-laws">
+    <h2>Digital Laws & Ethics</h2>
+    <p>Test your understanding of Digital Laws & Ethics.</p>
+</a>
 
-- Digital Laws & Ethics
-- OTT Advertising
-- Digital Media Planning & Buying
-- E-Commerce & Digital Marketing
-- Mobile Advertising
-- Web Analytics & Strategy Formulation
-- Affiliate Marketing
-- Artificial Intelligence in Digital Marketing
+<a class="quiz-card" href="quiz.html?subject=ott">
+    <h2>OTT Advertising</h2>
+    <p>Test your understanding of OTT Advertising.</p>
+</a>
 
----
+<a class="quiz-card" href="quiz.html?subject=media-planning">
+    <h2>Digital Media Planning & Buying</h2>
+    <p>Test your understanding of Digital Media Planning & Buying.</p>
+</a>
 
-## Start Quiz
+<a class="quiz-card" href="quiz.html?subject=ecommerce">
+    <h2>E-Commerce & Digital Marketing</h2>
+    <p>Test your understanding of E-Commerce & Digital Marketing.</p>
+</a>
 
-[**→ Start Semester 3 Quiz**](quiz.html)
+<a class="quiz-card" href="quiz.html?subject=mobile">
+    <h2>Mobile Advertising</h2>
+    <p>Test your understanding of Mobile Advertising.</p>
+</a>
+
+<a class="quiz-card" href="quiz.html?subject=analytics">
+    <h2>Web Analytics & Strategy Formulation</h2>
+    <p>Test your understanding of Web Analytics.</p>
+</a>
+
+<a class="quiz-card" href="quiz.html?subject=affiliate">
+    <h2>Affiliate Marketing</h2>
+    <p>Test your understanding of Affiliate Marketing.</p>
+</a>
+
+<a class="quiz-card" href="quiz.html?subject=ai">
+    <h2>Artificial Intelligence in Digital Marketing</h2>
+    <p>Test your understanding of AI in Digital Marketing.</p>
+</a>
+
+</div>
 
 ---
 
