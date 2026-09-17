@@ -49,13 +49,34 @@ async function buildSearchIndex() {
             const parser = new DOMParser();
             const document = parser.parseFromString(html, "text/html");
 
-            const headings = document.querySelectorAll("main h1, main h2, main h3, main h4");
+            const headings = document.querySelectorAll(
+                "main h1, main h2, main h3, main h4"
+            );
+
+            let currentLecture = "";
 
             headings.forEach((heading) => {
+                const headingText = heading.textContent.trim();
+
+                if (/^Lecture\s+\d+/i.test(headingText)) {
+                    currentLecture = headingText;
+                }
+
+                if (
+                    headingText.toLowerCase() === "quick revision" ||
+                    headingText.toLowerCase().startsWith("quick revision")
+                ) {
+                    // Keep Quick Revision in the index,
+                    // but it will be shown after normal sections.
+                }
+
                 let content = "";
                 let element = heading.nextElementSibling;
 
-                while (element && !["H1", "H2", "H3", "H4"].includes(element.tagName)) {
+                while (
+                    element &&
+                    !["H1", "H2", "H3", "H4"].includes(element.tagName)
+                ) {
                     content += " " + element.textContent;
                     element = element.nextElementSibling;
                 }
@@ -63,9 +84,10 @@ async function buildSearchIndex() {
                 searchIndex.push({
                     subject: page.name,
                     file: page.file,
-                    title: heading.textContent.trim(),
+                    title: headingText,
                     id: heading.id,
-                    content: (heading.textContent + " " + content)
+                    lecture: currentLecture,
+                    content: (headingText + " " + content)
                         .replace(/\s+/g, " ")
                         .trim()
                 });
@@ -85,7 +107,10 @@ function createSnippet(text, query) {
     }
 
     const start = Math.max(0, position - 70);
-    const end = Math.min(text.length, position + query.length + 100);
+    const end = Math.min(
+        text.length,
+        position + query.length + 100
+    );
 
     let snippet = text.substring(start, end);
 
@@ -101,9 +126,19 @@ function createSnippet(text, query) {
 }
 
 function displayResults(query) {
-    const matches = searchIndex.filter((item) =>
-        item.content.toLowerCase().includes(query)
-    );
+    const matches = searchIndex
+        .filter((item) =>
+            item.content.toLowerCase().includes(query)
+        )
+        .sort((a, b) => {
+            const aQuick = a.title.toLowerCase().startsWith("quick revision");
+            const bQuick = b.title.toLowerCase().startsWith("quick revision");
+
+            if (aQuick && !bQuick) return 1;
+            if (!aQuick && bQuick) return -1;
+
+            return 0;
+        });
 
     if (matches.length === 0) {
         searchResults.innerHTML = `
@@ -115,10 +150,17 @@ function displayResults(query) {
     }
 
     searchResults.innerHTML = matches.map((item) => `
-        <a class="search-result"
-           href="${item.file}#${item.id}">
+        <a class="search-result" href="${item.file}#${item.id}">
             <strong>${item.subject}</strong>
+
+            ${
+                item.lecture
+                    ? `<span class="search-lecture">${item.lecture}</span>`
+                    : ""
+            }
+
             <span>${item.title}</span>
+
             <small>${createSnippet(item.content, query)}</small>
         </a>
     `).join("");
