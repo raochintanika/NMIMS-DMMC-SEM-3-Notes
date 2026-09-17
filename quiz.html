@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Semester 3 Quiz | NMIMS</title>
+
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+
+<body>
+
+    <header>
+        <p class="college">NMIMS</p>
+        <p class="program">PGPDMMC — Post Graduate Program in Digital Media and Marketing Communication</p>
+        <p class="semester">Semester III</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="Course_Outline_and_Progress.html">Course Guide</a>
+        <a href="Activities.html">Activities</a>
+    </nav>
+
+    <main>
+
+        <div class="quiz-header">
+            <h1>Semester 3 Quiz</h1>
+            <p>Test your understanding of the lecture notes.</p>
+        </div>
+
+        <div id="subjectSelection">
+
+            <h2>Choose a Subject</h2>
+
+            <div class="quiz-subjects">
+
+                <button onclick="startQuiz('digital-laws')">
+                    Digital Laws & Ethics
+                </button>
+
+                <button onclick="startQuiz('ott')">
+                    OTT Advertising
+                </button>
+
+                <button onclick="startQuiz('media-planning')">
+                    Digital Media Planning & Buying
+                </button>
+
+                <button onclick="startQuiz('ecommerce')">
+                    E-Commerce & Digital Marketing
+                </button>
+
+                <button onclick="startQuiz('mobile')">
+                    Mobile Advertising
+                </button>
+
+                <button onclick="startQuiz('analytics')">
+                    Web Analytics & Strategy Formulation
+                </button>
+
+                <button onclick="startQuiz('affiliate')">
+                    Affiliate Marketing
+                </button>
+
+                <button onclick="startQuiz('ai')">
+                    Artificial Intelligence in Digital Marketing
+                </button>
+
+            </div>
+
+        </div>
+
+        <div id="quizArea" style="display: none;">
+
+            <div class="quiz-top">
+                <button onclick="goBack()" class="quiz-back">
+                    ← Choose Another Subject
+                </button>
+
+                <p id="progress"></p>
+            </div>
+
+            <div class="quiz-question">
+                <h2 id="questionText"></h2>
+
+                <div id="options"></div>
+            </div>
+
+            <button id="nextButton" onclick="nextQuestion()" style="display: none;">
+                Next Question →
+            </button>
+
+        </div>
+
+        <div id="quizResult" style="display: none;">
+
+            <h2>Quiz Complete 🎉</h2>
+
+            <p id="scoreText"></p>
+
+            <button onclick="restartQuiz()">
+                Try Again
+            </button>
+
+            <button onclick="goBack()">
+                Choose Another Subject
+            </button>
+
+        </div>
+
+    </main>
+
+    <script src="assets/quiz-data.js"></script>
+
+    <script>
+
+        let questions = [];
+        let currentQuestion = 0;
+        let score = 0;
+        let selectedSubject = "";
+
+        async function startQuiz(subject) {
+
+            selectedSubject = subject;
+
+            document.getElementById("subjectSelection").style.display = "none";
+            document.getElementById("quizResult").style.display = "none";
+            document.getElementById("quizArea").style.display = "block";
+
+            document.getElementById("questionText").textContent = "Loading quiz...";
+            document.getElementById("options").innerHTML = "";
+
+            questions = await loadQuiz(subject);
+
+            currentQuestion = 0;
+            score = 0;
+
+            if (questions.length === 0) {
+                document.getElementById("questionText").textContent =
+                    "No quiz questions could be loaded.";
+                return;
+            }
+
+            showQuestion();
+        }
+
+        function showQuestion() {
+
+            const question = questions[currentQuestion];
+
+            document.getElementById("progress").textContent =
+                `Question ${currentQuestion + 1} of ${questions.length}`;
+
+            document.getElementById("questionText").textContent =
+                question.question;
+
+            const optionsContainer = document.getElementById("options");
+
+            optionsContainer.innerHTML = "";
+
+            question.options.forEach(option => {
+
+                const button = document.createElement("button");
+
+                button.className = "quiz-option";
+
+                button.textContent =
+                    `${option.letter}. ${option.text}`;
+
+                button.onclick = () =>
+                    selectAnswer(button, option.letter);
+
+                optionsContainer.appendChild(button);
+            });
+
+            document.getElementById("nextButton").style.display = "none";
+        }
+
+        function selectAnswer(selectedButton, selectedLetter) {
+
+            const question = questions[currentQuestion];
+
+            const optionButtons =
+                document.querySelectorAll(".quiz-option");
+
+            optionButtons.forEach(button => {
+                button.disabled = true;
+            });
+
+            if (selectedLetter === question.answer) {
+
+                selectedButton.classList.add("correct");
+
+                score++;
+
+            } else {
+
+                selectedButton.classList.add("incorrect");
+
+                optionButtons.forEach(button => {
+
+                    if (
+                        button.textContent.startsWith(
+                            question.answer + "."
+                        )
+                    ) {
+                        button.classList.add("correct");
+                    }
+
+                });
+            }
+
+            const explanation = document.createElement("p");
+
+            explanation.className = "quiz-explanation";
+
+            explanation.innerHTML =
+                `<strong>Explanation:</strong> ${question.explanation}`;
+
+            document.getElementById("options")
+                .appendChild(explanation);
+
+            document.getElementById("nextButton").style.display = "block";
+        }
+
+        function nextQuestion() {
+
+            currentQuestion++;
+
+            if (currentQuestion >= questions.length) {
+
+                showResult();
+
+            } else {
+
+                showQuestion();
+            }
+        }
+
+        function showResult() {
+
+            document.getElementById("quizArea").style.display = "none";
+            document.getElementById("quizResult").style.display = "block";
+
+            const percentage =
+                Math.round((score / questions.length) * 100);
+
+            document.getElementById("scoreText").textContent =
+                `You scored ${score} out of ${questions.length} (${percentage}%).`;
+        }
+
+        function restartQuiz() {
+
+            document.getElementById("quizResult").style.display = "none";
+            document.getElementById("quizArea").style.display = "block";
+
+            currentQuestion = 0;
+            score = 0;
+
+            showQuestion();
+        }
+
+        function goBack() {
+
+            document.getElementById("quizArea").style.display = "none";
+            document.getElementById("quizResult").style.display = "none";
+            document.getElementById("subjectSelection").style.display = "block";
+        }
+
+    </script>
+
+</body>
+</html>
