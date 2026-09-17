@@ -274,3 +274,19 @@
 
 </body>
 </html>
+
+function goBack() {
+
+    document.getElementById("quizArea").style.display = "none";
+    document.getElementById("quizResult").style.display = "none";
+    document.getElementById("subjectSelection").style.display = "block";
+}
+
+const params = new URLSearchParams(window.location.search);
+const subjectFromURL = params.get("subject");
+
+if (subjectFromURL) {
+    startQuiz(subjectFromURL);
+}
+
+</script>
