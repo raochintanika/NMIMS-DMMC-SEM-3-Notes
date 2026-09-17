@@ -2,8 +2,6 @@
 
 Activities and academic tasks assigned by professors for Semester 3.
 
----
-
 ## 1. Digital Laws & Ethics
 
 **Given:** Monday, 17 August 2026  
