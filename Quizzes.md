@@ -50,4 +50,4 @@ Test your understanding of the Semester 3 lecture notes.
 
 ---
 
-**NMIMS — PGPDMMC | Semester III**
+NMIMS — PGPDMMC | Semester III
