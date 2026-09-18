@@ -110,6 +110,8 @@
 
             <p id="scoreText"></p>
 
+            <div id="topicsToRevise"></div>
+
             <button onclick="restartQuiz()">
                 Try Again
             </button>
@@ -130,6 +132,7 @@
         let currentQuestion = 0;
         let score = 0;
         let selectedSubject = "";
+        let wrongTopics = [];
 
         async function startQuiz(subject) {
 
@@ -148,6 +151,7 @@
 
             currentQuestion = 0;
             score = 0;
+            wrongTopics = [];
 
             if (questions.length === 0) {
 
@@ -231,6 +235,10 @@
 
                 });
 
+                if (question.topic && !wrongTopics.includes(question.topic)) {
+                    wrongTopics.push(question.topic);
+                }
+
             }
 
             const explanation =
@@ -279,6 +287,46 @@
 
             document.getElementById("scoreText").textContent =
                 `You scored ${score} out of ${questions.length} (${percentage}%).`;
+
+            const topicsContainer =
+                document.getElementById("topicsToRevise");
+
+            topicsContainer.innerHTML = "";
+
+            const topicsHeading =
+                document.createElement("h3");
+
+            topicsHeading.textContent = "Topics to Revise";
+
+            topicsContainer.appendChild(topicsHeading);
+
+            const topicsList =
+                document.createElement("ul");
+
+            if (wrongTopics.length === 0) {
+
+                const li = document.createElement("li");
+
+                li.textContent =
+                    "Great job! No specific topics need revision.";
+
+                topicsList.appendChild(li);
+
+            } else {
+
+                wrongTopics.forEach(topic => {
+
+                    const li = document.createElement("li");
+
+                    li.textContent = topic;
+
+                    topicsList.appendChild(li);
+
+                });
+
+            }
+
+            topicsContainer.appendChild(topicsList);
         }
 
         function restartQuiz() {
@@ -291,6 +339,7 @@
 
             currentQuestion = 0;
             score = 0;
+            wrongTopics = [];
 
             showQuestion();
         }

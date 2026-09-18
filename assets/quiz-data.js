@@ -1,6 +1,10 @@
 // Semester 3 Notes — Quiz Data
 // Self-contained quiz data, no fetch() / no runtime Markdown parsing.
 // Questions transcribed exactly from the quizzes/*.md files.
+// NOTE: each question now also carries a "topic" field (derived from the
+// lecture it came from in the source markdown) so quiz.html can build a
+// "Topics to Revise" list. This does not change question/answer/explanation
+// content, answer keys, or loadQuiz().
 
 const quizData = {
 
@@ -14,6 +18,7 @@ const quizData = {
                 { letter: "D", text: "Judiciary, Police, Executive" }
             ],
             answer: "A",
+            topic: "Media, Echo Chambers & Algorithmic Bias",
             explanation: "The lecture describes media as the 4th pillar of democracy, alongside the legislature, executive, and judiciary."
         },
         {
@@ -25,6 +30,7 @@ const quizData = {
                 { letter: "D", text: "A type of algorithmic bias correction tool" }
             ],
             answer: "B",
+            topic: "Media, Echo Chambers & Algorithmic Bias",
             explanation: "An Echo Chamber is a bubble where a person's opinions are reinforced based on the data/content they keep receiving, usually via algorithmic recommendation."
         },
         {
@@ -36,6 +42,7 @@ const quizData = {
                 { letter: "D", text: "Evolution only applies to legal contexts" }
             ],
             answer: "B",
+            topic: "Media, Echo Chambers & Algorithmic Bias",
             explanation: "Evolution refers to content/meaning changing naturally within the same context, while Appropriation refers to taking content/meaning and using it in a different context, commonly without credit."
         },
         {
@@ -47,6 +54,7 @@ const quizData = {
                 { letter: "D", text: "A form of algorithmic bias" }
             ],
             answer: "B",
+            topic: "Media, Echo Chambers & Algorithmic Bias",
             explanation: "An Infodemic is an overload of information (accurate or not) that makes it hard for people to find trustworthy sources; the term originated in public health but is now used more broadly."
         },
         {
@@ -58,6 +66,7 @@ const quizData = {
                 { letter: "D", text: "Recognition Value × Commercial Value" }
             ],
             answer: "B",
+            topic: "Media, Echo Chambers & Algorithmic Bias",
             explanation: "The lecture presents the formula: Recognition Value + Commercial Value = Economic Associative Value."
         },
         {
@@ -69,6 +78,7 @@ const quizData = {
                 { letter: "D", text: "A form of echo chamber specific to news apps" }
             ],
             answer: "B",
+            topic: "Media, Echo Chambers & Algorithmic Bias",
             explanation: "Algorithmic Bias is defined as bias built into a program or platform because it was trained on unbalanced or unfair data."
         },
         {
@@ -80,6 +90,7 @@ const quizData = {
                 { letter: "D", text: "The right to sue for false statements only" }
             ],
             answer: "B",
+            topic: "Right of Publicity, Privacy & Defamation",
             explanation: "ROP covers the commercial use of a celebrity/influencer's identity — including name, image, likeness, voice, persona, and personality rights."
         },
         {
@@ -91,6 +102,7 @@ const quizData = {
                 { letter: "D", text: "Privacy rights are eliminated entirely once someone becomes famous" }
             ],
             answer: "B",
+            topic: "Right of Publicity, Privacy & Defamation",
             explanation: "As fame increases, privacy becomes harder to maintain — courts generally hold public figures to a narrower zone of privacy, especially on matters of public interest."
         },
         {
@@ -102,6 +114,7 @@ const quizData = {
                 { letter: "D", text: "Libel applies only to celebrities; Slander applies only to private individuals" }
             ],
             answer: "B",
+            topic: "Right of Publicity, Privacy & Defamation",
             explanation: "Libel refers to reputational harm through written or published communication, while Slander refers to harm through spoken communication."
         },
         {
@@ -113,6 +126,7 @@ const quizData = {
                 { letter: "D", text: "The statement must involve financial loss" }
             ],
             answer: "B",
+            topic: "Right of Publicity, Privacy & Defamation",
             explanation: "The key elements of defamation include a defamatory statement, a false statement, specific reference to an identifiable person, and publication to a third party."
         },
         {
@@ -124,6 +138,7 @@ const quizData = {
                 { letter: "D", text: "The film was permanently banned" }
             ],
             answer: "B",
+            topic: "Right of Publicity, Privacy & Defamation",
             explanation: "The Bombay High Court dismissed Manisha Koirala's plea for an injunction against the release of the scenes, despite her claims of defamation, invasion of privacy, and breach of contract."
         },
         {
@@ -135,6 +150,7 @@ const quizData = {
                 { letter: "D", text: "Anonymity of the source" }
             ],
             answer: "B",
+            topic: "Right of Publicity, Privacy & Defamation",
             explanation: "The defences against defamation discussed are Truth, Public Interest, Good Faith, and Privileged Communication."
         }
     ],
@@ -149,6 +165,7 @@ const quizData = {
                 { letter: "D", text: "Over The Television — a satellite delivery system" }
             ],
             answer: "B",
+            topic: "OTT Basics, TRP & Monetisation Models",
             explanation: "OTT = Over The Top, referring to content/services delivered over the internet, bypassing traditional broadcast/cable infrastructure; Netflix was used as the class example."
         },
         {
@@ -160,6 +177,7 @@ const quizData = {
                 { letter: "D", text: "By tracking OTT platform logins" }
             ],
             answer: "B",
+            topic: "OTT Basics, TRP & Monetisation Models",
             explanation: "TRP is based on sampling rather than a full population count — in India it is measured via a panel of households, extrapolated to represent the whole population."
         },
         {
@@ -171,6 +189,7 @@ const quizData = {
                 { letter: "D", text: "Frequency capping and budget scheduling" }
             ],
             answer: "B",
+            topic: "OTT Basics, TRP & Monetisation Models",
             explanation: "The two uses of \"Hoarding\" discussed were Hoarding Data (IP tracking/approximation for audience exposure) and the Netflix \"Hoarding\" Campaign (a PR stunt/brand-positioning example) — the notes flag these as distinct concepts to confirm with the professor."
         },
         {
@@ -182,6 +201,7 @@ const quizData = {
                 { letter: "D", text: "SVOD" }
             ],
             answer: "D",
+            topic: "OTT Basics, TRP & Monetisation Models",
             explanation: "SVOD (Subscription VOD) involves a recurring subscription fee, distinguishing it from TVOD (pay/rent per title), AVOD (ad-funded, free to watch), and FVOD (free content, not necessarily ad-funded)."
         },
         {
@@ -193,6 +213,7 @@ const quizData = {
                 { letter: "D", text: "Limited user-level tracking" }
             ],
             answer: "C",
+            topic: "OTT Basics, TRP & Monetisation Models",
             explanation: "OTT is described as on-demand with individual consumption, non-linear and globally accessible, contrasting with Traditional TV's fixed schedule, group viewing, and limited tracking."
         },
         {
@@ -204,6 +225,7 @@ const quizData = {
                 { letter: "D", text: "Content monetized entirely through advertisements" }
             ],
             answer: "B",
+            topic: "OTT Basics, TRP & Monetisation Models",
             explanation: "TVOD (Transactional VOD) means paying or renting per title, such as renting a new release for a limited window, sometimes with early access."
         },
         {
@@ -215,6 +237,7 @@ const quizData = {
                 { letter: "D", text: "Flexible Ad Streaming Technology" }
             ],
             answer: "B",
+            topic: "OTT Ecosystem, Hybrid Monetisation & Engagement",
             explanation: "FAST = Free Ad-Supported Streaming Television — linear, scheduled (EPG-style) programming delivered over the internet and funded by ads, requiring no subscription or login."
         },
         {
@@ -226,6 +249,7 @@ const quizData = {
                 { letter: "D", text: "User Device → CDN → Cloud → Internet → Content" }
             ],
             answer: "B",
+            topic: "OTT Ecosystem, Hybrid Monetisation & Engagement",
             explanation: "The OTT Ecosystem flow is Content → Cloud → CDN → Internet → User Device, where Cloud stores/processes content and CDN distributes it efficiently to the device."
         },
         {
@@ -237,6 +261,7 @@ const quizData = {
                 { letter: "D", text: "Because subscription-only models are illegal for children's content" }
             ],
             answer: "B",
+            topic: "OTT Ecosystem, Hybrid Monetisation & Engagement",
             explanation: "The hybrid model was chosen to cater to young audiences, varying time-on-platform, occasional viewers, and different willingness to pay across the user base."
         },
         {
@@ -248,6 +273,7 @@ const quizData = {
                 { letter: "D", text: "An Active User refers only to paying subscribers" }
             ],
             answer: "A",
+            topic: "OTT Ecosystem, Hybrid Monetisation & Engagement",
             explanation: "A User has installed the app or has an account but is not necessarily active, while an Active User actually engages — watching, clicking, browsing, or interacting."
         },
         {
@@ -259,6 +285,7 @@ const quizData = {
                 { letter: "D", text: "Eliminating notifications" }
             ],
             answer: "B",
+            topic: "OTT Ecosystem, Hybrid Monetisation & Engagement",
             explanation: "Engagement tactics listed include Personalised recommendations, Notifications, Offers, Watchlist, Watch Party, Rewards, Newer content, and Nostalgia value/calendar."
         },
         {
@@ -270,6 +297,7 @@ const quizData = {
                 { letter: "D", text: "The frequency of ad impressions per user" }
             ],
             answer: "B",
+            topic: "OTT Ecosystem, Hybrid Monetisation & Engagement",
             explanation: "CLV/LTV (Customer/Lifetime Value) represents the goal of understanding a user's long-term value to the platform, rather than focusing on acquisition alone."
         }
     ],
@@ -284,6 +312,7 @@ const quizData = {
                 { letter: "D", text: "Guarantee the highest possible impressions regardless of audience" }
             ],
             answer: "B",
+            topic: "Media Strategy & Reach/Frequency",
             explanation: "Media planning is a strategic process focused on maximizing ROI *before* ad space is purchased, by deciding where, when and how ads are shown."
         },
         {
@@ -295,6 +324,7 @@ const quizData = {
                 { letter: "D", text: "Campaign Phase" }
             ],
             answer: "B",
+            topic: "Media Strategy & Reach/Frequency",
             explanation: "The Media Mix hierarchy discussed is Channel → Platform → Media Vehicle → Content Format."
         },
         {
@@ -306,6 +336,7 @@ const quizData = {
                 { letter: "D", text: "0.25" }
             ],
             answer: "B",
+            topic: "Media Strategy & Reach/Frequency",
             explanation: "Frequency = Impressions ÷ Reach = 80 ÷ 20 = 4, matching the class example."
         },
         {
@@ -317,6 +348,7 @@ const quizData = {
                 { letter: "D", text: "Owned media depends on Earned media" }
             ],
             answer: "B",
+            topic: "Media Strategy & Reach/Frequency",
             explanation: "The notes state \"Earned depends on Owned + Paid\" — media coverage and word-of-mouth build on a brand's own channels and its paid efforts."
         },
         {
@@ -328,6 +360,7 @@ const quizData = {
                 { letter: "D", text: "Use only paid media, with no owned or earned channels" }
             ],
             answer: "B",
+            topic: "Media Strategy & Reach/Frequency",
             explanation: "The campaign used multiple platforms (YouTube, Vine, X, blogs, TV, retail, etc.) while keeping the core idea consistent — illustrating diversification, awareness and shareability."
         },
         {
@@ -339,6 +372,7 @@ const quizData = {
                 { letter: "D", text: "Optimization" }
             ],
             answer: "B",
+            topic: "Media Strategy & Reach/Frequency",
             explanation: "The Launch phase delivers the main campaign at maximum intensity, while Teaser builds curiosity beforehand and Sustenance maintains attention afterward (and can be extended)."
         },
         {
@@ -350,6 +384,7 @@ const quizData = {
                 { letter: "D", text: "A KPI used to measure feedback" }
             ],
             answer: "B",
+            topic: "Communication Process & CRO",
             explanation: "Noise is anything that distorts intended communication — such as language/cultural barriers, tech issues, or competition — and can occur at any stage between Sender and Receiver."
         },
         {
@@ -361,6 +396,7 @@ const quizData = {
                 { letter: "D", text: "Noise only affects traditional media, not digital campaigns" }
             ],
             answer: "B",
+            topic: "Communication Process & CRO",
             explanation: "The lecture noted that \"what we intended to communicate\" is not always \"what the audience actually understood,\" so even a positive intended message can generate negative reactions."
         },
         {
@@ -372,6 +408,7 @@ const quizData = {
                 { letter: "D", text: "Improving brand recall regardless of conversions" }
             ],
             answer: "B",
+            topic: "Communication Process & CRO",
             explanation: "CRO is defined as improving the ROI/conversion rate from *existing* traffic without additional spend — same budget, better conversion performance."
         },
         {
@@ -383,6 +420,7 @@ const quizData = {
                 { letter: "D", text: "Personalised Marketing" }
             ],
             answer: "C",
+            topic: "Communication Process & CRO",
             explanation: "Trust Builders include reviews, ratings, testimonials, unboxing/influencer videos, founder presence, and similar elements that build customer confidence."
         },
         {
@@ -394,6 +432,7 @@ const quizData = {
                 { letter: "D", text: "Encoding Format" }
             ],
             answer: "B",
+            topic: "Communication Process & CRO",
             explanation: "Typical Media Plan columns discussed are Platform, Audience, Objective, Budget, Time & Schedule, and KPIs."
         },
         {
@@ -405,6 +444,7 @@ const quizData = {
                 { letter: "D", text: "Trust Builders" }
             ],
             answer: "B",
+            topic: "Communication Process & CRO",
             explanation: "Cart Abandonment Optimization directly targets users who added items to cart but did not purchase, using retargeting, discounts, and urgency messaging."
         },
         {
@@ -416,6 +456,7 @@ const quizData = {
                 { letter: "D", text: "Follower growth" }
             ],
             answer: "B",
+            topic: "Marketing Funnel & CPM",
             explanation: "Findability is measured via Clicks, Landing Page Views, Video Views and Engagement, while Impressions belongs to Awareness and Sales to Conversion."
         },
         {
@@ -427,6 +468,7 @@ const quizData = {
                 { letter: "D", text: "Statista" }
             ],
             answer: "B",
+            topic: "Marketing Funnel & CPM",
             explanation: "Brand24 was described as a tool for social listening and mention monitoring, while Modash is used for influencer/follower analysis."
         },
         {
@@ -438,6 +480,7 @@ const quizData = {
                 { letter: "D", text: "7,500" }
             ],
             answer: "B",
+            topic: "Marketing Funnel & CPM",
             explanation: "Frequency = Impressions ÷ Reach = 150 ÷ 50 = 3, matching the class example."
         },
         {
@@ -449,6 +492,7 @@ const quizData = {
                 { letter: "D", text: "Non-skippable ads always count as views" }
             ],
             answer: "B",
+            topic: "Marketing Funnel & CPM",
             explanation: "A skippable in-stream ad view is counted at 30 seconds watched (or the full ad if shorter) or on interaction with the CTA/card/banner; non-skippable ads don't generate a \"view\" metric at all."
         },
         {
@@ -460,6 +504,7 @@ const quizData = {
                 { letter: "D", text: "These models apply only to traditional media" }
             ],
             answer: "B",
+            topic: "Marketing Funnel & CPM",
             explanation: "The lecture stressed: \"Whichever model you use, always include Advocacy.\""
         },
         {
@@ -471,6 +516,7 @@ const quizData = {
                 { letter: "D", text: "(Spend ÷ Clicks) × 1,000" }
             ],
             answer: "C",
+            topic: "Marketing Funnel & CPM",
             explanation: "CPM = (Spend ÷ Impressions) × 1,000, giving cost per 1,000 impressions — e.g., ₹1,000 spend ÷ 50,000 impressions × 1,000 = ₹20."
         },
         {
@@ -482,6 +528,7 @@ const quizData = {
                 { letter: "D", text: "Send a loyalty reward immediately" }
             ],
             answer: "B",
+            topic: "Remarketing, CTR, CAC & ROI",
             explanation: "For users who reached the product page without action, the lecture recommends remarketing with an offer/discount — distinct from the homepage or cart-stage remarketing actions."
         },
         {
@@ -493,6 +540,7 @@ const quizData = {
                 { letter: "D", text: "(Impressions ÷ Clicks) × 100" }
             ],
             answer: "B",
+            topic: "Remarketing, CTR, CAC & ROI",
             explanation: "CTR = (Clicks ÷ Impressions) × 100. Being a ratio, it allows fair comparison between campaigns regardless of scale."
         },
         {
@@ -504,6 +552,7 @@ const quizData = {
                 { letter: "D", text: "Neither — CTR cannot be compared across campaigns" }
             ],
             answer: "B",
+            topic: "Remarketing, CTR, CAC & ROI",
             explanation: "This example shows that raw impression/click counts can mislead — CTR, being a ratio, shows Ad B performs better despite fewer impressions."
         },
         {
@@ -515,6 +564,7 @@ const quizData = {
                 { letter: "D", text: "Average Order Value × Purchase Frequency" }
             ],
             answer: "B",
+            topic: "Remarketing, CTR, CAC & ROI",
             explanation: "CAC = (Marketing Spend + Sales Spend) ÷ New Customers Acquired. The lecture emphasized including sales-side costs (CRM, sales team, etc.), not just ad spend."
         },
         {
@@ -526,6 +576,7 @@ const quizData = {
                 { letter: "D", text: "100%" }
             ],
             answer: "B",
+            topic: "Remarketing, CTR, CAC & ROI",
             explanation: "Net profit before ad spend = ₹1,00,000; ROI = (1,00,000 − 75,000) ÷ 75,000 × 100 = 33.3%."
         },
         {
@@ -537,6 +588,7 @@ const quizData = {
                 { letter: "D", text: "ROAS applies only to offline media" }
             ],
             answer: "B",
+            topic: "Remarketing, CTR, CAC & ROI",
             explanation: "ROAS = Revenue from Ads ÷ Ad Spend, focusing on revenue, while ROI = ((Gain − Cost) ÷ Cost) × 100, factoring in net gain after cost."
         },
         {
@@ -548,6 +600,7 @@ const quizData = {
                 { letter: "D", text: "Persona development" }
             ],
             answer: "B",
+            topic: "Media Buying, A/B Testing & UTM Rules",
             explanation: "Buying focuses on execution — negotiation, purchasing, and optimisation — while Planning focuses on strategy: research, targeting and budgeting."
         },
         {
@@ -559,6 +612,7 @@ const quizData = {
                 { letter: "D", text: "A billboard vendor" }
             ],
             answer: "B",
+            topic: "Media Buying, A/B Testing & UTM Rules",
             explanation: "Meta (along with Google and Amazon) was discussed as a self-serve platform where advertisers run ads through a dashboard without contacting a person directly; Vogue/collaborations was the non-self-serve example."
         },
         {
@@ -570,6 +624,7 @@ const quizData = {
                 { letter: "D", text: "A/B testing should only be used for email campaigns" }
             ],
             answer: "B",
+            topic: "Media Buying, A/B Testing & UTM Rules",
             explanation: "The professor stressed changing only one variable at a time (e.g., only the landing page) while keeping others, like creative, targeting and placement, constant."
         },
         {
@@ -581,6 +636,7 @@ const quizData = {
                 { letter: "D", text: "Campaigns with no need for close control" }
             ],
             answer: "B",
+            topic: "Media Buying, A/B Testing & UTM Rules",
             explanation: "Daily budgets were discussed as suitable for shorter campaigns, new/untested audiences, smaller budgets, and situations needing close day-to-day control."
         },
         {
@@ -592,6 +648,7 @@ const quizData = {
                 { letter: "D", text: "UTM values are not case-sensitive" }
             ],
             answer: "B",
+            topic: "Media Buying, A/B Testing & UTM Rules",
             explanation: "The lecture and the class UTM quiz confirmed that using UTMs on internal links can overwrite the original traffic source; UTMs should be used on external links bringing traffic to the site."
         },
         {
@@ -603,6 +660,7 @@ const quizData = {
                 { letter: "D", text: "Google Analytics" }
             ],
             answer: "C",
+            topic: "Media Buying, A/B Testing & UTM Rules",
             explanation: "The lecture noted that Statista provides reports across topics, but many detailed reports require a paid subscription."
         }
     ],
@@ -617,6 +675,7 @@ const quizData = {
                 { letter: "D", text: "Content, Influencer, Retail Media, Affiliate, SMS" }
             ],
             answer: "A",
+            topic: "Digital Marketing Channels & Customer Journey",
             explanation: "The lecture explicitly lists SEO, SEM, Content Marketing, Email Marketing, and Social Media Marketing as the five channels."
         },
         {
@@ -628,6 +687,7 @@ const quizData = {
                 { letter: "D", text: "SEM is slower than SEO" }
             ],
             answer: "B",
+            topic: "Digital Marketing Channels & Customer Journey",
             explanation: "The lecture defines SEO as earning visibility (organic) and SEM as paying for visibility (paid search)."
         },
         {
@@ -639,6 +699,7 @@ const quizData = {
                 { letter: "D", text: "Cold email campaigns only" }
             ],
             answer: "B",
+            topic: "Digital Marketing Channels & Customer Journey",
             explanation: "The Nykaa case study highlighted product guides and educational content in the flow: Search → Educational Content → Product Discovery → Consideration → Purchase."
         },
         {
@@ -650,6 +711,7 @@ const quizData = {
                 { letter: "D", text: "Plan → Reach → Act → Convert" }
             ],
             answer: "B",
+            topic: "Digital Marketing Channels & Customer Journey",
             explanation: "The e-commerce customer journey discussed is Discover → Consider → Buy → Come Back."
         },
         {
@@ -661,6 +723,7 @@ const quizData = {
                 { letter: "D", text: "Shelf space is irrelevant to digital marketing" }
             ],
             answer: "B",
+            topic: "Digital Marketing Channels & Customer Journey",
             explanation: "The lecture frames attention as the modern equivalent of retail shelf space, driving the flow Attention → Awareness → Consideration → Purchase."
         },
         {
@@ -672,6 +735,7 @@ const quizData = {
                 { letter: "D", text: "Brand voice and visibility" }
             ],
             answer: "C",
+            topic: "Digital Marketing Channels & Customer Journey",
             explanation: "Email's main role is Purchase → Retention, with its strength being relationship and loyalty, distinct from SEO's organic traffic or Social's brand voice."
         },
         {
@@ -683,6 +747,7 @@ const quizData = {
                 { letter: "D", text: "Value & Reseller Commerce" }
             ],
             answer: "B",
+            topic: "Quick Commerce, GEO/AEO & DPDP Act",
             explanation: "Blinkit, Zepto, Instamart and Amazon Now are categorised under Quick Commerce, characterised by fast delivery and growing ad revenue."
         },
         {
@@ -694,6 +759,7 @@ const quizData = {
                 { letter: "D", text: "Retail Media Auctions" }
             ],
             answer: "B",
+            topic: "Quick Commerce, GEO/AEO & DPDP Act",
             explanation: "The lecture introduced GEO and AEO — optimizing for visibility inside AI-generated answers, becoming a citable source, not just ranking in classic search."
         },
         {
@@ -705,6 +771,7 @@ const quizData = {
                 { letter: "D", text: "Avoid behaviour-triggered flows" }
             ],
             answer: "B",
+            topic: "Quick Commerce, GEO/AEO & DPDP Act",
             explanation: "Myntra's behaviour-triggered flows (cart abandonment, post-purchase) illustrated the principle: Right trigger + Right message + Right moment."
         },
         {
@@ -716,6 +783,7 @@ const quizData = {
                 { letter: "D", text: "Quick-commerce delivery regulations" }
             ],
             answer: "B",
+            topic: "Quick Commerce, GEO/AEO & DPDP Act",
             explanation: "The lecture discussed the Digital Personal Data Protection (DPDP) Act as making consent an operational part of marketing execution, not merely a legal box to tick."
         },
         {
@@ -727,6 +795,7 @@ const quizData = {
                 { letter: "D", text: "Social Media Manager" }
             ],
             answer: "B",
+            topic: "Quick Commerce, GEO/AEO & DPDP Act",
             explanation: "Content Marketing was linked to roles such as Content Marketing Manager, Brand Storyteller, and Creator Partnerships Lead."
         },
         {
@@ -738,6 +807,7 @@ const quizData = {
                 { letter: "D", text: "SEM and Affiliate Marketing only" }
             ],
             answer: "B",
+            topic: "Quick Commerce, GEO/AEO & DPDP Act",
             explanation: "Mamaearth's integrated example combined SEO (ingredient blogs), SEM (sponsored placements), Content (YouTube/Insta education), Email (replenishment reminders), and Social (influencer/UGC community)."
         },
         {
@@ -749,6 +819,7 @@ const quizData = {
                 { letter: "D", text: "Social" }
             ],
             answer: "B",
+            topic: "SMART Goals, Budgeting & E-commerce Types",
             explanation: "SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound."
         },
         {
@@ -760,6 +831,7 @@ const quizData = {
                 { letter: "D", text: "Testing: New Channels & New Creatives" }
             ],
             answer: "C",
+            topic: "SMART Goals, Budgeting & E-commerce Types",
             explanation: "The example allocation gave 50% to Performance Marketing — the largest share — followed by 25% Content & Influencer, 15% Retention, and 10% Testing."
         },
         {
@@ -771,6 +843,7 @@ const quizData = {
                 { letter: "D", text: "D2C" }
             ],
             answer: "B",
+            topic: "SMART Goals, Budgeting & E-commerce Types",
             explanation: "IndiaMART was given as the example for B2B (Business to Business) e-commerce, where one business sells to another."
         },
         {
@@ -782,6 +855,7 @@ const quizData = {
                 { letter: "D", text: "Repeat Purchase" }
             ],
             answer: "B",
+            topic: "SMART Goals, Budgeting & E-commerce Types",
             explanation: "The funnel-based KPIs are Awareness → Reach/Impressions, Consideration → CTR, Purchase → Conversion Rate, Retention → Repeat Purchase."
         },
         {
@@ -793,6 +867,7 @@ const quizData = {
                 { letter: "D", text: "Simpler creative requirements" }
             ],
             answer: "B",
+            topic: "SMART Goals, Budgeting & E-commerce Types",
             explanation: "The lecture contrasts traditional marketing as broadcast-oriented with e-commerce/digital marketing's ability to measure user behaviour, responses and outcomes."
         },
         {
@@ -804,6 +879,7 @@ const quizData = {
                 { letter: "D", text: "2024–2026" }
             ],
             answer: "C",
+            topic: "SMART Goals, Budgeting & E-commerce Types",
             explanation: "The timeline lists 2020–2023 as the Quick Commerce era, following 2016–2019 (E-Commerce) and preceding 2024–2026 (AI)."
         }
     ],
@@ -818,6 +894,7 @@ const quizData = {
                 { letter: "D", text: "Traditional broadcast channels adapted for mobile" }
             ],
             answer: "B",
+            topic: "Mobile Marketing Types & Objectives",
             explanation: "Mobile marketing is defined as the use of mobile devices, apps, and networks through specific touchpoints to communicate with and influence consumers."
         },
         {
@@ -829,6 +906,7 @@ const quizData = {
                 { letter: "D", text: "Outdoor Hoardings" }
             ],
             answer: "B",
+            topic: "Mobile Marketing Types & Objectives",
             explanation: "The six types listed are Mobile Ads, Mobile Messaging, Push Notifications, Mobile App Marketing, Location-Based Marketing, and Mobile Commerce."
         },
         {
@@ -840,6 +918,7 @@ const quizData = {
                 { letter: "D", text: "Awareness + Interest + Desire + Action" }
             ],
             answer: "B",
+            topic: "Mobile Marketing Types & Objectives",
             explanation: "The lecture states effectiveness comes from Relevance + Timing + Value + Consent."
         },
         {
@@ -851,6 +930,7 @@ const quizData = {
                 { letter: "D", text: "It works exclusively for app-based businesses" }
             ],
             answer: "B",
+            topic: "Mobile Marketing Types & Objectives",
             explanation: "The \"FOR\" mobile marketing debate point states it can be more personalized, better at targeting, reach audiences instantly, and measure the complete cycle."
         },
         {
@@ -862,6 +942,7 @@ const quizData = {
                 { letter: "D", text: "Loyalty" }
             ],
             answer: "B",
+            topic: "Mobile Marketing Types & Objectives",
             explanation: "The objectives sequence is Awareness → Lead Generation → App Acquisition → Sales & Conversion → Engagement → Retention → Loyalty."
         },
         {
@@ -873,6 +954,7 @@ const quizData = {
                 { letter: "D", text: "A one-time onboarding notification" }
             ],
             answer: "B",
+            topic: "Mobile Ad Formats & Mobile Moments",
             explanation: "The \"Mobile Moment\" refers to reaching the consumer at the precise moment of need, such as a 12 PM lunch ping or dinner-hour reminder — relevance at the point of need."
         },
         {
@@ -884,6 +966,7 @@ const quizData = {
                 { letter: "D", text: "Rich Media Ads" }
             ],
             answer: "B",
+            topic: "Mobile Ad Formats & Mobile Moments",
             explanation: "Playable Ads are interactive, mostly used in mobile gaming, letting users try a demo before downloading — associated with high engagement and app acquisition."
         },
         {
@@ -895,6 +978,7 @@ const quizData = {
                 { letter: "D", text: "Out-Stream requires stronger existing viewing intent than In-Stream" }
             ],
             answer: "A",
+            topic: "Mobile Ad Formats & Mobile Moments",
             explanation: "In-Stream plays inside existing video content (e.g., YouTube pre-roll) where the user is already watching video, while Out-Stream plays outside a video player, extending video reach to users who are browsing/reading."
         },
         {
@@ -906,6 +990,7 @@ const quizData = {
                 { letter: "D", text: "It is not measurable" }
             ],
             answer: "B",
+            topic: "Mobile Ad Formats & Mobile Moments",
             explanation: "The lecture clarifies that \"In-App\" describes placement, not creative format; an in-app ad can take the form of any other format, such as banner, video, native, rewarded, or rich-media."
         },
         {
@@ -917,6 +1002,7 @@ const quizData = {
                 { letter: "D", text: "Cross-Promotional Ads only" }
             ],
             answer: "B",
+            topic: "Mobile Ad Formats & Mobile Moments",
             explanation: "A new smartphone launch was matched with Video, Rich Media and Interstitial formats to deliver awareness, product demonstration, and high visibility."
         },
         {
@@ -928,6 +1014,7 @@ const quizData = {
                 { letter: "D", text: "To increase CPM rates" }
             ],
             answer: "B",
+            topic: "Mobile Ad Formats & Mobile Moments",
             explanation: "A 6-second video can't do what a 30-second video does; its objective is simply curiosity and attention — introducing the brand/product and prompting \"learn more.\""
         },
         {
@@ -939,6 +1026,7 @@ const quizData = {
                 { letter: "D", text: "Where = Timing, What = Budget, Who = Placement" }
             ],
             answer: "B",
+            topic: "Ad Placement, Type/Format & Targeting",
             explanation: "The lecture frames Where as ad placement, What as ad type and ad format, and Who as the target audience."
         },
         {
@@ -950,6 +1038,7 @@ const quizData = {
                 { letter: "D", text: "Ad Format determines the target audience; Ad Type determines the budget" }
             ],
             answer: "B",
+            topic: "Ad Placement, Type/Format & Targeting",
             explanation: "Ad Type refers to the communication objective or advertising experience, while Ad Format refers to the creative shape, size, style, and way the ad is delivered."
         },
         {
@@ -961,6 +1050,7 @@ const quizData = {
                 { letter: "D", text: "Xiaomi discontinued using the calendar for ads due to poor performance" }
             ],
             answer: "B",
+            topic: "Ad Placement, Type/Format & Targeting",
             explanation: "The example shows that relevance and context can make even a utility touchpoint like a calendar an effective advertising placement."
         },
         {
@@ -972,6 +1062,7 @@ const quizData = {
                 { letter: "D", text: "Interstitial" }
             ],
             answer: "B",
+            topic: "Ad Placement, Type/Format & Targeting",
             explanation: "The Playable format was recommended to give users a sneak peek of premium features before committing to a subscription upgrade."
         },
         {
@@ -983,6 +1074,7 @@ const quizData = {
                 { letter: "D", text: "Interstitials always have low visibility" }
             ],
             answer: "B",
+            topic: "Ad Placement, Type/Format & Targeting",
             explanation: "Interstitial/full-screen ads are high-impact and relatively expensive, making them more suitable for one-day offers or major launches than for a generic long-running discount."
         },
         {
@@ -994,6 +1086,7 @@ const quizData = {
                 { letter: "D", text: "Device-Based Targeting" }
             ],
             answer: "C",
+            topic: "Ad Placement, Type/Format & Targeting",
             explanation: "Contextual targeting is based on the content or environment the consumer is currently viewing — a travel-related ad on a travel blog is contextually relevant."
         }
     ],
@@ -1008,6 +1101,7 @@ const quizData = {
                 { letter: "D", text: "A synonym for SEO" }
             ],
             answer: "B",
+            topic: "Analytics Basics & Core Web Vitals",
             explanation: "Analytics is defined as a \"story with data\" / backed by data, used to make projections and use intelligence to make reasoned decisions."
         },
         {
@@ -1019,6 +1113,7 @@ const quizData = {
                 { letter: "D", text: "Leads/Sales" }
             ],
             answer: "C",
+            topic: "Analytics Basics & Core Web Vitals",
             explanation: "Google Search Console tracks search performance metrics such as Keywords, Impressions, Clicks, CTR, and Average position, while GA4 tracks website/user behaviour like Users, Sessions, Time spent, and Leads/Sales."
         },
         {
@@ -1030,6 +1125,7 @@ const quizData = {
                 { letter: "D", text: "CTR" }
             ],
             answer: "C",
+            topic: "Analytics Basics & Core Web Vitals",
             explanation: "CLS (Cumulative Layout Shift) measures visual/layout stability during loading; LCP measures loading speed and INP measures responsiveness after interaction."
         },
         {
@@ -1041,6 +1137,7 @@ const quizData = {
                 { letter: "D", text: "Website not loading correctly, blocking the tracking code" }
             ],
             answer: "C",
+            topic: "Analytics Basics & Core Web Vitals",
             explanation: "The lecture lists rejected cookie consent, incognito mode, website loading issues, and cache-related tracking issues as reasons data may not be collected — a high number of returning visitors is not one of them."
         },
         {
@@ -1052,6 +1149,7 @@ const quizData = {
                 { letter: "D", text: "7 hours 55 minutes" }
             ],
             answer: "B",
+            topic: "Analytics Basics & Core Web Vitals",
             explanation: "The default GA4 session timeout is 30 minutes, though it is adjustable up to 7 hours 55 minutes."
         },
         {
@@ -1063,6 +1161,7 @@ const quizData = {
                 { letter: "D", text: "It is used only for SEO audits" }
             ],
             answer: "B",
+            topic: "Analytics Basics & Core Web Vitals",
             explanation: "GTM is a dashboard to manage and deploy multiple tags across a website, distinct from the Google Analytics Debugger, which verifies tracking code is firing correctly."
         },
         {
@@ -1074,6 +1173,7 @@ const quizData = {
                 { letter: "D", text: "Assume their analytics tool is more accurate than yours" }
             ],
             answer: "B",
+            topic: "Channels, Sources & Engaged Sessions",
             explanation: "The lecture cautions that two websites' analytics don't automatically reconcile, so such claims should be verified with screenshots/evidence."
         },
         {
@@ -1085,6 +1185,7 @@ const quizData = {
                 { letter: "D", text: "Channel only applies to paid traffic" }
             ],
             answer: "B",
+            topic: "Channels, Sources & Engaged Sessions",
             explanation: "Channel refers to a broad category such as Social or Organic Search, while Source is the specific origin within that channel, such as Facebook."
         },
         {
@@ -1096,6 +1197,7 @@ const quizData = {
                 { letter: "D", text: "Rejecting cookie consent" }
             ],
             answer: "A",
+            topic: "Channels, Sources & Engaged Sessions",
             explanation: "GA4 defines an engaged session using OR logic — any one of: staying 10+ seconds, completing a valuable event/conversion, or viewing 2+ pages qualifies."
         },
         {
@@ -1107,6 +1209,7 @@ const quizData = {
                 { letter: "D", text: "Unassigned traffic" }
             ],
             answer: "B",
+            topic: "Channels, Sources & Engaged Sessions",
             explanation: "The lecture clarifies that searching a brand name on Google and clicking the result counts as Organic Search, not Direct — only a manually typed URL counts as Direct."
         },
         {
@@ -1118,6 +1221,7 @@ const quizData = {
                 { letter: "D", text: "It is guaranteed to be genuine organic interest" }
             ],
             answer: "B",
+            topic: "Channels, Sources & Engaged Sessions",
             explanation: "The lecture notes that unexpectedly high international traffic for a geographically-focused business can signal spam/bot traffic, warranting investigation rather than assumption."
         },
         {
@@ -1129,6 +1233,7 @@ const quizData = {
                 { letter: "D", text: "Mobile browsing is banned on college networks" }
             ],
             answer: "B",
+            topic: "Channels, Sources & Engaged Sessions",
             explanation: "The lecture attributes this to complex forms, applications and important/high-value transactions, for which users prefer desktop devices."
         },
         {
@@ -1140,6 +1245,7 @@ const quizData = {
                 { letter: "D", text: "Brand Mentions − Category Mentions" }
             ],
             answer: "B",
+            topic: "Brand Visibility, UTM & Attribution Models",
             explanation: "Brand Visibility = Brand Mentions ÷ Total Relevant Category Mentions × 100 — e.g., 47 mentions out of 100 category searches = 47%."
         },
         {
@@ -1151,6 +1257,7 @@ const quizData = {
                 { letter: "D", text: "The core average visibility across a category" }
             ],
             answer: "B",
+            topic: "Brand Visibility, UTM & Attribution Models",
             explanation: "Citation Analysis identifies which websites AI cited as sources (AI Answer → Citation → Source Website), useful for spotting SEO/PR/backlink opportunities."
         },
         {
@@ -1162,6 +1269,7 @@ const quizData = {
                 { letter: "D", text: "utm_content" }
             ],
             answer: "D",
+            topic: "Brand Visibility, UTM & Attribution Models",
             explanation: "utm_content is used to distinguish creative variants, e.g. \"creative_a\" vs \"creative_b,\" while utm_source, utm_medium, and utm_campaign identify platform, traffic type, and campaign name respectively."
         },
         {
@@ -1173,6 +1281,7 @@ const quizData = {
                 { letter: "D", text: "Spaces in UTM values are automatically handled correctly by all platforms" }
             ],
             answer: "C",
+            topic: "Brand Visibility, UTM & Attribution Models",
             explanation: "The lecture states UTM values are case-sensitive (e.g., \"Facebook\" ≠ \"facebook\") and should avoid spaces, using hyphens or underscores instead."
         },
         {
@@ -1184,6 +1293,7 @@ const quizData = {
                 { letter: "D", text: "All models remain fully selectable" }
             ],
             answer: "B",
+            topic: "Brand Visibility, UTM & Attribution Models",
             explanation: "Google officially deprecated First Click, Linear, Time Decay, and Position-Based as selectable models in 2023 — only Last Click and Data-Driven remain selectable (with existing conversions auto-migrated to Data-Driven)."
         },
         {
@@ -1195,6 +1305,7 @@ const quizData = {
                 { letter: "D", text: "100% to Email only" }
             ],
             answer: "C",
+            topic: "Brand Visibility, UTM & Attribution Models",
             explanation: "Position-Based attribution gives 40% credit to the first channel, 40% to the last channel, and 20% split among middle channels — in this journey: Instagram 40%, Google 20%, Email 40%."
         },
         {
@@ -1206,6 +1317,7 @@ const quizData = {
                 { letter: "D", text: "Credit is split equally among all channels" }
             ],
             answer: "B",
+            topic: "Attribution Exceptions & GA4 Reports",
             explanation: "If Direct is the last touchpoint, it does not get 100% credit — the second-last source receives it instead, reflecting the idea that a Direct visit may just be a recalled/bookmarked URL first seen via another channel."
         },
         {
@@ -1217,6 +1329,7 @@ const quizData = {
                 { letter: "D", text: "Data-Driven attribution is used instead" }
             ],
             answer: "B",
+            topic: "Attribution Exceptions & GA4 Reports",
             explanation: "The Ads Preferred exception states that if there's no Google Ads touchpoint in the path, the last channel in the path receives full credit."
         },
         {
@@ -1228,6 +1341,7 @@ const quizData = {
                 { letter: "D", text: "Only e-commerce transactions" }
             ],
             answer: "B",
+            topic: "Attribution Exceptions & GA4 Reports",
             explanation: "GA4's Real-Time data shows the last 30 minutes of activity, useful for verifying that a fresh campaign or tracking setup is working."
         },
         {
@@ -1239,6 +1353,7 @@ const quizData = {
                 { letter: "D", text: "Google Business Profile" }
             ],
             answer: "B",
+            topic: "Attribution Exceptions & GA4 Reports",
             explanation: "Google AdMob was discussed as the platform for mobile app advertising, distinct from Merchant Center (shopping ads), DV360 (programmatic display/video), and Business Profile (local presence)."
         },
         {
@@ -1250,6 +1365,7 @@ const quizData = {
                 { letter: "D", text: "Non-Google Campaigns" }
             ],
             answer: "B",
+            topic: "Attribution Exceptions & GA4 Reports",
             explanation: "The professor noted that sessions are more important for reporting, favouring Traffic Acquisition (acquisition by session) over User Acquisition."
         },
         {
@@ -1261,6 +1377,7 @@ const quizData = {
                 { letter: "D", text: "Referral traffic only" }
             ],
             answer: "B",
+            topic: "Attribution Exceptions & GA4 Reports",
             explanation: "The exercise's Date/Performance answers identified \"Sat & Sun\" as the relevant answer within that part of the demo exercise."
         },
         {
@@ -1272,6 +1389,7 @@ const quizData = {
                 { letter: "D", text: "To delete outdated events" }
             ],
             answer: "B",
+            topic: "GA4 Annotations & WordPress Integration",
             explanation: "Annotations let users add notes to GA4 reports to record events, explain data changes, or highlight important observations such as traffic spikes or campaign launches."
         },
         {
@@ -1283,6 +1401,7 @@ const quizData = {
                 { letter: "D", text: "An SEO auditing tool" }
             ],
             answer: "B",
+            topic: "GA4 Annotations & WordPress Integration",
             explanation: "TasteWP is a tool for creating temporary WordPress test sites, used for experimenting with themes, plugins, and the backend without affecting a live website."
         },
         {
@@ -1294,6 +1413,7 @@ const quizData = {
                 { letter: "D", text: "Only for e-commerce websites" }
             ],
             answer: "B",
+            topic: "GA4 Annotations & WordPress Integration",
             explanation: "The lecture stresses that Enhanced Measurement is not activated simply by creating a GA4 property — it must be enabled at the web data stream level."
         },
         {
@@ -1305,6 +1425,7 @@ const quizData = {
                 { letter: "D", text: "Enhanced Measurement" }
             ],
             answer: "C",
+            topic: "GA4 Annotations & WordPress Integration",
             explanation: "Direct Tracking Code involves adding the Google tag directly to the site's HTML, immediately after the opening `<head>` tag, as opposed to using a plugin or GTM as an intermediary layer."
         },
         {
@@ -1316,6 +1437,7 @@ const quizData = {
                 { letter: "D", text: "A page with the highest bounce rate" }
             ],
             answer: "B",
+            topic: "GA4 Annotations & WordPress Integration",
             explanation: "The Landing Page dimension is defined as the page associated with the first page view in a session — it can be the homepage, a product page, or any page where the visitor first arrives."
         },
         {
@@ -1327,6 +1449,7 @@ const quizData = {
                 { letter: "D", text: "Use a different plugin for each page" }
             ],
             answer: "B",
+            topic: "GA4 Annotations & WordPress Integration",
             explanation: "For a shared header file, editing that one file places the tag on all pages using it, whereas an independent landing page not using the shared header needs the tag added separately."
         }
     ],
@@ -1341,6 +1464,7 @@ const quizData = {
                 { letter: "D", text: "A subscription-based content model" }
             ],
             answer: "B",
+            topic: "Affiliate Marketing Basics & Commission Models",
             explanation: "Affiliate Marketing is defined as a performance-based marketing partnership where an affiliate earns a commission based on customer actions such as clicks, leads, or purchases."
         },
         {
@@ -1352,6 +1476,7 @@ const quizData = {
                 { letter: "D", text: "The Affiliate Network only" }
             ],
             answer: "C",
+            topic: "Affiliate Marketing Basics & Commission Models",
             explanation: "The lecture explicitly notes that the merchant pays the commission, not the social platform where the affiliate publishes content."
         },
         {
@@ -1363,6 +1488,7 @@ const quizData = {
                 { letter: "D", text: "Pay Per Impression" }
             ],
             answer: "C",
+            topic: "Affiliate Marketing Basics & Commission Models",
             explanation: "The class observation notes that beauty, fashion and other high-end products may use click-based (PPC) affiliate models."
         },
         {
@@ -1374,6 +1500,7 @@ const quizData = {
                 { letter: "D", text: "The affiliate's number of past brand partnerships" }
             ],
             answer: "B",
+            topic: "Affiliate Marketing Basics & Commission Models",
             explanation: "Merchants look beyond follower count to engagement, audience interaction, relevance, and ability to generate actual customer action — a smaller, highly engaged creator can be more valuable than a larger one with low engagement."
         },
         {
@@ -1385,6 +1512,7 @@ const quizData = {
                 { letter: "D", text: "It has no impact on commission disputes" }
             ],
             answer: "B",
+            topic: "Affiliate Marketing Basics & Commission Models",
             explanation: "Cookie duration (tracking duration) determines how long a customer's activity can be attributed to the affiliate; without proper tracking, commission disputes can occur."
         },
         {
@@ -1396,6 +1524,7 @@ const quizData = {
                 { letter: "D", text: "LinkedIn Ads" }
             ],
             answer: "D",
+            topic: "Affiliate Marketing Basics & Commission Models",
             explanation: "The lecture lists Amazon Associates, Flipkart, Meesho, Shopify, EarnKaro, and CashKaro as platforms/examples discussed — LinkedIn Ads was not mentioned in this context."
         }
     ],
