@@ -21,6 +21,7 @@
     <nav>
         <a href="index.html">Home</a>
         <a href="Course_Outline_and_Progress.html">Course Guide</a>
+        <a href="Quizzes.html">Quizzes</a>
         <a href="Activities.html">Activities</a>
     </nav>
 
@@ -76,20 +77,28 @@
         <div id="quizArea" style="display: none;">
 
             <div class="quiz-top">
+
                 <button onclick="goBack()" class="quiz-back">
                     ← Choose Another Subject
                 </button>
 
                 <p id="progress"></p>
+
             </div>
 
             <div class="quiz-question">
+
                 <h2 id="questionText"></h2>
 
                 <div id="options"></div>
+
             </div>
 
-            <button id="nextButton" onclick="nextQuestion()" style="display: none;">
+            <button
+                id="nextButton"
+                onclick="nextQuestion()"
+                style="display: none;"
+            >
                 Next Question →
             </button>
 
@@ -130,7 +139,9 @@
             document.getElementById("quizResult").style.display = "none";
             document.getElementById("quizArea").style.display = "block";
 
-            document.getElementById("questionText").textContent = "Loading quiz...";
+            document.getElementById("questionText").textContent =
+                "Loading quiz...";
+
             document.getElementById("options").innerHTML = "";
 
             questions = await loadQuiz(subject);
@@ -139,8 +150,10 @@
             score = 0;
 
             if (questions.length === 0) {
+
                 document.getElementById("questionText").textContent =
                     "No quiz questions could be loaded.";
+
                 return;
             }
 
@@ -157,13 +170,15 @@
             document.getElementById("questionText").textContent =
                 question.question;
 
-            const optionsContainer = document.getElementById("options");
+            const optionsContainer =
+                document.getElementById("options");
 
             optionsContainer.innerHTML = "";
 
             question.options.forEach(option => {
 
-                const button = document.createElement("button");
+                const button =
+                    document.createElement("button");
 
                 button.className = "quiz-option";
 
@@ -174,9 +189,11 @@
                     selectAnswer(button, option.letter);
 
                 optionsContainer.appendChild(button);
+
             });
 
-            document.getElementById("nextButton").style.display = "none";
+            document.getElementById("nextButton").style.display =
+                "none";
         }
 
         function selectAnswer(selectedButton, selectedLetter) {
@@ -207,15 +224,20 @@
                             question.answer + "."
                         )
                     ) {
+
                         button.classList.add("correct");
+
                     }
 
                 });
+
             }
 
-            const explanation = document.createElement("p");
+            const explanation =
+                document.createElement("p");
 
-            explanation.className = "quiz-explanation";
+            explanation.className =
+                "quiz-explanation";
 
             explanation.innerHTML =
                 `<strong>Explanation:</strong> ${question.explanation}`;
@@ -223,7 +245,8 @@
             document.getElementById("options")
                 .appendChild(explanation);
 
-            document.getElementById("nextButton").style.display = "block";
+            document.getElementById("nextButton").style.display =
+                "block";
         }
 
         function nextQuestion() {
@@ -237,16 +260,22 @@
             } else {
 
                 showQuestion();
+
             }
         }
 
         function showResult() {
 
-            document.getElementById("quizArea").style.display = "none";
-            document.getElementById("quizResult").style.display = "block";
+            document.getElementById("quizArea").style.display =
+                "none";
+
+            document.getElementById("quizResult").style.display =
+                "block";
 
             const percentage =
-                Math.round((score / questions.length) * 100);
+                Math.round(
+                    (score / questions.length) * 100
+                );
 
             document.getElementById("scoreText").textContent =
                 `You scored ${score} out of ${questions.length} (${percentage}%).`;
@@ -254,8 +283,11 @@
 
         function restartQuiz() {
 
-            document.getElementById("quizResult").style.display = "none";
-            document.getElementById("quizArea").style.display = "block";
+            document.getElementById("quizResult").style.display =
+                "none";
+
+            document.getElementById("quizArea").style.display =
+                "block";
 
             currentQuestion = 0;
             score = 0;
@@ -265,28 +297,27 @@
 
         function goBack() {
 
-            document.getElementById("quizArea").style.display = "none";
-            document.getElementById("quizResult").style.display = "none";
-            document.getElementById("subjectSelection").style.display = "block";
+            document.getElementById("quizArea").style.display =
+                "none";
+
+            document.getElementById("quizResult").style.display =
+                "none";
+
+            document.getElementById("subjectSelection").style.display =
+                "block";
+        }
+
+        const params =
+            new URLSearchParams(window.location.search);
+
+        const subjectFromURL =
+            params.get("subject");
+
+        if (subjectFromURL) {
+            startQuiz(subjectFromURL);
         }
 
     </script>
-
-function goBack() {
-
-    document.getElementById("quizArea").style.display = "none";
-    document.getElementById("quizResult").style.display = "none";
-    document.getElementById("subjectSelection").style.display = "block";
-}
-
-const params = new URLSearchParams(window.location.search);
-const subjectFromURL = params.get("subject");
-
-if (subjectFromURL) {
-    startQuiz(subjectFromURL);
-}
-
-</script>
 
 </body>
 </html>
