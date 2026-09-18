@@ -12,7 +12,6 @@ const quizFiles = {
 };
 
 async function loadQuiz(subject) {
-
     const file = quizFiles[subject];
 
     if (!file) {
@@ -32,22 +31,22 @@ async function loadQuiz(subject) {
     const parser = new DOMParser();
     const document = parser.parseFromString(html, "text/html");
 
-    const paragraphs = document.querySelectorAll(
-        "main p, main li"
-    );
+    const elements = document.querySelectorAll("main p, main li");
 
     const questions = [];
     let current = null;
 
-    paragraphs.forEach(element => {
-
+    elements.forEach(element => {
         const text = element.textContent.trim();
 
         const questionMatch = text.match(/^Q\d+\.\s*(.+)$/);
 
         if (questionMatch) {
-
-            if (current && current.options.length === 4) {
+            if (
+                current &&
+                current.options.length === 4 &&
+                current.answer
+            ) {
                 questions.push(current);
             }
 
@@ -66,7 +65,6 @@ async function loadQuiz(subject) {
         const optionMatch = text.match(/^([A-D])\.\s*(.+)$/);
 
         if (optionMatch) {
-
             current.options.push({
                 letter: optionMatch[1],
                 text: optionMatch[2].trim()
@@ -75,28 +73,19 @@ async function loadQuiz(subject) {
             return;
         }
 
-        const answerMatch = text.match(
-            /^Answer:\s*([A-D])/i
-        );
+        const answerMatch = text.match(/^Answer:\s*([A-D])/i);
 
         if (answerMatch) {
-
-            current.answer =
-                answerMatch[1].toUpperCase();
-
+            current.answer = answerMatch[1].toUpperCase();
             return;
         }
 
-        const explanationMatch = text.match(
-            /^Explanation:\s*(.+)$/i
-        );
+        const explanationMatch =
+            text.match(/^Explanation:\s*(.+)$/i);
 
         if (explanationMatch) {
-
-            current.explanation =
-                explanationMatch[1].trim();
+            current.explanation = explanationMatch[1].trim();
         }
-
     });
 
     if (
