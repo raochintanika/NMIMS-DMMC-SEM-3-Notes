@@ -547,4 +547,130 @@ Use festive visuals combined with travel/upcoming-trip moments.
 **Targeting:** Demographic | Geographic | Behavioural | Contextual | Interest-Based | Device-Based  
 **Main principle:** Audience + Context + Intent → Objective → Format → Creative → Message
 
+## Lecture 4
+
+**Date:** 23 September 2026
+
+## 1. Buying Metrics & Campaign Objectives
+
+The lecture focused on choosing buying metrics according to the **campaign goal/objective**.
+
+- **CPM** — Cost Per Mille
+- **CPC** — Cost Per Click
+- **CPA** — Cost Per Acquisition
+- **CPL** — Cost Per Lead
+- **CPV** — Cost Per View
+- **CPI** — Cost Per Install
+
+## 2. Qualified Leads & Acquisition
+
+The lecture discussed **qualified leads** and **qualified acquisition**.
+
+A campaign can generate a large number of actions, but the quality of those actions also matters.
+
+## 3. Marketing Funnel & Measurement
+
+**Awareness → Engagement → Conversion → Business Value**
+
+The lecture connected media metrics with broader business outcomes.
+
+## 4. Bounce Rate
+
+**Bounce rate** was discussed as a website/app performance indicator and in relation to users leaving without continuing their journey.
+
+## 5. Attribution
+
+**Attribution** is used to understand which marketing touchpoints contributed to a conversion.
+
+### Models Discussed
+
+- Last-click
+- First-click
+- Multi-touch
+- View-through
+- Platform attribution
+
+## 6. Attribution Windows
+
+An **attribution window** is the period during which a conversion can be connected to an earlier marketing interaction.
+
+## 7. E-Commerce Conversion & Business Outcomes
+
+The lecture connected mobile campaign measurement with:
+
+- Installs
+- Paying users
+- Purchases
+- Revenue
+- Subscriptions
+
+One metric alone does not tell the full story.
+
+## 8. ROI & ROAS
+
+### ROI
+
+ROI looks at return relative to overall investment/cost.
+
+### ROAS
+
+**ROAS = Revenue from Ads ÷ Ad Spend**
+
+## 9. Mobile Measurement Platforms
+
+The lecture introduced **Mobile Measurement Platforms (MMPs)** as part of mobile measurement and attribution.
+
+## 10. Practical Attribution Activity
+
+The class worked through attribution examples to understand:
+
+- Which touchpoint receives credit
+- How attribution models change the result
+- Why the same campaign can appear different under different attribution models
+
+## 11. Media Plan Comparison Activity
+
+The class compared media plans using multiple campaign indicators.
+
+**Spend → Reach/Impressions → Clicks → Conversions → Revenue**
+
+## 12. Class Activity #3 — Changing App
+
+The class discussed a hypothetical app campaign where the **CPI was ₹15**.
+
+The exercise was to evaluate whether ₹15 CPI is actually good by looking beyond installs:
+
+- Number of installs
+- Paying users
+- Revenue
+- User lifetime value
+- ROAS
+- Overall business outcome
+
+### Key Idea
+
+A low CPI does not automatically mean a campaign is successful.
+
+## 13. Next Class
+
+The next class was indicated to focus on:
+
+- Measurement
+- Live dashboards
+
+## Quick Revision
+
+**CPM:** Cost per 1,000 impressions.
+**CPC:** Cost per click.
+**CPA:** Cost per acquisition.
+**CPL:** Cost per lead.
+**CPV:** Cost per view.
+**CPI:** Cost per install.
+**Attribution:** Assigning credit to marketing touchpoints contributing to a conversion.
+**Attribution Window:** Time period used to connect an interaction with a conversion.
+**ROI:** Return relative to investment/cost.
+**ROAS:** Revenue from Ads ÷ Ad Spend.
+**MMP:** Mobile Measurement Platform.
+**Core idea:** Evaluate campaigns according to their objective and connect media metrics to actual business value.
+
 <script src="assets/top-button.js"></script>

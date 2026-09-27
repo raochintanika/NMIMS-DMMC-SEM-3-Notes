@@ -547,4 +547,174 @@ To answer this, track relevant events and analyse their relationship with **purc
 
 **Core idea:** Track meaningful user actions, analyse the data, and identify which interactions and journeys contribute to important outcomes such as purchases.
 
+## Lecture 6
+
+**Date:** 22 September 2026
+
+## 1. Properties & Dimensions
+
+- The asset being tracked is called a **property**.
+- In reports, the first column is generally the **dimension**.
+- Other columns show **metrics**.
+- Additional dimensions can be added to analyse the report.
+
+### Examples of Dimensions
+
+- Country
+- Language
+- Age
+
+## 2. Landing Page Report
+
+The **Landing Page** report can be analysed using different dimensions and filters.
+
+## 3. E-Commerce Tracking
+
+The lecture discussed e-commerce tracking and the use of events to understand the customer journey on an e-commerce website.
+
+For WordPress/WooCommerce, the lecture discussed plugins and Google Tag Manager for analytics integration and tracking.
+
+## 4. E-Commerce Events
+
+### Discovery & Browsing
+
+- **view_item_list**
+- **select_item**
+- **view_item**
+
+### Cart Actions
+
+- **add_to_cart**
+- **remove_from_cart**
+- **view_cart**
+
+### Checkout & Purchase
+
+- **begin_checkout**
+- **add_shipping_info**
+- **add_payment_info**
+- **purchase**
+- **refund**
+
+## 5. Promotion
+
+**Promotion** was discussed in the context of marketing banners on a website, such as banners displayed on the home page.
+
+## 6. Transaction
+
+Transaction analysis includes:
+
+- Item ID
+- Transaction ID
+
+## 7. Retention & User Lifetime Value
+
+The lecture discussed **retention** and **user lifetime value**.
+
+### 120-Day Value Example
+
+If 100 users spent a total of ₹32,000:
+
+**Average 120-day value = ₹32,000 ÷ 100 = ₹320**
+
+## 8. E-Commerce Monetization Examples
+
+Examples discussed included:
+
+- Google Marine Layer 1998
+- Google Recycled Canvas Tote
+- Google 1998 Pickleball Set
+
+They were used to compare items viewed, add to carts, purchases, revenue, audience segments and retention.
+
+## 9. Purchase Journey
+
+The lecture discussed analysing the **purchase journey** from product discovery through cart and checkout to purchase.
+
+## 10. Retention Analysis
+
+The lecture discussed:
+
+- Day 7 retention
+- Continuous users
+- 120-day order value
+- Comparing Direct, Organic and Paid channels
+
+# Google Analytics 4 Exercise
+
+### Date Range
+
+**1st August – 31st August**
+
+### Acquisition → User Acquisition
+
+1. Which was the **best-performing source/medium combination** on the basis of **Engaged Sessions** and **Average Engagement Time**?
+
+2. Which was the **best-performing source/medium combination** based on **Returning Users**?
+
+3. Which was the **best-performing source/medium combination** based on **Event Count**?
+
+4. Which was the **best-performing source/medium combination** based on the **Add to Carts** event?
+
+5. Exclude **Direct / (none)** and **Google / organic** from consideration. Identify the source/medium combination that shows the strongest potential for driving purchases.
+
+6. Compare the **1st August–31st August** data with the previous period:
+   - Which source/medium combination has **lost share of purchases**?
+   - Which source/medium combination has **gained/increased its share of purchases**?
+
+## User Acquisition — Cohorts
+
+1. Looking at the **Day** view of the graph, on which day did the website acquire the **highest number of users**?
+
+2. Looking at the **Day** view, identify some days of the week that do not perform as well as the others.
+
+3. Change the graph to **Week**. Which week recorded the **highest number of users**?
+
+4. Which source/medium combination generated the **third highest amount of revenue**?
+
+## Non-Google Campaigns
+
+1. Which non-Google campaign generated the **highest number of engaged sessions**?
+
+2. Which non-Google campaign generated the **third highest number of add-to-carts**?
+
+3. Which non-Google campaign would you recommend increasing the budget for?
+
+## Monetization — Ecommerce Purchases
+
+**Sort by Items Viewed**
+
+1. Which product had a great number of add to carts, but poor sales? Why do you think this happened?
+
+2. What’s your opinion on the **Google Marine Layer 1998 Pullover** performance?
+
+3. Why do you think **Google Recycled Canvas Tote** has more add to carts than items viewed?
+
+4. Which product purchased by men contributed to maximum revenue?
+
+5. Prove that **18–24 year olds have a great intention to purchase**, but do not ultimately land up purchasing.
+
+## Purchase Journey
+
+1. Visit the website product page from **mobile and desktop** and share why the add-to-cart ratio is so skewed towards Desktop.
+
+2. Why is **Chrome** outperforming other browsers?
+
+## Retention
+
+1. Why is **Day 7 average time spent** most times better than **Day 1**?
+
+2. Out of **Direct, Organic and Paid**, which channel had the highest **120-day order value**?
+
+## Quick Revision
+
+**Property:** The asset being tracked.
+**Dimension:** A descriptive attribute used to organise/report data.
+**Metric:** A numerical measurement in a report.
+**E-commerce journey:** Discovery → Product → Cart → Checkout → Purchase.
+**Key e-commerce events:** view_item_list → select_item → view_item → add_to_cart → begin_checkout → purchase.
+**Transaction:** Includes identifiers such as item ID and transaction ID.
+**Retention:** Analysis of continued user activity/value over time.
+**120-day value:** Value generated by users over a 120-day period.
+
 <script src="assets/top-button.js"></script>

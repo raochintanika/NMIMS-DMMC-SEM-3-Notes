@@ -653,4 +653,300 @@ The quiz demonstrated that:
 **UTM Rule:** External traffic → UTM | Internal navigation → no UTM
 **Core Idea:** Media planning continues beyond campaign launch because digital campaigns require ongoing optimisation and measurement.
 
+## Lecture 5
+
+**Date:** 24 September 2026
+
+## 1. Self-Serve Media Buying
+
+In **self-serve media buying**, advertisers buy media through a platform/dashboard.
+
+Examples discussed:
+
+- Google
+- Meta
+- Amazon
+- LinkedIn
+- Snapchat
+
+## 2. Non-Self-Serve Media Buying
+
+In **non-self-serve media buying**, advertisers may need to:
+
+- Contact a person
+- Discuss the media opportunity
+- Negotiate pricing
+- Review previous campaign reports
+- Agree on the media deal
+
+## 3. Self-Serve vs Non-Self-Serve
+
+### Self-Serve
+
+- Dashboard access
+- Faster campaign changes
+- Real-time control
+- Bidding
+- Platform inventory
+
+### Non-Self-Serve
+
+- Human contact
+- Negotiation
+- Customised opportunities
+- Niche inventory
+
+## 4. Special & Custom Advertising
+
+Examples discussed:
+
+- Full-screen/takeover formats
+- Special site integrations
+- Influencer collaborations
+- Blogger collaborations
+- Airport advertising
+- Cinema advertising
+- Mall advertising
+
+## 5. Bulk & Reservation Buying
+
+### Bulk Buying
+
+Buying media in a **large quantity**.
+
+### Reservation Buying
+
+Buying/reserving media **in advance** for a particular period.
+
+The lecture discussed these approaches for large campaigns, large clients, festivals and high-demand periods.
+
+## 6. Google Ads & Google AdSense
+
+### Google Ads
+
+The lecture described Google Ads as the platform where **marketers spend money** to advertise.
+
+### Google AdSense
+
+The lecture described AdSense as a platform through which **publishers/content creators earn money** by displaying ads.
+
+**Google Ads → Marketer spends**
+
+**Google AdSense → Publisher/content creator earns**
+
+## 7. Programmatic Advertising
+
+**Programmatic advertising** involves automated buying and selling of digital advertising inventory.
+
+The ecosystem discussed included:
+
+- Advertiser
+- Publisher
+- DSP
+- SSP
+- Ad Exchange
+- Audience/data inputs
+
+### DSP — Demand-Side Platform
+
+Used by advertisers to buy advertising inventory.
+
+### SSP — Supply-Side Platform
+
+Used on the publisher side to make inventory available.
+
+### Ad Exchange
+
+Connects the buying and selling sides.
+
+## 8. Real-Time Bidding
+
+**RTB — Real-Time Bidding** is an automated auction process in which advertising inventory can be bid for in real time.
+
+Other arrangements discussed:
+
+- Real-Time Bidding
+- Private Marketplaces
+- Programmatic Guaranteed
+
+## 9. Benefits & Limitations of Programmatic
+
+### Benefits Discussed
+
+- Automation
+- Efficiency
+- Larger reach
+- Multiple publishers/platforms
+- Measurement
+- Budget optimisation
+
+### Limitations Discussed
+
+Advanced programmatic platforms can involve:
+
+- Licences
+- Technology costs
+- Large-spender requirements
+- Access limitations for smaller advertisers/agencies
+
+## 10. Google Ads vs DV360
+
+### Google Ads
+
+- More accessible to regular advertisers
+- Search advertising is important
+
+### DV360
+
+- Discussed in relation to larger advertisers/agencies
+- Stronger focus on display/video inventory
+- Associated with larger-scale programmatic buying
+
+## 11. Brand Collaborations
+
+Two brands can collaborate when they have a **shared audience**.
+
+Reasons discussed:
+
+- Shared audience
+- Cost efficiency
+- Cross-promotion
+- Access to another brand's audience
+
+The **Barbie** campaign was discussed as an example of extensive brand collaborations.
+
+## 12. Paid, Owned & Earned Media
+
+### Paid Media
+
+Media where the brand pays for distribution or promotion.
+
+### Owned Media
+
+Channels/assets controlled by the brand.
+
+### Earned Media
+
+Organic attention, sharing, publicity or virality around the brand.
+
+The **Shot on iPhone** example was discussed to explain how user-generated content can move across owned, paid and earned media.
+
+## 13. Traffic Objectives & Destinations
+
+Traffic campaigns can direct users to:
+
+- Website
+- App
+- WhatsApp
+- Messenger
+- Instagram profile
+- Facebook profile
+- Phone call
+
+## 14. Link Clicks vs Landing Page Views
+
+### Link Click
+
+The user clicks the advertising link.
+
+### Landing Page View
+
+The user clicks and successfully loads the destination page.
+
+The numbers can differ because a user may click but fail to successfully load the destination page.
+
+## 15. Meta Bid Strategy
+
+### Highest Volume
+
+The platform attempts to get the highest number of results possible.
+
+### Cost Per Result Goal
+
+The marketer provides a desired cost/result target.
+
+**Highest Volume → Platform optimises for volume**
+
+**Cost Per Result Goal → Marketer provides the target**
+
+## 16. Budget Strategy
+
+### Daily Budget
+
+A daily spending limit.
+
+### Lifetime Budget
+
+A budget for the overall campaign duration.
+
+## 17. Location Targeting
+
+Location targeting can include:
+
+- Country
+- City
+- Road/area
+- Pin code
+- Latitude and longitude
+- Dropped pins
+- Bulk location uploads
+
+## 18. Detailed Targeting
+
+### Demographics
+
+Information users proactively provide in their profiles.
+
+Examples:
+- Age
+- Gender
+- Education
+
+### Interest
+
+Signals based on what users engage with or appear interested in.
+
+### Behaviour
+
+Signals inferred from what users do.
+
+Examples discussed:
+- Device used
+- Internet usage
+- Travel behaviour
+- Purchase behaviour
+
+## 19. AND / OR Logic in Targeting
+
+Items within one targeting bucket can work with **OR logic**.
+
+Example:
+
+**Graduate OR interested in Netflix**
+
+Combining multiple targeting groups can narrow the audience.
+
+## Quick Revision
+
+**Self-Serve:** Buy media directly through a platform/dashboard.
+**Non-Self-Serve:** Human contact, negotiation and customised buying.
+**Bulk Buying:** Buy media in large quantity.
+**Reservation Buying:** Reserve media in advance.
+**Google Ads:** Marketer spends.
+**Google AdSense:** Publisher/content creator earns.
+**DSP:** Demand-Side Platform.
+**SSP:** Supply-Side Platform.
+**RTB:** Real-Time Bidding.
+**Programmatic:** Automated buying and selling of digital ad inventory.
+**Paid:** Paid distribution.
+**Owned:** Brand-controlled channels/assets.
+**Earned:** Organic attention/virality.
+**Link Click:** User clicks the link.
+**Landing Page View:** Destination page successfully loads.
+**Highest Volume:** Platform optimises for volume.
+**Cost Per Result Goal:** Marketer sets a desired cost/result target.
+**Daily Budget:** Daily spending control.
+**Lifetime Budget:** Budget managed across the campaign duration.
+**Targeting:** Demographics + Interest + Behaviour.
+
 <script src="assets/top-button.js"></script>
