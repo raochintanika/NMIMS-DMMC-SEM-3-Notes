@@ -157,4 +157,213 @@ Study:
 - How?
 - Benefits?
 
+## Lecture 3
+**Date:** 28 September 2026
+
+## 1. Copyright Protection
+
+Copyright protects **creative expressions**.
+
+Examples discussed:
+- Movies
+- Series
+- Artwork
+- Songs
+- Literature
+- Books
+- Magazines
+- Newspapers
+- Audio
+- Other original creative work
+
+### Originality
+
+The main thrust of copyright protection is **originality**.
+
+A work must be an **original expression of an idea**.
+
+### Ideas vs Creative Expression
+
+A **mere idea** does not receive copyright protection.
+
+The idea has to be expressed and captured in some form, such as through video, audio, writing or visual work.
+
+## 2. Copyright vs Trademark
+
+### Copyright
+
+Protects **creative expression**.
+
+### Trademark
+
+A trademark acts as a **source identifier** for a brand.
+
+Examples discussed:
+- Brand name
+- Logo
+- Tagline
+
+Brands such as Nike, McDonald's, Adidas and Starbucks were used as examples.
+
+**Copyright → Creative expression**
+
+**Trademark → Brand/source identifier**
+
+## 3. Copyright Protection Timeline
+
+The class discussed copyright protection as lasting for:
+
+**Life of the author + 60 years**
+
+After the protection period ends, the work enters the **public domain**.
+
+## 4. Design Protection
+
+Design protection was discussed separately from copyright.
+
+The class noted:
+
+**Design protection → 15 years**
+
+The reason discussed was that design and fashion are fast-moving industries.
+
+## 5. Trademark Protection
+
+The class discussed trademark protection as potentially continuing **forever**, provided the relevant requirements for continued protection are met.
+
+Examples of distinctive brand elements discussed included:
+- Red associated with a shoe brand
+- Tiffany's blue
+- Cadbury's purple
+
+These examples were used to explain that distinctive visual elements, including colours, can sometimes receive trademark protection.
+
+# Fair Use
+
+## 6. Fair Use — Section 52, India
+
+The class discussed **Section 52 of the Indian Copyright Act** in relation to fair dealing/fair use situations.
+
+Examples discussed included:
+- Educational purposes
+- Research
+- Criticism
+- Review
+- Commentary
+- Creating videos in relevant contexts
+
+The class also discussed creators using songs, movie clips or series clips and giving appropriate disclaimer/credit.
+
+## 7. Re-contextualisation & Transformation
+
+A major concept discussed was **transformation**.
+
+When an original work is changed, re-contextualised and given a substantially different expression or meaning, the use may be considered in the context of fair use/fair dealing depending on the applicable law and circumstances.
+
+Terms discussed:
+- Re-contextualise
+- Transform
+- Adapt
+- Change the original meaning/expression
+
+## 8. Campbell v. Acuff-Rose Music
+
+The class discussed **Campbell v. Acuff-Rose Music** involving **2 Live Crew**.
+
+The original song was presented as a romantic love song.
+
+2 Live Crew:
+- Changed the lyrics
+- Changed the beat
+- Changed the vibe
+- Re-contextualised the original expression
+- Created a parody
+
+### Parody
+
+**Parody** is a humorous or mocking adaptation of an original work.
+
+The class discussion focused on how transformation and parody were relevant to the fair-use analysis in this case.
+
+### Key Concept
+
+**Transformation + Re-contextualisation + Parody**
+
+# Personality Rights
+
+## 9. Celebrity / Personality Rights
+
+The class continued the earlier discussion of celebrities and their **economic associative value**.
+
+Famous people can have **personality rights** protecting aspects of their identity.
+
+Elements discussed included:
+- Name
+- Image
+- Persona
+- Voice
+
+The class discussed how unauthorised uses of a celebrity's identity can raise personality-rights issues.
+
+## 10. Examples Discussed in Class
+
+Examples/cases discussed included:
+- Hrithik Roshan
+- Amitabh Bachchan
+- Asha Bhosle
+- R. Madhavan
+- Karan Johar
+- Aishwarya Rai Bachchan
+- Abhishek Bachchan
+
+The examples involved issues such as unauthorised use of images, names, voices and personas.
+
+### Voice Protection
+
+The class specifically discussed protection relating to **Asha Bhosle's voice** and the issue of unauthorised voice cloning/use through AI.
+
+## 11. Harry Potter / Hari Putra Discussion
+
+The class discussed a **Harry Potter / Hari Putra** copyright-related case.
+
+The discussion focused on:
+- Similarity between creative expressions
+- Copyright infringement
+- Transformation/parody
+- How courts evaluate similarity and audience/context
+
+# Homework
+
+## Disclaimer-Oriented Reels
+
+Students were asked to find creators/pages that use copyrighted clips, songs or other copyrighted material and provide **disclaimers/credits**.
+
+### What to Collect
+
+Take screenshots showing examples where creators:
+- Give credit to the original creator
+- State that they do not own the rights
+- Mention educational/commentary/entertainment purposes
+- Include relevant disclaimer language
+
+### Next Class
+
+Bring the screenshots to the next class and discuss the examples.
+
+# Quick Revision
+
+**Copyright:** Protects original creative expression.
+**Idea:** A mere idea does not receive copyright protection until expressed in a protected form.
+**Trademark:** Source identifier for a brand.
+**Copyright timeline discussed:** Life of author + 60 years.
+**Design protection discussed:** 15 years.
+**Trademark:** Discussed as potentially continuing indefinitely with continued protection requirements.
+**Section 52:** Indian Copyright Act provision discussed in relation to fair dealing/fair use.
+**Transformation:** Changing/re-contextualising an original work into a different expression or meaning.
+**Parody:** Humorous or mocking adaptation of an original work.
+**Case:** Campbell v. Acuff-Rose Music — 2 Live Crew.
+**Personality Rights:** Protection associated with identity elements such as name, image, persona and voice.
+**AI connection:** Unauthorised voice cloning/use can raise personality-rights issues.
+**Homework:** Find disclaimer-oriented reels and bring screenshots with credits/disclaimer examples.
+
 <script src="assets/top-button.js"></script>
